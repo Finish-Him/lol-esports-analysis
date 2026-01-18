@@ -1,0 +1,90 @@
+# ===========================
+# LoL Esports Data Project
+# ===========================
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ----- Virtual Environments -----
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ----- IDE / Editor -----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ----- Jupyter Notebooks -----
+.ipynb_checkpoints/
+*.ipynb
+
+# ----- OS Files -----
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ----- Large Data Files -----
+# CSV files are too large for GitHub (100MB limit per file)
+# Total CSV size: ~740MB
+Data/CSV/
+Data/parquet/
+*.xlsx
+
+# Keep JSON and Markdown (small files with aggregated data)
+
+# ----- Zip Files -----
+Zip/
+*.zip
+*.rar
+*.7z
+
+# ----- Logs -----
+*.log
+logs/
+
+# ----- Temporary Files -----
+*.tmp
+*.temp
+*.bak
+
+# ----- Credentials / Secrets -----
+*.key
+*.pem
+secrets.json
+credentials.json
+.env.local
+.env.*.local

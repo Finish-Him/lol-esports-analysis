@@ -1,0 +1,2623 @@
+{
+  "ano": 2026,
+  "resumo": {
+    "total_partidas": 185,
+    "total_times": 103,
+    "total_jogadores": 517,
+    "total_campeoes": 120,
+    "total_ligas": 11,
+    "total_patches": 1,
+    "duracao_media_min": 32.0,
+    "blue_winrate": 49.7
+  },
+  "patches": {
+    "16.01": {
+      "partidas": 185,
+      "duracao_media_min": 32.0,
+      "blue_winrate": 49.7,
+      "campeoes_unicos": 120,
+      "top_campeoes": {
+        "Yunara": {
+          "games": 66,
+          "winrate": 51.5
+        },
+        "Corki": {
+          "games": 60,
+          "winrate": 50.0
+        },
+        "Alistar": {
+          "games": 58,
+          "winrate": 53.4
+        },
+        "Wukong": {
+          "games": 58,
+          "winrate": 41.4
+        },
+        "K'Sante": {
+          "games": 56,
+          "winrate": 53.6
+        },
+        "Ryze": {
+          "games": 56,
+          "winrate": 53.6
+        },
+        "Ambessa": {
+          "games": 54,
+          "winrate": 59.3
+        },
+        "Orianna": {
+          "games": 48,
+          "winrate": 47.9
+        },
+        "Jarvan IV": {
+          "games": 47,
+          "winrate": 55.3
+        },
+        "Taliyah": {
+          "games": 46,
+          "winrate": 52.2
+        },
+        "Sion": {
+          "games": 45,
+          "winrate": 40.0
+        },
+        "Xin Zhao": {
+          "games": 45,
+          "winrate": 42.2
+        },
+        "Rumble": {
+          "games": 42,
+          "winrate": 50.0
+        },
+        "Azir": {
+          "games": 41,
+          "winrate": 39.0
+        },
+        "Rell": {
+          "games": 40,
+          "winrate": 47.5
+        }
+      }
+    }
+  },
+  "ligas": {
+    "LIT": {
+      "partidas": 20,
+      "times_unicos": 8,
+      "jogadores_unicos": 44,
+      "duracao_media_min": 32.3,
+      "blue_winrate": 55.0,
+      "top_times": {
+        "Axolotl": {
+          "games": 5,
+          "winrate": 20.0
+        },
+        "Colossal Gaming": {
+          "games": 5,
+          "winrate": 100.0
+        },
+        "Deacoy": {
+          "games": 5,
+          "winrate": 60.0
+        },
+        "EKO Esports": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "GMBLERS Esports": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "HMBLE": {
+          "games": 5,
+          "winrate": 80.0
+        },
+        "P11 Esports": {
+          "games": 5,
+          "winrate": 20.0
+        },
+        "Zena Esports": {
+          "games": 5,
+          "winrate": 40.0
+        }
+      },
+      "top_campeoes": {
+        "Corki": {
+          "games": 14,
+          "winrate": 57.1
+        },
+        "Syndra": {
+          "games": 8,
+          "winrate": 62.5
+        },
+        "K'Sante": {
+          "games": 7,
+          "winrate": 85.7
+        },
+        "Rell": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "Wukong": {
+          "games": 7,
+          "winrate": 14.3
+        },
+        "Sion": {
+          "games": 6,
+          "winrate": 50.0
+        },
+        "Sivir": {
+          "games": 6,
+          "winrate": 50.0
+        },
+        "Bard": {
+          "games": 5,
+          "winrate": 100.0
+        },
+        "Braum": {
+          "games": 5,
+          "winrate": 60.0
+        },
+        "Jarvan IV": {
+          "games": 5,
+          "winrate": 80.0
+        }
+      }
+    },
+    "LCKC": {
+      "partidas": 22,
+      "times_unicos": 10,
+      "jogadores_unicos": 50,
+      "duracao_media_min": 31.5,
+      "blue_winrate": 59.1,
+      "top_times": {
+        "BNK FEARX Youth": {
+          "games": 5,
+          "winrate": 20.0
+        },
+        "DN SOOPers Challengers": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "HANJIN BRION Challengers": {
+          "games": 5,
+          "winrate": 60.0
+        },
+        "T1 Esports Academy": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "Dplus Kia Challengers": {
+          "games": 4,
+          "winrate": 50.0
+        },
+        "DRX Challengers": {
+          "games": 4,
+          "winrate": 50.0
+        },
+        "Gen.G Global Academy": {
+          "games": 4,
+          "winrate": 0.0
+        },
+        "Hanwha Life Esports Challengers": {
+          "games": 4,
+          "winrate": 50.0
+        },
+        "KT Rolster Challengers": {
+          "games": 4,
+          "winrate": 100.0
+        },
+        "Nongshim Esports Academy": {
+          "games": 4,
+          "winrate": 100.0
+        }
+      },
+      "top_campeoes": {
+        "Taliyah": {
+          "games": 10,
+          "winrate": 60.0
+        },
+        "Alistar": {
+          "games": 9,
+          "winrate": 66.7
+        },
+        "Yunara": {
+          "games": 9,
+          "winrate": 44.4
+        },
+        "K'Sante": {
+          "games": 8,
+          "winrate": 50.0
+        },
+        "Ryze": {
+          "games": 8,
+          "winrate": 50.0
+        },
+        "Ambessa": {
+          "games": 7,
+          "winrate": 85.7
+        },
+        "Jarvan IV": {
+          "games": 7,
+          "winrate": 57.1
+        },
+        "Nautilus": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "Vi": {
+          "games": 7,
+          "winrate": 85.7
+        },
+        "Aphelios": {
+          "games": 6,
+          "winrate": 66.7
+        }
+      }
+    },
+    "AL": {
+      "partidas": 19,
+      "times_unicos": 8,
+      "jogadores_unicos": 40,
+      "duracao_media_min": 32.1,
+      "blue_winrate": 42.1,
+      "top_times": {
+        "BAAM Esports": {
+          "games": 6,
+          "winrate": 50.0
+        },
+        "3BL Esports": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "Anubis Gaming": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "GnG Amazigh": {
+          "games": 5,
+          "winrate": 20.0
+        },
+        "NextGeneration Esports": {
+          "games": 5,
+          "winrate": 60.0
+        },
+        "Dragons Esports": {
+          "games": 4,
+          "winrate": 100.0
+        },
+        "FN Esports": {
+          "games": 4,
+          "winrate": 100.0
+        },
+        "One More Esports": {
+          "games": 4,
+          "winrate": 0.0
+        }
+      },
+      "top_campeoes": {
+        "Alistar": {
+          "games": 7,
+          "winrate": 28.6
+        },
+        "Nautilus": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "Wukong": {
+          "games": 7,
+          "winrate": 57.1
+        },
+        "Yunara": {
+          "games": 7,
+          "winrate": 71.4
+        },
+        "Ambessa": {
+          "games": 6,
+          "winrate": 66.7
+        },
+        "Corki": {
+          "games": 6,
+          "winrate": 0.0
+        },
+        "Orianna": {
+          "games": 6,
+          "winrate": 50.0
+        },
+        "Rell": {
+          "games": 6,
+          "winrate": 66.7
+        },
+        "Rumble": {
+          "games": 6,
+          "winrate": 83.3
+        },
+        "Ryze": {
+          "games": 6,
+          "winrate": 33.3
+        }
+      }
+    },
+    "ROL": {
+      "partidas": 28,
+      "times_unicos": 8,
+      "jogadores_unicos": 42,
+      "duracao_media_min": 32.1,
+      "blue_winrate": 53.6,
+      "top_times": {
+        "Dynasty": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "Frites Esports Club": {
+          "games": 7,
+          "winrate": 100.0
+        },
+        "Myth Esports": {
+          "games": 7,
+          "winrate": 14.3
+        },
+        "Once Upon A Team": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "Senshi eSports": {
+          "games": 7,
+          "winrate": 57.1
+        },
+        "The Bandits": {
+          "games": 7,
+          "winrate": 85.7
+        },
+        "ZennIT": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "mCon esports": {
+          "games": 7,
+          "winrate": 14.3
+        }
+      },
+      "top_campeoes": {
+        "Corki": {
+          "games": 16,
+          "winrate": 62.5
+        },
+        "Orianna": {
+          "games": 11,
+          "winrate": 36.4
+        },
+        "Yunara": {
+          "games": 11,
+          "winrate": 54.5
+        },
+        "Wukong": {
+          "games": 10,
+          "winrate": 30.0
+        },
+        "Azir": {
+          "games": 9,
+          "winrate": 44.4
+        },
+        "Jarvan IV": {
+          "games": 9,
+          "winrate": 22.2
+        },
+        "K'Sante": {
+          "games": 9,
+          "winrate": 22.2
+        },
+        "Leona": {
+          "games": 8,
+          "winrate": 50.0
+        },
+        "Rakan": {
+          "games": 8,
+          "winrate": 62.5
+        },
+        "Sejuani": {
+          "games": 8,
+          "winrate": 50.0
+        }
+      }
+    },
+    "LCK": {
+      "partidas": 24,
+      "times_unicos": 10,
+      "jogadores_unicos": 51,
+      "duracao_media_min": 30.1,
+      "blue_winrate": 54.2,
+      "top_times": {
+        "T1": {
+          "games": 6,
+          "winrate": 66.7
+        },
+        "BNK FEARX": {
+          "games": 5,
+          "winrate": 80.0
+        },
+        "DN SOOPers": {
+          "games": 5,
+          "winrate": 20.0
+        },
+        "DRX": {
+          "games": 5,
+          "winrate": 20.0
+        },
+        "Hanwha Life Esports": {
+          "games": 5,
+          "winrate": 20.0
+        },
+        "HANJIN BRION": {
+          "games": 5,
+          "winrate": 20.0
+        },
+        "KT Rolster": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "Dplus Kia": {
+          "games": 4,
+          "winrate": 100.0
+        },
+        "Gen.G": {
+          "games": 4,
+          "winrate": 100.0
+        },
+        "Nongshim RedForce": {
+          "games": 4,
+          "winrate": 50.0
+        }
+      },
+      "top_campeoes": {
+        "Ambessa": {
+          "games": 9,
+          "winrate": 66.7
+        },
+        "Ryze": {
+          "games": 9,
+          "winrate": 55.6
+        },
+        "Taliyah": {
+          "games": 9,
+          "winrate": 33.3
+        },
+        "Yunara": {
+          "games": 9,
+          "winrate": 44.4
+        },
+        "Xin Zhao": {
+          "games": 8,
+          "winrate": 37.5
+        },
+        "Alistar": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "Jarvan IV": {
+          "games": 7,
+          "winrate": 57.1
+        },
+        "Orianna": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "Pantheon": {
+          "games": 7,
+          "winrate": 85.7
+        },
+        "Sion": {
+          "games": 7,
+          "winrate": 14.3
+        }
+      }
+    },
+    "LPL": {
+      "partidas": 27,
+      "times_unicos": 12,
+      "jogadores_unicos": 60,
+      "duracao_media_min": 33.1,
+      "blue_winrate": 55.6,
+      "top_times": {
+        "Anyone's Legend": {
+          "games": 8,
+          "winrate": 50.0
+        },
+        "Bilibili Gaming": {
+          "games": 8,
+          "winrate": 75.0
+        },
+        "Invictus Gaming": {
+          "games": 8,
+          "winrate": 37.5
+        },
+        "JD Gaming": {
+          "games": 8,
+          "winrate": 62.5
+        },
+        "Weibo Gaming": {
+          "games": 6,
+          "winrate": 50.0
+        },
+        "Top Esports": {
+          "games": 4,
+          "winrate": 0.0
+        },
+        "EDward Gaming": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "LGD Gaming": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "LNG Esports": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "Oh My God": {
+          "games": 2,
+          "winrate": 0.0
+        }
+      },
+      "top_campeoes": {
+        "Varus": {
+          "games": 11,
+          "winrate": 72.7
+        },
+        "Alistar": {
+          "games": 10,
+          "winrate": 40.0
+        },
+        "Renekton": {
+          "games": 10,
+          "winrate": 40.0
+        },
+        "Azir": {
+          "games": 9,
+          "winrate": 33.3
+        },
+        "Yunara": {
+          "games": 9,
+          "winrate": 44.4
+        },
+        "K'Sante": {
+          "games": 8,
+          "winrate": 50.0
+        },
+        "Malphite": {
+          "games": 8,
+          "winrate": 37.5
+        },
+        "Sivir": {
+          "games": 8,
+          "winrate": 62.5
+        },
+        "Ambessa": {
+          "games": 7,
+          "winrate": 14.3
+        },
+        "Miss Fortune": {
+          "games": 7,
+          "winrate": 57.1
+        }
+      }
+    },
+    "HLL": {
+      "partidas": 8,
+      "times_unicos": 8,
+      "jogadores_unicos": 40,
+      "duracao_media_min": 30.0,
+      "blue_winrate": 37.5,
+      "top_times": {
+        "ALMO Players": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "GOAL": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "Gamespace Mediterranean College Esports": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "Howl Esports": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "Team Insidious": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "Team Paradox": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "Team Phantasma": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "WLGaming Esports": {
+          "games": 2,
+          "winrate": 100.0
+        }
+      },
+      "top_campeoes": {
+        "Ryze": {
+          "games": 4,
+          "winrate": 75.0
+        },
+        "Zaahen": {
+          "games": 4,
+          "winrate": 0.0
+        },
+        "Aphelios": {
+          "games": 3,
+          "winrate": 66.7
+        },
+        "Corki": {
+          "games": 3,
+          "winrate": 66.7
+        },
+        "Lulu": {
+          "games": 3,
+          "winrate": 33.3
+        },
+        "Renekton": {
+          "games": 3,
+          "winrate": 66.7
+        },
+        "Sion": {
+          "games": 3,
+          "winrate": 66.7
+        },
+        "Akali": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "Braum": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "K'Sante": {
+          "games": 2,
+          "winrate": 100.0
+        }
+      }
+    },
+    "NLC": {
+      "partidas": 5,
+      "times_unicos": 10,
+      "jogadores_unicos": 50,
+      "duracao_media_min": 34.7,
+      "blue_winrate": 40.0,
+      "top_times": {
+        "4 Swines & A Bum": {
+          "games": 1,
+          "winrate": 0.0
+        },
+        "Arctic Pandas": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "Bulldog Esports": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "DMG Esports": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "Deer Gaming": {
+          "games": 1,
+          "winrate": 0.0
+        },
+        "LEO": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "La BOMBAS": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "Lundqvist Lightside": {
+          "games": 1,
+          "winrate": 0.0
+        },
+        "Ruddy Corporation": {
+          "games": 1,
+          "winrate": 0.0
+        },
+        "Verdant": {
+          "games": 1,
+          "winrate": 0.0
+        }
+      },
+      "top_campeoes": {
+        "Orianna": {
+          "games": 3,
+          "winrate": 100.0
+        },
+        "Vi": {
+          "games": 3,
+          "winrate": 100.0
+        },
+        "Akali": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "Alistar": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "Ambessa": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "Aphelios": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "Dr. Mundo": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "Gragas": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "Lulu": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "Neeko": {
+          "games": 2,
+          "winrate": 0.0
+        }
+      }
+    },
+    "LCP": {
+      "partidas": 14,
+      "times_unicos": 8,
+      "jogadores_unicos": 41,
+      "duracao_media_min": 33.6,
+      "blue_winrate": 35.7,
+      "top_times": {
+        "Ground Zero Gaming": {
+          "games": 6,
+          "winrate": 50.0
+        },
+        "Deep Cross Gaming": {
+          "games": 5,
+          "winrate": 60.0
+        },
+        "Team Secret Whales": {
+          "games": 5,
+          "winrate": 80.0
+        },
+        "Fukuoka SoftBank HAWKS gaming": {
+          "games": 4,
+          "winrate": 0.0
+        },
+        "DetonatioN FocusMe": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "CTBC Flying Oyster": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "GAM Esports": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "MVK Esports": {
+          "games": 2,
+          "winrate": 100.0
+        }
+      },
+      "top_campeoes": {
+        "K'Sante": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "Ryze": {
+          "games": 5,
+          "winrate": 60.0
+        },
+        "Wukong": {
+          "games": 5,
+          "winrate": 80.0
+        },
+        "Yunara": {
+          "games": 5,
+          "winrate": 60.0
+        },
+        "Ahri": {
+          "games": 4,
+          "winrate": 75.0
+        },
+        "Aphelios": {
+          "games": 4,
+          "winrate": 25.0
+        },
+        "Corki": {
+          "games": 4,
+          "winrate": 25.0
+        },
+        "Dr. Mundo": {
+          "games": 4,
+          "winrate": 50.0
+        },
+        "Rakan": {
+          "games": 4,
+          "winrate": 75.0
+        },
+        "Renekton": {
+          "games": 4,
+          "winrate": 75.0
+        }
+      }
+    },
+    "LEC": {
+      "partidas": 9,
+      "times_unicos": 12,
+      "jogadores_unicos": 60,
+      "duracao_media_min": 34.4,
+      "blue_winrate": 33.3,
+      "top_times": {
+        "Karmine Corp Blue": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "Los Ratones": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "Natus Vincere": {
+          "games": 2,
+          "winrate": 100.0
+        },
+        "Shifters": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "Team Heretics": {
+          "games": 2,
+          "winrate": 0.0
+        },
+        "Team Vitality": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "Fnatic": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "G2 Esports": {
+          "games": 1,
+          "winrate": 0.0
+        },
+        "GiantX": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "Karmine Corp": {
+          "games": 1,
+          "winrate": 100.0
+        }
+      },
+      "top_campeoes": {
+        "Corki": {
+          "games": 7,
+          "winrate": 28.6
+        },
+        "Azir": {
+          "games": 6,
+          "winrate": 33.3
+        },
+        "Yunara": {
+          "games": 6,
+          "winrate": 83.3
+        },
+        "Alistar": {
+          "games": 5,
+          "winrate": 60.0
+        },
+        "K'Sante": {
+          "games": 5,
+          "winrate": 80.0
+        },
+        "Taliyah": {
+          "games": 5,
+          "winrate": 80.0
+        },
+        "Wukong": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "Ambessa": {
+          "games": 3,
+          "winrate": 66.7
+        },
+        "Nautilus": {
+          "games": 3,
+          "winrate": 0.0
+        },
+        "Orianna": {
+          "games": 3,
+          "winrate": 66.7
+        }
+      }
+    },
+    "CBLOL": {
+      "partidas": 9,
+      "times_unicos": 9,
+      "jogadores_unicos": 40,
+      "duracao_media_min": 30.1,
+      "blue_winrate": 44.4,
+      "top_times": {
+        "FURIA": {
+          "games": 3,
+          "winrate": 100.0
+        },
+        "Fluxo W7M": {
+          "games": 3,
+          "winrate": 0.0
+        },
+        "paiN Gaming": {
+          "games": 3,
+          "winrate": 0.0
+        },
+        "Vivo Keyd Stars": {
+          "games": 3,
+          "winrate": 66.7
+        },
+        "LOUD": {
+          "games": 2,
+          "winrate": 50.0
+        },
+        "Los Grandes": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "Leviatan": {
+          "games": 1,
+          "winrate": 0.0
+        },
+        "RED Canids": {
+          "games": 1,
+          "winrate": 100.0
+        },
+        "LØS": {
+          "games": 1,
+          "winrate": 100.0
+        }
+      },
+      "top_campeoes": {
+        "Ambessa": {
+          "games": 6,
+          "winrate": 50.0
+        },
+        "Varus": {
+          "games": 6,
+          "winrate": 83.3
+        },
+        "Alistar": {
+          "games": 5,
+          "winrate": 80.0
+        },
+        "Rumble": {
+          "games": 5,
+          "winrate": 40.0
+        },
+        "Jarvan IV": {
+          "games": 4,
+          "winrate": 50.0
+        },
+        "Leona": {
+          "games": 4,
+          "winrate": 25.0
+        },
+        "Ryze": {
+          "games": 4,
+          "winrate": 25.0
+        },
+        "Bard": {
+          "games": 3,
+          "winrate": 66.7
+        },
+        "Jayce": {
+          "games": 3,
+          "winrate": 66.7
+        },
+        "Orianna": {
+          "games": 3,
+          "winrate": 0.0
+        }
+      }
+    }
+  },
+  "times": {
+    "GMBLERS Esports": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "kills_media": 21.0,
+      "deaths_media": 17.0,
+      "dragons_media": 3.0,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LIT"
+      ]
+    },
+    "EKO Esports": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "kills_media": 21.8,
+      "deaths_media": 28.4,
+      "dragons_media": 2.2,
+      "barons_media": 0.8,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LIT"
+      ]
+    },
+    "Deacoy": {
+      "partidas": 5,
+      "winrate": 60.0,
+      "kills_media": 12.6,
+      "deaths_media": 14.8,
+      "dragons_media": 1.8,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LIT"
+      ]
+    },
+    "Zena Esports": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "kills_media": 16.2,
+      "deaths_media": 19.4,
+      "dragons_media": 3.2,
+      "barons_media": 0.8,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LIT"
+      ]
+    },
+    "Axolotl": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 14.8,
+      "deaths_media": 21.8,
+      "dragons_media": 0.8,
+      "barons_media": 0.2,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LIT"
+      ]
+    },
+    "P11 Esports": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 7.2,
+      "deaths_media": 18.2,
+      "dragons_media": 1.4,
+      "barons_media": 0.2,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LIT"
+      ]
+    },
+    "Colossal Gaming": {
+      "partidas": 5,
+      "winrate": 100.0,
+      "kills_media": 20.8,
+      "deaths_media": 5.6,
+      "dragons_media": 3.0,
+      "barons_media": 1.4,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LIT"
+      ]
+    },
+    "HMBLE": {
+      "partidas": 5,
+      "winrate": 80.0,
+      "kills_media": 24.6,
+      "deaths_media": 14.2,
+      "dragons_media": 2.8,
+      "barons_media": 1.2,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LIT"
+      ]
+    },
+    "DN SOOPers Challengers": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "kills_media": 16.0,
+      "deaths_media": 20.2,
+      "dragons_media": 2.6,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCKC"
+      ]
+    },
+    "BNK FEARX Youth": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 14.6,
+      "deaths_media": 21.2,
+      "dragons_media": 2.0,
+      "barons_media": 0.8,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCKC"
+      ]
+    },
+    "HANJIN BRION Challengers": {
+      "partidas": 5,
+      "winrate": 60.0,
+      "kills_media": 18.2,
+      "deaths_media": 14.4,
+      "dragons_media": 3.0,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCKC"
+      ]
+    },
+    "T1 Esports Academy": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "kills_media": 13.0,
+      "deaths_media": 16.8,
+      "dragons_media": 1.4,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCKC"
+      ]
+    },
+    "BAAM Esports": {
+      "partidas": 6,
+      "winrate": 50.0,
+      "kills_media": 21.7,
+      "deaths_media": 25.2,
+      "dragons_media": 2.83,
+      "barons_media": 0.83,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "AL"
+      ]
+    },
+    "NextGeneration Esports": {
+      "partidas": 5,
+      "winrate": 60.0,
+      "kills_media": 23.2,
+      "deaths_media": 18.8,
+      "dragons_media": 1.8,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "AL"
+      ]
+    },
+    "Myth Esports": {
+      "partidas": 7,
+      "winrate": 14.3,
+      "kills_media": 13.3,
+      "deaths_media": 21.6,
+      "dragons_media": 2.0,
+      "barons_media": 0.57,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "ROL"
+      ]
+    },
+    "Once Upon A Team": {
+      "partidas": 7,
+      "winrate": 42.9,
+      "kills_media": 14.4,
+      "deaths_media": 19.7,
+      "dragons_media": 1.86,
+      "barons_media": 0.86,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "ROL"
+      ]
+    },
+    "Frites Esports Club": {
+      "partidas": 7,
+      "winrate": 100.0,
+      "kills_media": 28.9,
+      "deaths_media": 9.0,
+      "dragons_media": 3.57,
+      "barons_media": 1.14,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "ROL"
+      ]
+    },
+    "Senshi eSports": {
+      "partidas": 7,
+      "winrate": 57.1,
+      "kills_media": 22.4,
+      "deaths_media": 19.7,
+      "dragons_media": 2.71,
+      "barons_media": 0.57,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "ROL"
+      ]
+    },
+    "The Bandits": {
+      "partidas": 7,
+      "winrate": 85.7,
+      "kills_media": 21.1,
+      "deaths_media": 12.3,
+      "dragons_media": 2.29,
+      "barons_media": 1.0,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "ROL"
+      ]
+    },
+    "mCon esports": {
+      "partidas": 7,
+      "winrate": 14.3,
+      "kills_media": 14.3,
+      "deaths_media": 27.6,
+      "dragons_media": 2.57,
+      "barons_media": 0.71,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "ROL"
+      ]
+    },
+    "ZennIT": {
+      "partidas": 7,
+      "winrate": 42.9,
+      "kills_media": 13.1,
+      "deaths_media": 14.1,
+      "dragons_media": 2.43,
+      "barons_media": 0.29,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "ROL"
+      ]
+    },
+    "Dynasty": {
+      "partidas": 7,
+      "winrate": 42.9,
+      "kills_media": 17.7,
+      "deaths_media": 21.6,
+      "dragons_media": 1.57,
+      "barons_media": 0.57,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "ROL"
+      ]
+    },
+    "3BL Esports": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "kills_media": 22.8,
+      "deaths_media": 20.8,
+      "dragons_media": 2.8,
+      "barons_media": 0.4,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "AL"
+      ]
+    },
+    "DN SOOPers": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 8.4,
+      "deaths_media": 14.2,
+      "dragons_media": 1.6,
+      "barons_media": 0.2,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCK"
+      ]
+    },
+    "KT Rolster": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "kills_media": 10.8,
+      "deaths_media": 16.4,
+      "dragons_media": 1.6,
+      "barons_media": 0.2,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCK"
+      ]
+    },
+    "Invictus Gaming": {
+      "partidas": 8,
+      "winrate": 37.5,
+      "kills_media": 12.0,
+      "deaths_media": 17.8,
+      "dragons_media": 2.0,
+      "barons_media": 0.5,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LPL"
+      ]
+    },
+    "Weibo Gaming": {
+      "partidas": 6,
+      "winrate": 50.0,
+      "kills_media": 18.0,
+      "deaths_media": 12.7,
+      "dragons_media": 3.0,
+      "barons_media": 1.17,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LPL"
+      ]
+    },
+    "HANJIN BRION": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 11.8,
+      "deaths_media": 18.8,
+      "dragons_media": 1.4,
+      "barons_media": 0.4,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCK"
+      ]
+    },
+    "JD Gaming": {
+      "partidas": 8,
+      "winrate": 62.5,
+      "kills_media": 17.0,
+      "deaths_media": 10.2,
+      "dragons_media": 2.5,
+      "barons_media": 0.75,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LPL"
+      ]
+    },
+    "Anubis Gaming": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "kills_media": 15.2,
+      "deaths_media": 19.2,
+      "dragons_media": 2.0,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "AL"
+      ]
+    },
+    "GnG Amazigh": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 13.6,
+      "deaths_media": 20.8,
+      "dragons_media": 1.8,
+      "barons_media": 0.4,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "AL"
+      ]
+    },
+    "DRX": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 13.2,
+      "deaths_media": 23.0,
+      "dragons_media": 2.2,
+      "barons_media": 0.4,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCK"
+      ]
+    },
+    "Anyone's Legend": {
+      "partidas": 8,
+      "winrate": 50.0,
+      "kills_media": 14.1,
+      "deaths_media": 16.0,
+      "dragons_media": 2.38,
+      "barons_media": 0.75,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LPL"
+      ]
+    },
+    "BNK FEARX": {
+      "partidas": 5,
+      "winrate": 80.0,
+      "kills_media": 18.0,
+      "deaths_media": 13.8,
+      "dragons_media": 1.8,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCK"
+      ]
+    },
+    "Bilibili Gaming": {
+      "partidas": 8,
+      "winrate": 75.0,
+      "kills_media": 18.1,
+      "deaths_media": 12.2,
+      "dragons_media": 2.5,
+      "barons_media": 0.88,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LPL"
+      ]
+    },
+    "Ground Zero Gaming": {
+      "partidas": 6,
+      "winrate": 50.0,
+      "kills_media": 13.8,
+      "deaths_media": 20.0,
+      "dragons_media": 1.83,
+      "barons_media": 0.67,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCP"
+      ]
+    },
+    "Team Secret Whales": {
+      "partidas": 5,
+      "winrate": 80.0,
+      "kills_media": 19.6,
+      "deaths_media": 10.2,
+      "dragons_media": 2.8,
+      "barons_media": 1.0,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCP"
+      ]
+    },
+    "Deep Cross Gaming": {
+      "partidas": 5,
+      "winrate": 60.0,
+      "kills_media": 20.0,
+      "deaths_media": 15.4,
+      "dragons_media": 3.6,
+      "barons_media": 0.6,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCP"
+      ]
+    },
+    "T1": {
+      "partidas": 6,
+      "winrate": 66.7,
+      "kills_media": 22.0,
+      "deaths_media": 14.3,
+      "dragons_media": 2.17,
+      "barons_media": 1.17,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCK"
+      ]
+    },
+    "Hanwha Life Esports": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 12.8,
+      "deaths_media": 21.6,
+      "dragons_media": 2.2,
+      "barons_media": 0.4,
+      "patches": [
+        16.01
+      ],
+      "ligas": [
+        "LCK"
+      ]
+    }
+  },
+  "jogadores": {
+    "Shanks": {
+      "partidas": 13,
+      "winrate": 46.2,
+      "kda_kills": 3.0,
+      "kda_deaths": 3.2,
+      "kda_assists": 7.2,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Azir": 2,
+        "Ryze": 2,
+        "Jarvan IV": 1,
+        "Vi": 1,
+        "Jayce": 1
+      },
+      "times": [
+        "Anubis Gaming",
+        "Anyone's Legend"
+      ]
+    }
+  },
+  "campeoes": {
+    "Gnar": {
+      "partidas": 19,
+      "winrate": 31.6,
+      "posicoes": {
+        "top": 19
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 19,
+          "mean": 31.6
+        }
+      }
+    },
+    "Xin Zhao": {
+      "partidas": 45,
+      "winrate": 42.2,
+      "posicoes": {
+        "jng": 45
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 45,
+          "mean": 42.2
+        }
+      }
+    },
+    "Ahri": {
+      "partidas": 19,
+      "winrate": 42.1,
+      "posicoes": {
+        "mid": 19
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 19,
+          "mean": 42.1
+        }
+      }
+    },
+    "Corki": {
+      "partidas": 60,
+      "winrate": 50.0,
+      "posicoes": {
+        "bot": 59,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 60,
+          "mean": 50.0
+        }
+      }
+    },
+    "Leona": {
+      "partidas": 35,
+      "winrate": 37.1,
+      "posicoes": {
+        "sup": 35
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 35,
+          "mean": 37.1
+        }
+      }
+    },
+    "Zaahen": {
+      "partidas": 27,
+      "winrate": 51.9,
+      "posicoes": {
+        "top": 25,
+        "jng": 1,
+        "sup": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 27,
+          "mean": 51.9
+        }
+      }
+    },
+    "Diana": {
+      "partidas": 6,
+      "winrate": 50.0,
+      "posicoes": {
+        "jng": 5,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 6,
+          "mean": 50.0
+        }
+      }
+    },
+    "Mel": {
+      "partidas": 9,
+      "winrate": 33.3,
+      "posicoes": {
+        "mid": 8,
+        "sup": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 9,
+          "mean": 33.3
+        }
+      }
+    },
+    "Sivir": {
+      "partidas": 31,
+      "winrate": 45.2,
+      "posicoes": {
+        "bot": 31
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 31,
+          "mean": 45.2
+        }
+      }
+    },
+    "Braum": {
+      "partidas": 26,
+      "winrate": 46.2,
+      "posicoes": {
+        "sup": 26
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 26,
+          "mean": 46.2
+        }
+      }
+    },
+    "Renekton": {
+      "partidas": 35,
+      "winrate": 51.4,
+      "posicoes": {
+        "top": 35
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 35,
+          "mean": 51.4
+        }
+      }
+    },
+    "Dr. Mundo": {
+      "partidas": 25,
+      "winrate": 48.0,
+      "posicoes": {
+        "jng": 24,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 25,
+          "mean": 48.0
+        }
+      }
+    },
+    "Rell": {
+      "partidas": 40,
+      "winrate": 47.5,
+      "posicoes": {
+        "sup": 40
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 40,
+          "mean": 47.5
+        }
+      }
+    },
+    "Galio": {
+      "partidas": 13,
+      "winrate": 46.2,
+      "posicoes": {
+        "mid": 12,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 13,
+          "mean": 46.2
+        }
+      }
+    },
+    "Miss Fortune": {
+      "partidas": 14,
+      "winrate": 57.1,
+      "posicoes": {
+        "bot": 14
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 14,
+          "mean": 57.1
+        }
+      }
+    },
+    "Ambessa": {
+      "partidas": 54,
+      "winrate": 59.3,
+      "posicoes": {
+        "top": 31,
+        "jng": 23
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 54,
+          "mean": 59.3
+        }
+      }
+    },
+    "Nocturne": {
+      "partidas": 11,
+      "winrate": 36.4,
+      "posicoes": {
+        "jng": 11
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 11,
+          "mean": 36.4
+        }
+      }
+    },
+    "Orianna": {
+      "partidas": 48,
+      "winrate": 47.9,
+      "posicoes": {
+        "mid": 48
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 48,
+          "mean": 47.9
+        }
+      }
+    },
+    "Ziggs": {
+      "partidas": 7,
+      "winrate": 14.3,
+      "posicoes": {
+        "bot": 5,
+        "mid": 2
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 7,
+          "mean": 14.3
+        }
+      }
+    },
+    "Alistar": {
+      "partidas": 58,
+      "winrate": 53.4,
+      "posicoes": {
+        "sup": 58
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 58,
+          "mean": 53.4
+        }
+      }
+    },
+    "K'Sante": {
+      "partidas": 56,
+      "winrate": 53.6,
+      "posicoes": {
+        "top": 56
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 56,
+          "mean": 53.6
+        }
+      }
+    },
+    "Wukong": {
+      "partidas": 58,
+      "winrate": 41.4,
+      "posicoes": {
+        "jng": 58
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 58,
+          "mean": 41.4
+        }
+      }
+    },
+    "Neeko": {
+      "partidas": 28,
+      "winrate": 60.7,
+      "posicoes": {
+        "sup": 27,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 28,
+          "mean": 60.7
+        }
+      }
+    },
+    "Jayce": {
+      "partidas": 20,
+      "winrate": 50.0,
+      "posicoes": {
+        "jng": 19,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 20,
+          "mean": 50.0
+        }
+      }
+    },
+    "Akali": {
+      "partidas": 25,
+      "winrate": 60.0,
+      "posicoes": {
+        "mid": 23,
+        "top": 2
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 25,
+          "mean": 60.0
+        }
+      }
+    },
+    "Yunara": {
+      "partidas": 66,
+      "winrate": 51.5,
+      "posicoes": {
+        "bot": 66
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 66,
+          "mean": 51.5
+        }
+      }
+    },
+    "Poppy": {
+      "partidas": 14,
+      "winrate": 57.1,
+      "posicoes": {
+        "sup": 8,
+        "jng": 5,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 14,
+          "mean": 57.1
+        }
+      }
+    },
+    "Jarvan IV": {
+      "partidas": 47,
+      "winrate": 55.3,
+      "posicoes": {
+        "jng": 47
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 47,
+          "mean": 55.3
+        }
+      }
+    },
+    "Ryze": {
+      "partidas": 56,
+      "winrate": 53.6,
+      "posicoes": {
+        "mid": 56
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 56,
+          "mean": 53.6
+        }
+      }
+    },
+    "Lucian": {
+      "partidas": 16,
+      "winrate": 43.8,
+      "posicoes": {
+        "bot": 16
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 16,
+          "mean": 43.8
+        }
+      }
+    },
+    "Bard": {
+      "partidas": 23,
+      "winrate": 65.2,
+      "posicoes": {
+        "sup": 23
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 23,
+          "mean": 65.2
+        }
+      }
+    },
+    "Rumble": {
+      "partidas": 42,
+      "winrate": 50.0,
+      "posicoes": {
+        "top": 41,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 42,
+          "mean": 50.0
+        }
+      }
+    },
+    "Rakan": {
+      "partidas": 39,
+      "winrate": 64.1,
+      "posicoes": {
+        "sup": 39
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 39,
+          "mean": 64.1
+        }
+      }
+    },
+    "Sion": {
+      "partidas": 45,
+      "winrate": 40.0,
+      "posicoes": {
+        "top": 44,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 45,
+          "mean": 40.0
+        }
+      }
+    },
+    "Viktor": {
+      "partidas": 17,
+      "winrate": 47.1,
+      "posicoes": {
+        "mid": 17
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 17,
+          "mean": 47.1
+        }
+      }
+    },
+    "Caitlyn": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "posicoes": {
+        "bot": 5
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 5,
+          "mean": 40.0
+        }
+      }
+    },
+    "Syndra": {
+      "partidas": 33,
+      "winrate": 57.6,
+      "posicoes": {
+        "mid": 33
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 33,
+          "mean": 57.6
+        }
+      }
+    },
+    "Aatrox": {
+      "partidas": 19,
+      "winrate": 26.3,
+      "posicoes": {
+        "top": 14,
+        "jng": 5
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 19,
+          "mean": 26.3
+        }
+      }
+    },
+    "Azir": {
+      "partidas": 41,
+      "winrate": 39.0,
+      "posicoes": {
+        "mid": 41
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 41,
+          "mean": 39.0
+        }
+      }
+    },
+    "Gwen": {
+      "partidas": 17,
+      "winrate": 76.5,
+      "posicoes": {
+        "top": 17
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 17,
+          "mean": 76.5
+        }
+      }
+    },
+    "Naafiri": {
+      "partidas": 8,
+      "winrate": 50.0,
+      "posicoes": {
+        "jng": 8
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 8,
+          "mean": 50.0
+        }
+      }
+    },
+    "Varus": {
+      "partidas": 37,
+      "winrate": 70.3,
+      "posicoes": {
+        "bot": 37
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 37,
+          "mean": 70.3
+        }
+      }
+    },
+    "Cassiopeia": {
+      "partidas": 8,
+      "winrate": 25.0,
+      "posicoes": {
+        "mid": 8
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 8,
+          "mean": 25.0
+        }
+      }
+    },
+    "Jhin": {
+      "partidas": 18,
+      "winrate": 22.2,
+      "posicoes": {
+        "bot": 18
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 18,
+          "mean": 22.2
+        }
+      }
+    },
+    "Nautilus": {
+      "partidas": 37,
+      "winrate": 45.9,
+      "posicoes": {
+        "sup": 36,
+        "jng": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 37,
+          "mean": 45.9
+        }
+      }
+    },
+    "Vi": {
+      "partidas": 29,
+      "winrate": 69.0,
+      "posicoes": {
+        "jng": 29
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 29,
+          "mean": 69.0
+        }
+      }
+    },
+    "Kai'Sa": {
+      "partidas": 26,
+      "winrate": 61.5,
+      "posicoes": {
+        "bot": 26
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 26,
+          "mean": 61.5
+        }
+      }
+    },
+    "Taliyah": {
+      "partidas": 46,
+      "winrate": 52.2,
+      "posicoes": {
+        "mid": 46
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 46,
+          "mean": 52.2
+        }
+      }
+    },
+    "Renata Glasc": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "posicoes": {
+        "sup": 5
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 5,
+          "mean": 40.0
+        }
+      }
+    },
+    "Trundle": {
+      "partidas": 8,
+      "winrate": 50.0,
+      "posicoes": {
+        "jng": 8
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 8,
+          "mean": 50.0
+        }
+      }
+    },
+    "Aphelios": {
+      "partidas": 35,
+      "winrate": 54.3,
+      "posicoes": {
+        "bot": 35
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 35,
+          "mean": 54.3
+        }
+      }
+    },
+    "Lulu": {
+      "partidas": 24,
+      "winrate": 50.0,
+      "posicoes": {
+        "sup": 24
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 24,
+          "mean": 50.0
+        }
+      }
+    },
+    "Qiyana": {
+      "partidas": 15,
+      "winrate": 66.7,
+      "posicoes": {
+        "jng": 14,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 15,
+          "mean": 66.7
+        }
+      }
+    },
+    "Nami": {
+      "partidas": 12,
+      "winrate": 41.7,
+      "posicoes": {
+        "sup": 12
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 12,
+          "mean": 41.7
+        }
+      }
+    },
+    "Anivia": {
+      "partidas": 8,
+      "winrate": 50.0,
+      "posicoes": {
+        "mid": 8
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 8,
+          "mean": 50.0
+        }
+      }
+    },
+    "Ezreal": {
+      "partidas": 26,
+      "winrate": 46.2,
+      "posicoes": {
+        "bot": 26
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 26,
+          "mean": 46.2
+        }
+      }
+    },
+    "Thresh": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "posicoes": {
+        "sup": 12
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 12,
+          "mean": 50.0
+        }
+      }
+    },
+    "Yorick": {
+      "partidas": 9,
+      "winrate": 44.4,
+      "posicoes": {
+        "top": 9
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 9,
+          "mean": 44.4
+        }
+      }
+    },
+    "Ashe": {
+      "partidas": 7,
+      "winrate": 42.9,
+      "posicoes": {
+        "bot": 7
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 7,
+          "mean": 42.9
+        }
+      }
+    },
+    "Aurora": {
+      "partidas": 14,
+      "winrate": 50.0,
+      "posicoes": {
+        "mid": 12,
+        "top": 2
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 14,
+          "mean": 50.0
+        }
+      }
+    },
+    "Ornn": {
+      "partidas": 11,
+      "winrate": 18.2,
+      "posicoes": {
+        "top": 11
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 11,
+          "mean": 18.2
+        }
+      }
+    },
+    "Karma": {
+      "partidas": 13,
+      "winrate": 23.1,
+      "posicoes": {
+        "sup": 13
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 13,
+          "mean": 23.1
+        }
+      }
+    },
+    "Tristana": {
+      "partidas": 5,
+      "winrate": 60.0,
+      "posicoes": {
+        "bot": 5
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 5,
+          "mean": 60.0
+        }
+      }
+    },
+    "Sejuani": {
+      "partidas": 13,
+      "winrate": 53.8,
+      "posicoes": {
+        "jng": 12,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 13,
+          "mean": 53.8
+        }
+      }
+    },
+    "Jax": {
+      "partidas": 12,
+      "winrate": 83.3,
+      "posicoes": {
+        "top": 12
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 12,
+          "mean": 83.3
+        }
+      }
+    },
+    "Malphite": {
+      "partidas": 20,
+      "winrate": 45.0,
+      "posicoes": {
+        "jng": 19,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 20,
+          "mean": 45.0
+        }
+      }
+    },
+    "Smolder": {
+      "partidas": 5,
+      "winrate": 0.0,
+      "posicoes": {
+        "bot": 5
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 5,
+          "mean": 0.0
+        }
+      }
+    },
+    "Pantheon": {
+      "partidas": 17,
+      "winrate": 52.9,
+      "posicoes": {
+        "jng": 16,
+        "sup": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 17,
+          "mean": 52.9
+        }
+      }
+    },
+    "Sylas": {
+      "partidas": 8,
+      "winrate": 50.0,
+      "posicoes": {
+        "jng": 4,
+        "mid": 4
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 8,
+          "mean": 50.0
+        }
+      }
+    },
+    "Rek'Sai": {
+      "partidas": 12,
+      "winrate": 66.7,
+      "posicoes": {
+        "top": 12
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 12,
+          "mean": 66.7
+        }
+      }
+    },
+    "Gragas": {
+      "partidas": 5,
+      "winrate": 60.0,
+      "posicoes": {
+        "top": 4,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 5,
+          "mean": 60.0
+        }
+      }
+    },
+    "LeBlanc": {
+      "partidas": 7,
+      "winrate": 57.1,
+      "posicoes": {
+        "mid": 7
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 7,
+          "mean": 57.1
+        }
+      }
+    },
+    "Lee Sin": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "posicoes": {
+        "jng": 5
+      },
+      "winrate_por_patch": {
+        "16.01": {
+          "count": 5,
+          "mean": 40.0
+        }
+      }
+    }
+  },
+  "bans_mais_comuns": {
+    "Jayce": 123,
+    "Orianna": 98,
+    "Malphite": 95,
+    "Neeko": 92,
+    "Rumble": 82,
+    "Ambessa": 75,
+    "Poppy": 62,
+    "Akali": 49,
+    "Azir": 47,
+    "Jarvan IV": 45,
+    "Varus": 38,
+    "Bard": 37,
+    "Sion": 36,
+    "Aphelios": 34,
+    "Sylas": 33,
+    "Alistar": 31,
+    "Nautilus": 30,
+    "Kai'Sa": 28,
+    "Lulu": 27,
+    "Yunara": 27
+  }
+}

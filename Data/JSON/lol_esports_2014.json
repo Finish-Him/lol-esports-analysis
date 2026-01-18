@@ -1,0 +1,8007 @@
+{
+  "ano": 2014,
+  "resumo": {
+    "total_partidas": 814,
+    "total_times": 64,
+    "total_jogadores": 327,
+    "total_campeoes": 104,
+    "total_ligas": 5,
+    "total_patches": 12,
+    "duracao_media_min": 38.1,
+    "blue_winrate": 58.2
+  },
+  "patches": {
+    "3.15": {
+      "partidas": 12,
+      "duracao_media_min": 40.7,
+      "blue_winrate": 66.7,
+      "campeoes_unicos": 39,
+      "top_campeoes": {
+        "Shyvana": {
+          "games": 11,
+          "winrate": 36.4
+        },
+        "Jinx": {
+          "games": 8,
+          "winrate": 75.0
+        },
+        "Thresh": {
+          "games": 8,
+          "winrate": 50.0
+        },
+        "Gragas": {
+          "games": 7,
+          "winrate": 42.9
+        },
+        "Lucian": {
+          "games": 7,
+          "winrate": 28.6
+        },
+        "Vi": {
+          "games": 7,
+          "winrate": 57.1
+        },
+        "Dr. Mundo": {
+          "games": 6,
+          "winrate": 33.3
+        },
+        "Lee Sin": {
+          "games": 6,
+          "winrate": 66.7
+        },
+        "Renekton": {
+          "games": 6,
+          "winrate": 50.0
+        },
+        "Annie": {
+          "games": 5,
+          "winrate": 60.0
+        }
+      }
+    },
+    "4.03": {
+      "partidas": 19,
+      "duracao_media_min": 35.0,
+      "blue_winrate": 63.2,
+      "campeoes_unicos": 43,
+      "top_campeoes": {
+        "Renekton": {
+          "games": 13,
+          "winrate": 61.5
+        },
+        "Elise": {
+          "games": 12,
+          "winrate": 58.3
+        },
+        "Shyvana": {
+          "games": 12,
+          "winrate": 58.3
+        },
+        "Thresh": {
+          "games": 12,
+          "winrate": 66.7
+        },
+        "Caitlyn": {
+          "games": 11,
+          "winrate": 18.2
+        },
+        "Lucian": {
+          "games": 11,
+          "winrate": 63.6
+        },
+        "Kha'Zix": {
+          "games": 10,
+          "winrate": 50.0
+        },
+        "Annie": {
+          "games": 8,
+          "winrate": 25.0
+        },
+        "Sivir": {
+          "games": 8,
+          "winrate": 75.0
+        },
+        "Evelynn": {
+          "games": 6,
+          "winrate": 100.0
+        }
+      }
+    },
+    "4.04": {
+      "partidas": 63,
+      "duracao_media_min": 38.1,
+      "blue_winrate": 57.1,
+      "campeoes_unicos": 64,
+      "top_campeoes": {
+        "Lucian": {
+          "games": 51,
+          "winrate": 52.9
+        },
+        "Shyvana": {
+          "games": 36,
+          "winrate": 47.2
+        },
+        "Thresh": {
+          "games": 34,
+          "winrate": 44.1
+        },
+        "Lee Sin": {
+          "games": 32,
+          "winrate": 53.1
+        },
+        "Elise": {
+          "games": 30,
+          "winrate": 53.3
+        },
+        "Caitlyn": {
+          "games": 28,
+          "winrate": 46.4
+        },
+        "Kha'Zix": {
+          "games": 28,
+          "winrate": 53.6
+        },
+        "Renekton": {
+          "games": 28,
+          "winrate": 53.6
+        },
+        "Karma": {
+          "games": 27,
+          "winrate": 55.6
+        },
+        "Evelynn": {
+          "games": 26,
+          "winrate": 50.0
+        }
+      }
+    },
+    "4.05": {
+      "partidas": 88,
+      "duracao_media_min": 37.3,
+      "blue_winrate": 59.1,
+      "campeoes_unicos": 60,
+      "top_campeoes": {
+        "Lucian": {
+          "games": 71,
+          "winrate": 62.0
+        },
+        "Elise": {
+          "games": 45,
+          "winrate": 66.7
+        },
+        "Lulu": {
+          "games": 45,
+          "winrate": 46.7
+        },
+        "Thresh": {
+          "games": 37,
+          "winrate": 45.9
+        },
+        "Morgana": {
+          "games": 34,
+          "winrate": 58.8
+        },
+        "Kha'Zix": {
+          "games": 33,
+          "winrate": 54.5
+        },
+        "Leona": {
+          "games": 33,
+          "winrate": 51.5
+        },
+        "Karma": {
+          "games": 31,
+          "winrate": 48.4
+        },
+        "Lee Sin": {
+          "games": 30,
+          "winrate": 50.0
+        },
+        "Nidalee": {
+          "games": 30,
+          "winrate": 56.7
+        }
+      }
+    },
+    "4.07": {
+      "partidas": 32,
+      "duracao_media_min": 38.8,
+      "blue_winrate": 46.9,
+      "campeoes_unicos": 47,
+      "top_campeoes": {
+        "Lucian": {
+          "games": 28,
+          "winrate": 64.3
+        },
+        "Lee Sin": {
+          "games": 25,
+          "winrate": 44.0
+        },
+        "Shyvana": {
+          "games": 21,
+          "winrate": 85.7
+        },
+        "Morgana": {
+          "games": 19,
+          "winrate": 63.2
+        },
+        "Thresh": {
+          "games": 19,
+          "winrate": 52.6
+        },
+        "Elise": {
+          "games": 17,
+          "winrate": 58.8
+        },
+        "Lulu": {
+          "games": 12,
+          "winrate": 50.0
+        },
+        "Evelynn": {
+          "games": 11,
+          "winrate": 72.7
+        },
+        "Kha'Zix": {
+          "games": 11,
+          "winrate": 18.2
+        },
+        "Twitch": {
+          "games": 11,
+          "winrate": 54.5
+        }
+      }
+    },
+    "4.08": {
+      "partidas": 44,
+      "duracao_media_min": 38.2,
+      "blue_winrate": 47.7,
+      "campeoes_unicos": 51,
+      "top_campeoes": {
+        "Lucian": {
+          "games": 36,
+          "winrate": 55.6
+        },
+        "Shyvana": {
+          "games": 32,
+          "winrate": 46.9
+        },
+        "Elise": {
+          "games": 27,
+          "winrate": 44.4
+        },
+        "Lee Sin": {
+          "games": 27,
+          "winrate": 74.1
+        },
+        "Thresh": {
+          "games": 27,
+          "winrate": 74.1
+        },
+        "Lulu": {
+          "games": 20,
+          "winrate": 55.0
+        },
+        "Twitch": {
+          "games": 20,
+          "winrate": 55.0
+        },
+        "Nami": {
+          "games": 17,
+          "winrate": 58.8
+        },
+        "Morgana": {
+          "games": 16,
+          "winrate": 37.5
+        },
+        "Evelynn": {
+          "games": 15,
+          "winrate": 40.0
+        }
+      }
+    },
+    "4.09": {
+      "partidas": 49,
+      "duracao_media_min": 39.2,
+      "blue_winrate": 57.1,
+      "campeoes_unicos": 45,
+      "top_campeoes": {
+        "Lucian": {
+          "games": 37,
+          "winrate": 48.6
+        },
+        "Thresh": {
+          "games": 32,
+          "winrate": 34.4
+        },
+        "Shyvana": {
+          "games": 30,
+          "winrate": 43.3
+        },
+        "Elise": {
+          "games": 28,
+          "winrate": 60.7
+        },
+        "Lee Sin": {
+          "games": 28,
+          "winrate": 39.3
+        },
+        "Braum": {
+          "games": 26,
+          "winrate": 42.3
+        },
+        "Morgana": {
+          "games": 25,
+          "winrate": 68.0
+        },
+        "Twitch": {
+          "games": 25,
+          "winrate": 48.0
+        },
+        "Lulu": {
+          "games": 23,
+          "winrate": 39.1
+        },
+        "Evelynn": {
+          "games": 15,
+          "winrate": 53.3
+        }
+      }
+    },
+    "4.1": {
+      "partidas": 48,
+      "duracao_media_min": 40.6,
+      "blue_winrate": 60.4,
+      "campeoes_unicos": 47,
+      "top_campeoes": {
+        "Lucian": {
+          "games": 30,
+          "winrate": 50.0
+        },
+        "Elise": {
+          "games": 28,
+          "winrate": 67.9
+        },
+        "Lee Sin": {
+          "games": 27,
+          "winrate": 51.9
+        },
+        "Lulu": {
+          "games": 26,
+          "winrate": 53.8
+        },
+        "Nami": {
+          "games": 23,
+          "winrate": 43.5
+        },
+        "Evelynn": {
+          "games": 22,
+          "winrate": 45.5
+        },
+        "Renekton": {
+          "games": 22,
+          "winrate": 40.9
+        },
+        "Thresh": {
+          "games": 21,
+          "winrate": 52.4
+        },
+        "Morgana": {
+          "games": 20,
+          "winrate": 50.0
+        },
+        "Jax": {
+          "games": 19,
+          "winrate": 47.4
+        }
+      }
+    },
+    "4.11": {
+      "partidas": 48,
+      "duracao_media_min": 38.4,
+      "blue_winrate": 56.2,
+      "campeoes_unicos": 49,
+      "top_campeoes": {
+        "Elise": {
+          "games": 31,
+          "winrate": 38.7
+        },
+        "Lucian": {
+          "games": 28,
+          "winrate": 64.3
+        },
+        "Braum": {
+          "games": 27,
+          "winrate": 55.6
+        },
+        "Gragas": {
+          "games": 26,
+          "winrate": 65.4
+        },
+        "Morgana": {
+          "games": 25,
+          "winrate": 32.0
+        },
+        "Thresh": {
+          "games": 25,
+          "winrate": 72.0
+        },
+        "Orianna": {
+          "games": 23,
+          "winrate": 43.5
+        },
+        "Lee Sin": {
+          "games": 20,
+          "winrate": 70.0
+        },
+        "Lulu": {
+          "games": 17,
+          "winrate": 29.4
+        },
+        "Tristana": {
+          "games": 17,
+          "winrate": 52.9
+        }
+      }
+    },
+    "4.12": {
+      "partidas": 65,
+      "duracao_media_min": 39.0,
+      "blue_winrate": 56.9,
+      "campeoes_unicos": 59,
+      "top_campeoes": {
+        "Kog'Maw": {
+          "games": 43,
+          "winrate": 62.8
+        },
+        "Elise": {
+          "games": 41,
+          "winrate": 51.2
+        },
+        "Tristana": {
+          "games": 39,
+          "winrate": 51.3
+        },
+        "Braum": {
+          "games": 35,
+          "winrate": 48.6
+        },
+        "Thresh": {
+          "games": 33,
+          "winrate": 39.4
+        },
+        "Gragas": {
+          "games": 32,
+          "winrate": 46.9
+        },
+        "Morgana": {
+          "games": 28,
+          "winrate": 60.7
+        },
+        "Orianna": {
+          "games": 25,
+          "winrate": 52.0
+        },
+        "Corki": {
+          "games": 24,
+          "winrate": 54.2
+        },
+        "Evelynn": {
+          "games": 22,
+          "winrate": 63.6
+        }
+      }
+    },
+    "4.13": {
+      "partidas": 43,
+      "duracao_media_min": 38.9,
+      "blue_winrate": 58.1,
+      "campeoes_unicos": 50,
+      "top_campeoes": {
+        "Tristana": {
+          "games": 28,
+          "winrate": 50.0
+        },
+        "Kog'Maw": {
+          "games": 25,
+          "winrate": 64.0
+        },
+        "Morgana": {
+          "games": 24,
+          "winrate": 54.2
+        },
+        "Maokai": {
+          "games": 23,
+          "winrate": 60.9
+        },
+        "Thresh": {
+          "games": 20,
+          "winrate": 45.0
+        },
+        "Ahri": {
+          "games": 18,
+          "winrate": 83.3
+        },
+        "Nami": {
+          "games": 18,
+          "winrate": 66.7
+        },
+        "Jarvan IV": {
+          "games": 16,
+          "winrate": 43.8
+        },
+        "Kha'Zix": {
+          "games": 16,
+          "winrate": 62.5
+        },
+        "Alistar": {
+          "games": 15,
+          "winrate": 40.0
+        }
+      }
+    },
+    "4.14": {
+      "partidas": 124,
+      "duracao_media_min": 36.2,
+      "blue_winrate": 65.3,
+      "campeoes_unicos": 67,
+      "top_campeoes": {
+        "Kha'Zix": {
+          "games": 90,
+          "winrate": 44.4
+        },
+        "Lucian": {
+          "games": 68,
+          "winrate": 48.5
+        },
+        "Thresh": {
+          "games": 61,
+          "winrate": 54.1
+        },
+        "Tristana": {
+          "games": 57,
+          "winrate": 49.1
+        },
+        "Nami": {
+          "games": 56,
+          "winrate": 46.4
+        },
+        "Lee Sin": {
+          "games": 55,
+          "winrate": 56.4
+        },
+        "Ryze": {
+          "games": 53,
+          "winrate": 54.7
+        },
+        "Maokai": {
+          "games": 46,
+          "winrate": 60.9
+        },
+        "Janna": {
+          "games": 45,
+          "winrate": 62.2
+        },
+        "Orianna": {
+          "games": 44,
+          "winrate": 54.5
+        }
+      }
+    }
+  },
+  "ligas": {
+    "EU CS": {
+      "partidas": 87,
+      "times_unicos": 18,
+      "jogadores_unicos": 85,
+      "duracao_media_min": 37.8,
+      "blue_winrate": 56.3,
+      "top_times": {
+        "Ninjas in Pyjamas": {
+          "games": 34,
+          "winrate": 55.9
+        },
+        "Reason Gaming": {
+          "games": 22,
+          "winrate": 36.4
+        },
+        "SK Gaming Prime": {
+          "games": 20,
+          "winrate": 60.0
+        },
+        "H2k-Gaming": {
+          "games": 19,
+          "winrate": 68.4
+        },
+        "Gamers2": {
+          "games": 17,
+          "winrate": 47.1
+        }
+      },
+      "top_campeoes": {
+        "Lucian": {
+          "games": 57,
+          "winrate": 54.4
+        },
+        "Thresh": {
+          "games": 53,
+          "winrate": 58.5
+        },
+        "Lee Sin": {
+          "games": 36,
+          "winrate": 50.0
+        },
+        "Elise": {
+          "games": 34,
+          "winrate": 50.0
+        },
+        "Shyvana": {
+          "games": 32,
+          "winrate": 46.9
+        },
+        "Morgana": {
+          "games": 29,
+          "winrate": 44.8
+        },
+        "Lulu": {
+          "games": 28,
+          "winrate": 35.7
+        },
+        "Orianna": {
+          "games": 27,
+          "winrate": 59.3
+        },
+        "Irelia": {
+          "games": 26,
+          "winrate": 42.3
+        },
+        "Jarvan IV": {
+          "games": 25,
+          "winrate": 64.0
+        }
+      }
+    },
+    "EU LCS": {
+      "partidas": 275,
+      "times_unicos": 11,
+      "jogadores_unicos": 68,
+      "duracao_media_min": 39.9,
+      "blue_winrate": 56.4,
+      "top_times": {
+        "Alliance": {
+          "games": 72,
+          "winrate": 63.9
+        },
+        "SK Gaming": {
+          "games": 72,
+          "winrate": 59.7
+        },
+        "Fnatic": {
+          "games": 71,
+          "winrate": 62.0
+        },
+        "Team ROCCAT": {
+          "games": 71,
+          "winrate": 47.9
+        },
+        "Copenhagen Wolves": {
+          "games": 64,
+          "winrate": 39.1
+        }
+      },
+      "top_campeoes": {
+        "Lucian": {
+          "games": 175,
+          "winrate": 50.3
+        },
+        "Thresh": {
+          "games": 139,
+          "winrate": 50.4
+        },
+        "Elise": {
+          "games": 129,
+          "winrate": 50.4
+        },
+        "Lee Sin": {
+          "games": 126,
+          "winrate": 50.8
+        },
+        "Morgana": {
+          "games": 101,
+          "winrate": 61.4
+        },
+        "Shyvana": {
+          "games": 96,
+          "winrate": 41.7
+        },
+        "Evelynn": {
+          "games": 93,
+          "winrate": 51.6
+        },
+        "Lulu": {
+          "games": 88,
+          "winrate": 46.6
+        },
+        "Renekton": {
+          "games": 85,
+          "winrate": 52.9
+        },
+        "Caitlyn": {
+          "games": 80,
+          "winrate": 42.5
+        }
+      }
+    },
+    "NA CS": {
+      "partidas": 92,
+      "times_unicos": 21,
+      "jogadores_unicos": 102,
+      "duracao_media_min": 36.6,
+      "blue_winrate": 62.0,
+      "top_times": {
+        "Curse Academy": {
+          "games": 30,
+          "winrate": 53.3
+        },
+        "Team LoLPro": {
+          "games": 24,
+          "winrate": 45.8
+        },
+        "LMQ": {
+          "games": 18,
+          "winrate": 83.3
+        },
+        "Team 8": {
+          "games": 18,
+          "winrate": 66.7
+        },
+        "Team Coast": {
+          "games": 17,
+          "winrate": 76.5
+        }
+      },
+      "top_campeoes": {
+        "Lucian": {
+          "games": 47,
+          "winrate": 55.3
+        },
+        "Elise": {
+          "games": 44,
+          "winrate": 59.1
+        },
+        "Thresh": {
+          "games": 44,
+          "winrate": 45.5
+        },
+        "Caitlyn": {
+          "games": 38,
+          "winrate": 44.7
+        },
+        "Lulu": {
+          "games": 38,
+          "winrate": 39.5
+        },
+        "Shyvana": {
+          "games": 38,
+          "winrate": 57.9
+        },
+        "Lee Sin": {
+          "games": 36,
+          "winrate": 50.0
+        },
+        "Renekton": {
+          "games": 35,
+          "winrate": 51.4
+        },
+        "Orianna": {
+          "games": 34,
+          "winrate": 38.2
+        },
+        "Morgana": {
+          "games": 27,
+          "winrate": 51.9
+        }
+      }
+    },
+    "NA LCS": {
+      "partidas": 282,
+      "times_unicos": 12,
+      "jogadores_unicos": 71,
+      "duracao_media_min": 37.5,
+      "blue_winrate": 59.2,
+      "top_times": {
+        "TSM": {
+          "games": 76,
+          "winrate": 64.5
+        },
+        "Team Curse": {
+          "games": 74,
+          "winrate": 41.9
+        },
+        "Counter Logic Gaming": {
+          "games": 70,
+          "winrate": 52.9
+        },
+        "Dignitas": {
+          "games": 70,
+          "winrate": 45.7
+        },
+        "Cloud9": {
+          "games": 69,
+          "winrate": 75.4
+        }
+      },
+      "top_campeoes": {
+        "Lucian": {
+          "games": 161,
+          "winrate": 54.7
+        },
+        "Elise": {
+          "games": 157,
+          "winrate": 59.2
+        },
+        "Thresh": {
+          "games": 156,
+          "winrate": 53.2
+        },
+        "Lulu": {
+          "games": 112,
+          "winrate": 56.2
+        },
+        "Lee Sin": {
+          "games": 108,
+          "winrate": 50.9
+        },
+        "Shyvana": {
+          "games": 104,
+          "winrate": 61.5
+        },
+        "Morgana": {
+          "games": 97,
+          "winrate": 45.4
+        },
+        "Renekton": {
+          "games": 82,
+          "winrate": 53.7
+        },
+        "Kha'Zix": {
+          "games": 75,
+          "winrate": 46.7
+        },
+        "Dr. Mundo": {
+          "games": 73,
+          "winrate": 45.2
+        }
+      }
+    },
+    "WLDs": {
+      "partidas": 78,
+      "times_unicos": 16,
+      "jogadores_unicos": 82,
+      "duracao_media_min": 36.1,
+      "blue_winrate": 59.0,
+      "top_times": {
+        "Royal Club": {
+          "games": 20,
+          "winrate": 60.0
+        },
+        "Samsung White": {
+          "games": 17,
+          "winrate": 88.2
+        },
+        "Oh My God": {
+          "games": 14,
+          "winrate": 57.1
+        },
+        "Samsung Blue": {
+          "games": 13,
+          "winrate": 61.5
+        },
+        "EDward Gaming": {
+          "games": 12,
+          "winrate": 50.0
+        }
+      },
+      "top_campeoes": {
+        "Kha'Zix": {
+          "games": 58,
+          "winrate": 43.1
+        },
+        "Janna": {
+          "games": 45,
+          "winrate": 62.2
+        },
+        "Lucian": {
+          "games": 44,
+          "winrate": 52.3
+        },
+        "Thresh": {
+          "games": 44,
+          "winrate": 54.5
+        },
+        "Lee Sin": {
+          "games": 43,
+          "winrate": 55.8
+        },
+        "Ryze": {
+          "games": 37,
+          "winrate": 59.5
+        },
+        "Tristana": {
+          "games": 32,
+          "winrate": 37.5
+        },
+        "Maokai": {
+          "games": 27,
+          "winrate": 63.0
+        },
+        "Orianna": {
+          "games": 27,
+          "winrate": 51.9
+        },
+        "Nami": {
+          "games": 26,
+          "winrate": 38.5
+        }
+      }
+    }
+  },
+  "times": {
+    "Fnatic": {
+      "partidas": 77,
+      "winrate": 59.7,
+      "kills_media": 13.8,
+      "deaths_media": 10.3,
+      "dragons_media": 0.0,
+      "barons_media": 0.79,
+      "torres_media": 7.62,
+      "patches": [
+        3.15,
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "EU LCS",
+        "WLDs"
+      ]
+    },
+    "Gambit Gaming": {
+      "partidas": 60,
+      "winrate": 38.3,
+      "kills_media": 11.5,
+      "deaths_media": 13.7,
+      "dragons_media": 0.0,
+      "barons_media": 0.63,
+      "torres_media": 5.18,
+      "patches": [
+        3.15,
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "EU LCS"
+      ]
+    },
+    "Copenhagen Wolves": {
+      "partidas": 64,
+      "winrate": 39.1,
+      "kills_media": 11.7,
+      "deaths_media": 15.2,
+      "dragons_media": 0.0,
+      "barons_media": 0.69,
+      "torres_media": 5.92,
+      "patches": [
+        3.15,
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "EU LCS"
+      ]
+    },
+    "Alliance": {
+      "partidas": 78,
+      "winrate": 62.8,
+      "kills_media": 13.1,
+      "deaths_media": 11.2,
+      "dragons_media": 0.0,
+      "barons_media": 0.91,
+      "torres_media": 7.42,
+      "patches": [
+        3.15,
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "EU LCS",
+        "WLDs"
+      ]
+    },
+    "SK Gaming": {
+      "partidas": 78,
+      "winrate": 57.7,
+      "kills_media": 12.5,
+      "deaths_media": 12.4,
+      "dragons_media": 0.0,
+      "barons_media": 0.65,
+      "torres_media": 7.12,
+      "patches": [
+        3.15,
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "EU LCS",
+        "WLDs"
+      ]
+    },
+    "Millenium": {
+      "partidas": 64,
+      "winrate": 37.5,
+      "kills_media": 13.9,
+      "deaths_media": 15.1,
+      "dragons_media": 0.0,
+      "barons_media": 0.69,
+      "torres_media": 5.48,
+      "patches": [
+        3.15,
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "EU LCS"
+      ]
+    },
+    "SUPA HOT CREW": {
+      "partidas": 64,
+      "winrate": 51.6,
+      "kills_media": 12.1,
+      "deaths_media": 12.9,
+      "dragons_media": 0.0,
+      "barons_media": 0.69,
+      "torres_media": 6.67,
+      "patches": [
+        3.15,
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "EU LCS"
+      ]
+    },
+    "Team ROCCAT": {
+      "partidas": 71,
+      "winrate": 47.9,
+      "kills_media": 11.1,
+      "deaths_media": 10.0,
+      "dragons_media": 0.0,
+      "barons_media": 0.86,
+      "torres_media": 6.34,
+      "patches": [
+        3.15,
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "EU LCS"
+      ]
+    },
+    "Cloud9": {
+      "partidas": 80,
+      "winrate": 71.2,
+      "kills_media": 14.6,
+      "deaths_media": 10.9,
+      "dragons_media": 0.0,
+      "barons_media": 0.79,
+      "torres_media": 7.86,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA LCS",
+        "WLDs"
+      ]
+    },
+    "TSM": {
+      "partidas": 86,
+      "winrate": 62.8,
+      "kills_media": 13.9,
+      "deaths_media": 10.8,
+      "dragons_media": 0.0,
+      "barons_media": 0.77,
+      "torres_media": 7.67,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA LCS",
+        "WLDs"
+      ]
+    },
+    "Evil Geniuses": {
+      "partidas": 60,
+      "winrate": 36.7,
+      "kills_media": 12.1,
+      "deaths_media": 14.1,
+      "dragons_media": 0.0,
+      "barons_media": 0.53,
+      "torres_media": 5.73,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "NA LCS"
+      ]
+    },
+    "XDG Gaming": {
+      "partidas": 33,
+      "winrate": 21.2,
+      "kills_media": 10.1,
+      "deaths_media": 16.5,
+      "dragons_media": 0.0,
+      "barons_media": 0.42,
+      "torres_media": 4.12,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.14
+      ],
+      "ligas": [
+        "NA LCS",
+        "NA CS"
+      ]
+    },
+    "Team Curse": {
+      "partidas": 74,
+      "winrate": 41.9,
+      "kills_media": 12.3,
+      "deaths_media": 13.1,
+      "dragons_media": 0.0,
+      "barons_media": 0.76,
+      "torres_media": 5.96,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA LCS"
+      ]
+    },
+    "Team Coast": {
+      "partidas": 54,
+      "winrate": 46.3,
+      "kills_media": 13.5,
+      "deaths_media": 12.9,
+      "dragons_media": 0.0,
+      "barons_media": 0.85,
+      "torres_media": 6.72,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.08,
+        4.09,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA LCS",
+        "NA CS"
+      ]
+    },
+    "Counter Logic Gaming": {
+      "partidas": 70,
+      "winrate": 52.9,
+      "kills_media": 12.7,
+      "deaths_media": 12.2,
+      "dragons_media": 0.0,
+      "barons_media": 0.71,
+      "torres_media": 6.96,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA LCS"
+      ]
+    },
+    "Dignitas": {
+      "partidas": 70,
+      "winrate": 45.7,
+      "kills_media": 11.8,
+      "deaths_media": 12.6,
+      "dragons_media": 0.0,
+      "barons_media": 0.97,
+      "torres_media": 6.76,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA LCS"
+      ]
+    },
+    "Cloud9 Tempest": {
+      "partidas": 16,
+      "winrate": 31.2,
+      "kills_media": 10.6,
+      "deaths_media": 13.7,
+      "dragons_media": 0.0,
+      "barons_media": 0.31,
+      "torres_media": 5.5,
+      "patches": [
+        4.04,
+        4.05
+      ],
+      "ligas": [
+        "NA CS",
+        "NA LCS"
+      ]
+    },
+    "LMQ": {
+      "partidas": 65,
+      "winrate": 66.2,
+      "kills_media": 15.1,
+      "deaths_media": 12.4,
+      "dragons_media": 0.0,
+      "barons_media": 0.91,
+      "torres_media": 7.09,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA CS",
+        "NA LCS",
+        "WLDs"
+      ]
+    },
+    "Curse Academy": {
+      "partidas": 30,
+      "winrate": 53.3,
+      "kills_media": 15.7,
+      "deaths_media": 14.1,
+      "dragons_media": 0.0,
+      "barons_media": 0.9,
+      "torres_media": 6.83,
+      "patches": [
+        4.04,
+        4.05,
+        4.09,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA CS"
+      ]
+    },
+    "COGnitive Gaming": {
+      "partidas": 10,
+      "winrate": 40.0,
+      "kills_media": 14.2,
+      "deaths_media": 17.1,
+      "dragons_media": 0.0,
+      "barons_media": 0.9,
+      "torres_media": 4.7,
+      "patches": [
+        4.11
+      ],
+      "ligas": [
+        "NA CS"
+      ]
+    },
+    "Ninjas in Pyjamas": {
+      "partidas": 39,
+      "winrate": 53.8,
+      "kills_media": 14.6,
+      "deaths_media": 12.6,
+      "dragons_media": 0.0,
+      "barons_media": 0.77,
+      "torres_media": 6.51,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.08,
+        4.09,
+        4.11,
+        4.12,
+        4.13
+      ],
+      "ligas": [
+        "EU CS",
+        "EU LCS"
+      ]
+    },
+    "Cloud9 Eclipse": {
+      "partidas": 14,
+      "winrate": 50.0,
+      "kills_media": 12.2,
+      "deaths_media": 14.6,
+      "dragons_media": 0.0,
+      "barons_media": 0.71,
+      "torres_media": 6.57,
+      "patches": [
+        4.05
+      ],
+      "ligas": [
+        "EU CS",
+        "EU LCS"
+      ]
+    },
+    "compLexity.Red": {
+      "partidas": 6,
+      "winrate": 16.7,
+      "kills_media": 9.3,
+      "deaths_media": 17.8,
+      "dragons_media": 0.0,
+      "barons_media": 0.17,
+      "torres_media": 4.0,
+      "patches": [
+        4.04
+      ],
+      "ligas": [
+        "NA CS"
+      ]
+    },
+    "compLexity.Black": {
+      "partidas": 16,
+      "winrate": 56.2,
+      "kills_media": 12.1,
+      "deaths_media": 13.4,
+      "dragons_media": 0.0,
+      "barons_media": 0.81,
+      "torres_media": 7.19,
+      "patches": [
+        4.04,
+        4.05
+      ],
+      "ligas": [
+        "NA CS",
+        "NA LCS"
+      ]
+    },
+    "Team 8": {
+      "partidas": 18,
+      "winrate": 66.7,
+      "kills_media": 15.7,
+      "deaths_media": 14.3,
+      "dragons_media": 0.0,
+      "barons_media": 0.67,
+      "torres_media": 6.72,
+      "patches": [
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA CS"
+      ]
+    },
+    "Team LoLPro": {
+      "partidas": 24,
+      "winrate": 45.8,
+      "kills_media": 13.9,
+      "deaths_media": 16.4,
+      "dragons_media": 0.0,
+      "barons_media": 0.42,
+      "torres_media": 5.79,
+      "patches": [
+        4.08,
+        4.09,
+        4.11,
+        4.12,
+        4.14
+      ],
+      "ligas": [
+        "NA CS"
+      ]
+    },
+    "vVv Gaming": {
+      "partidas": 6,
+      "winrate": 33.3,
+      "kills_media": 14.8,
+      "deaths_media": 16.2,
+      "dragons_media": 0.0,
+      "barons_media": 0.83,
+      "torres_media": 5.0,
+      "patches": [
+        4.03,
+        4.04
+      ],
+      "ligas": [
+        "NA CS"
+      ]
+    },
+    "MOUZ NXT": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 14.6,
+      "deaths_media": 18.2,
+      "dragons_media": 0.0,
+      "barons_media": 0.6,
+      "torres_media": 5.4,
+      "patches": [
+        4.04
+      ],
+      "ligas": [
+        "EU CS"
+      ]
+    },
+    "Reason Gaming": {
+      "partidas": 22,
+      "winrate": 36.4,
+      "kills_media": 13.0,
+      "deaths_media": 15.7,
+      "dragons_media": 0.0,
+      "barons_media": 0.55,
+      "torres_media": 5.23,
+      "patches": [
+        4.03,
+        4.04,
+        4.05,
+        4.09,
+        4.13
+      ],
+      "ligas": [
+        "EU CS"
+      ]
+    },
+    "Gamers2": {
+      "partidas": 17,
+      "winrate": 47.1,
+      "kills_media": 13.7,
+      "deaths_media": 13.8,
+      "dragons_media": 0.0,
+      "barons_media": 1.0,
+      "torres_media": 6.41,
+      "patches": [
+        4.08,
+        4.09,
+        4.11,
+        4.12,
+        4.13
+      ],
+      "ligas": [
+        "EU CS"
+      ]
+    },
+    "Denial eSports.Europe": {
+      "partidas": 16,
+      "winrate": 43.8,
+      "kills_media": 10.6,
+      "deaths_media": 12.8,
+      "dragons_media": 0.0,
+      "barons_media": 0.38,
+      "torres_media": 4.88,
+      "patches": [
+        4.04,
+        4.05,
+        4.08
+      ],
+      "ligas": [
+        "EU CS",
+        "EU LCS"
+      ]
+    },
+    "compLexity Gaming": {
+      "partidas": 28,
+      "winrate": 35.7,
+      "kills_media": 9.6,
+      "deaths_media": 15.8,
+      "dragons_media": 0.0,
+      "barons_media": 0.79,
+      "torres_media": 5.86,
+      "patches": [
+        4.07,
+        4.08,
+        4.09,
+        4.1,
+        4.11,
+        4.12
+      ],
+      "ligas": [
+        "NA LCS"
+      ]
+    },
+    "Unicorns of Love": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kills_media": 15.6,
+      "deaths_media": 16.3,
+      "dragons_media": 0.0,
+      "barons_media": 0.67,
+      "torres_media": 7.08,
+      "patches": [
+        4.08,
+        4.11,
+        4.13
+      ],
+      "ligas": [
+        "EU CS"
+      ]
+    },
+    "H2k-Gaming": {
+      "partidas": 19,
+      "winrate": 68.4,
+      "kills_media": 17.2,
+      "deaths_media": 12.1,
+      "dragons_media": 0.0,
+      "barons_media": 0.79,
+      "torres_media": 7.0,
+      "patches": [
+        4.08,
+        4.09,
+        4.11,
+        4.12,
+        4.13
+      ],
+      "ligas": [
+        "EU CS"
+      ]
+    },
+    "SK Gaming Prime": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kills_media": 16.3,
+      "deaths_media": 14.6,
+      "dragons_media": 0.0,
+      "barons_media": 1.05,
+      "torres_media": 6.9,
+      "patches": [
+        4.08,
+        4.11,
+        4.12,
+        4.13
+      ],
+      "ligas": [
+        "EU CS"
+      ]
+    },
+    "Denial eSports": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "kills_media": 7.2,
+      "deaths_media": 16.8,
+      "dragons_media": 0.0,
+      "barons_media": 0.2,
+      "torres_media": 2.0,
+      "patches": [
+        4.11,
+        4.14
+      ],
+      "ligas": [
+        "NA CS"
+      ]
+    },
+    "EDward Gaming": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kills_media": 16.2,
+      "deaths_media": 14.1,
+      "dragons_media": 0.0,
+      "barons_media": 0.75,
+      "torres_media": 6.67,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "Samsung White": {
+      "partidas": 17,
+      "winrate": 88.2,
+      "kills_media": 22.6,
+      "deaths_media": 7.9,
+      "dragons_media": 0.0,
+      "barons_media": 0.82,
+      "torres_media": 7.88,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "Dark Passage": {
+      "partidas": 6,
+      "winrate": 0.0,
+      "kills_media": 3.3,
+      "deaths_media": 20.7,
+      "dragons_media": 0.0,
+      "barons_media": 0.0,
+      "torres_media": 1.0,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "ahq eSports Club": {
+      "partidas": 7,
+      "winrate": 42.9,
+      "kills_media": 15.3,
+      "deaths_media": 20.0,
+      "dragons_media": 0.0,
+      "barons_media": 0.29,
+      "torres_media": 4.14,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "Taipei Assassins": {
+      "partidas": 6,
+      "winrate": 16.7,
+      "kills_media": 9.8,
+      "deaths_media": 15.5,
+      "dragons_media": 0.0,
+      "barons_media": 0.17,
+      "torres_media": 3.83,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "Royal Club": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kills_media": 15.6,
+      "deaths_media": 15.0,
+      "dragons_media": 0.0,
+      "barons_media": 0.95,
+      "torres_media": 6.1,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "Oh My God": {
+      "partidas": 14,
+      "winrate": 57.1,
+      "kills_media": 16.1,
+      "deaths_media": 13.4,
+      "dragons_media": 0.0,
+      "barons_media": 0.64,
+      "torres_media": 7.14,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "NaJin White Shield": {
+      "partidas": 10,
+      "winrate": 50.0,
+      "kills_media": 11.7,
+      "deaths_media": 12.6,
+      "dragons_media": 0.0,
+      "barons_media": 0.9,
+      "torres_media": 7.2,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "KaBuM! Esports": {
+      "partidas": 6,
+      "winrate": 16.7,
+      "kills_media": 6.0,
+      "deaths_media": 13.2,
+      "dragons_media": 0.0,
+      "barons_media": 0.17,
+      "torres_media": 3.33,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    },
+    "Samsung Blue": {
+      "partidas": 13,
+      "winrate": 61.5,
+      "kills_media": 16.6,
+      "deaths_media": 15.5,
+      "dragons_media": 0.0,
+      "barons_media": 0.69,
+      "torres_media": 6.69,
+      "patches": [
+        4.14
+      ],
+      "ligas": [
+        "WLDs"
+      ]
+    }
+  },
+  "jogadores": {
+    "sOAZ": {
+      "partidas": 77,
+      "winrate": 59.7,
+      "kda_kills": 1.9,
+      "kda_deaths": 2.2,
+      "kda_assists": 6.6,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Lulu": 18,
+        "Shyvana": 11,
+        "Trundle": 5,
+        "Renekton": 5,
+        "Lee Sin": 5
+      },
+      "times": [
+        "Fnatic"
+      ]
+    },
+    "Cyanide": {
+      "partidas": 77,
+      "winrate": 59.7,
+      "kda_kills": 1.9,
+      "kda_deaths": 2.5,
+      "kda_assists": 6.8,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 24,
+        "Evelynn": 15,
+        "Lee Sin": 10,
+        "Kha'Zix": 7,
+        "Pantheon": 4
+      },
+      "times": [
+        "Fnatic"
+      ]
+    },
+    "xPeke": {
+      "partidas": 77,
+      "winrate": 59.7,
+      "kda_kills": 3.9,
+      "kda_deaths": 2.5,
+      "kda_assists": 5.4,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Ziggs": 11,
+        "Orianna": 9,
+        "Syndra": 9,
+        "Nidalee": 8,
+        "Gragas": 7
+      },
+      "times": [
+        "Fnatic"
+      ]
+    },
+    "Rekkles": {
+      "partidas": 77,
+      "winrate": 59.7,
+      "kda_kills": 5.2,
+      "kda_deaths": 1.1,
+      "kda_assists": 4.4,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 25,
+        "Caitlyn": 9,
+        "Kog'Maw": 8,
+        "Vayne": 8,
+        "Twitch": 7
+      },
+      "times": [
+        "Fnatic"
+      ]
+    },
+    "YellOwStaR": {
+      "partidas": 77,
+      "winrate": 59.7,
+      "kda_kills": 0.8,
+      "kda_deaths": 2.1,
+      "kda_assists": 8.8,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 21,
+        "Thresh": 17,
+        "Nami": 10,
+        "Leona": 6,
+        "Karma": 6
+      },
+      "times": [
+        "Fnatic"
+      ]
+    },
+    "Darien": {
+      "partidas": 46,
+      "winrate": 41.3,
+      "kda_kills": 1.6,
+      "kda_deaths": 3.6,
+      "kda_assists": 5.7,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 9,
+        "Irelia": 7,
+        "Shyvana": 5,
+        "Jax": 5,
+        "Dr. Mundo": 4
+      },
+      "times": [
+        "Gambit Gaming"
+      ]
+    },
+    "Diamondprox": {
+      "partidas": 54,
+      "winrate": 40.7,
+      "kda_kills": 2.2,
+      "kda_deaths": 3.1,
+      "kda_assists": 6.0,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Evelynn": 15,
+        "Kha'Zix": 10,
+        "Lee Sin": 9,
+        "Elise": 6,
+        "Skarner": 3
+      },
+      "times": [
+        "Gambit Gaming"
+      ]
+    },
+    "Alex Ich": {
+      "partidas": 48,
+      "winrate": 50.0,
+      "kda_kills": 4.3,
+      "kda_deaths": 2.8,
+      "kda_assists": 5.1,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 8,
+        "Ziggs": 7,
+        "Lulu": 5,
+        "LeBlanc": 4,
+        "Kayle": 3
+      },
+      "times": [
+        "Gambit Gaming",
+        "Ninjas in Pyjamas"
+      ]
+    },
+    "Genja": {
+      "partidas": 56,
+      "winrate": 39.3,
+      "kda_kills": 3.0,
+      "kda_deaths": 1.5,
+      "kda_assists": 4.3,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 20,
+        "Caitlyn": 14,
+        "Jinx": 9,
+        "Sivir": 3,
+        "Kog'Maw": 3
+      },
+      "times": [
+        "Gambit Gaming"
+      ]
+    },
+    "Edward": {
+      "partidas": 58,
+      "winrate": 39.7,
+      "kda_kills": 0.9,
+      "kda_deaths": 3.4,
+      "kda_assists": 6.4,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 19,
+        "Nami": 9,
+        "Gragas": 6,
+        "Annie": 5,
+        "Morgana": 5
+      },
+      "times": [
+        "Gambit Gaming"
+      ]
+    },
+    "YoungBuck": {
+      "partidas": 64,
+      "winrate": 39.1,
+      "kda_kills": 1.8,
+      "kda_deaths": 3.1,
+      "kda_assists": 4.7,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 15,
+        "Trundle": 10,
+        "Shyvana": 8,
+        "Vladimir": 6,
+        "Dr. Mundo": 5
+      },
+      "times": [
+        "Copenhagen Wolves"
+      ]
+    },
+    "Amazing": {
+      "partidas": 89,
+      "winrate": 52.8,
+      "kda_kills": 2.5,
+      "kda_deaths": 2.3,
+      "kda_assists": 6.9,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 27,
+        "Elise": 18,
+        "Kha'Zix": 12,
+        "Evelynn": 7,
+        "Jarvan IV": 7
+      },
+      "times": [
+        "Copenhagen Wolves",
+        "TSM"
+      ]
+    },
+    "cowTard": {
+      "partidas": 55,
+      "winrate": 41.8,
+      "kda_kills": 3.1,
+      "kda_deaths": 3.2,
+      "kda_assists": 5.6,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Ziggs": 11,
+        "Lulu": 11,
+        "Yasuo": 7,
+        "Gragas": 6,
+        "Kayle": 6
+      },
+      "times": [
+        "Copenhagen Wolves"
+      ]
+    },
+    "FORG1VEN": {
+      "partidas": 37,
+      "winrate": 45.9,
+      "kda_kills": 2.8,
+      "kda_deaths": 2.1,
+      "kda_assists": 4.9,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Caitlyn": 13,
+        "Lucian": 12,
+        "Jinx": 6,
+        "Graves": 3,
+        "Varus": 2
+      },
+      "times": [
+        "Copenhagen Wolves"
+      ]
+    },
+    "Unlimited": {
+      "partidas": 64,
+      "winrate": 39.1,
+      "kda_kills": 0.7,
+      "kda_deaths": 3.3,
+      "kda_assists": 7.3,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Annie": 11,
+        "Leona": 11,
+        "Karma": 10,
+        "Braum": 9,
+        "Thresh": 8
+      },
+      "times": [
+        "Copenhagen Wolves"
+      ]
+    },
+    "Wickd": {
+      "partidas": 78,
+      "winrate": 62.8,
+      "kda_kills": 1.8,
+      "kda_deaths": 2.3,
+      "kda_assists": 5.9,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Irelia": 17,
+        "Shyvana": 15,
+        "Renekton": 10,
+        "Trundle": 7,
+        "Alistar": 4
+      },
+      "times": [
+        "Alliance"
+      ]
+    },
+    "Shook": {
+      "partidas": 78,
+      "winrate": 62.8,
+      "kda_kills": 2.5,
+      "kda_deaths": 2.7,
+      "kda_assists": 6.7,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 24,
+        "Elise": 16,
+        "Kha'Zix": 14,
+        "Evelynn": 8,
+        "Riven": 5
+      },
+      "times": [
+        "Alliance"
+      ]
+    },
+    "Froggen": {
+      "partidas": 78,
+      "winrate": 62.8,
+      "kda_kills": 4.1,
+      "kda_deaths": 1.9,
+      "kda_assists": 5.8,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 7,
+        "Xerath": 7,
+        "Lulu": 6,
+        "Fizz": 5,
+        "Ziggs": 5
+      },
+      "times": [
+        "Alliance"
+      ]
+    },
+    "Tabzz": {
+      "partidas": 78,
+      "winrate": 62.8,
+      "kda_kills": 4.2,
+      "kda_deaths": 1.7,
+      "kda_assists": 4.9,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 22,
+        "Kog'Maw": 15,
+        "Caitlyn": 10,
+        "Jinx": 7,
+        "Twitch": 7
+      },
+      "times": [
+        "Alliance"
+      ]
+    },
+    "Nyph": {
+      "partidas": 78,
+      "winrate": 62.8,
+      "kda_kills": 0.5,
+      "kda_deaths": 2.7,
+      "kda_assists": 8.8,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 25,
+        "Nami": 15,
+        "Morgana": 10,
+        "Leona": 8,
+        "Braum": 7
+      },
+      "times": [
+        "Alliance"
+      ]
+    },
+    "fredy122": {
+      "partidas": 78,
+      "winrate": 57.7,
+      "kda_kills": 1.7,
+      "kda_deaths": 2.6,
+      "kda_assists": 4.8,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 19,
+        "Aatrox": 14,
+        "Shyvana": 11,
+        "Trundle": 11,
+        "Dr. Mundo": 6
+      },
+      "times": [
+        "SK Gaming"
+      ]
+    },
+    "Svenskeren": {
+      "partidas": 75,
+      "winrate": 60.0,
+      "kda_kills": 2.6,
+      "kda_deaths": 2.9,
+      "kda_assists": 6.2,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 17,
+        "Lee Sin": 15,
+        "Evelynn": 14,
+        "Kha'Zix": 11,
+        "Pantheon": 6
+      },
+      "times": [
+        "SK Gaming"
+      ]
+    },
+    "Jesiz": {
+      "partidas": 78,
+      "winrate": 57.7,
+      "kda_kills": 3.4,
+      "kda_deaths": 2.1,
+      "kda_assists": 4.7,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 17,
+        "Ziggs": 14,
+        "Ahri": 14,
+        "Nidalee": 9,
+        "Kayle": 7
+      },
+      "times": [
+        "SK Gaming"
+      ]
+    },
+    "CandyPanda": {
+      "partidas": 78,
+      "winrate": 57.7,
+      "kda_kills": 3.8,
+      "kda_deaths": 2.1,
+      "kda_assists": 5.2,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 17,
+        "Kog'Maw": 11,
+        "Vayne": 9,
+        "Twitch": 9,
+        "Jinx": 8
+      },
+      "times": [
+        "SK Gaming"
+      ]
+    },
+    "nRated": {
+      "partidas": 78,
+      "winrate": 57.7,
+      "kda_kills": 1.0,
+      "kda_deaths": 2.6,
+      "kda_assists": 7.9,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 18,
+        "Leona": 10,
+        "Thresh": 9,
+        "Kayle": 8,
+        "Annie": 6
+      },
+      "times": [
+        "SK Gaming"
+      ]
+    },
+    "Kev1n": {
+      "partidas": 64,
+      "winrate": 37.5,
+      "kda_kills": 2.7,
+      "kda_deaths": 2.4,
+      "kda_assists": 5.7,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 12,
+        "Irelia": 8,
+        "Aatrox": 8,
+        "Jax": 7,
+        "Shen": 6
+      },
+      "times": [
+        "Millenium"
+      ]
+    },
+    "Araneae": {
+      "partidas": 20,
+      "winrate": 35.0,
+      "kda_kills": 1.8,
+      "kda_deaths": 3.8,
+      "kda_assists": 5.7,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 6,
+        "Elise": 5,
+        "Evelynn": 4,
+        "Vi": 2,
+        "Pantheon": 2
+      },
+      "times": [
+        "Millenium"
+      ]
+    },
+    "Kerp": {
+      "partidas": 64,
+      "winrate": 37.5,
+      "kda_kills": 3.9,
+      "kda_deaths": 3.2,
+      "kda_assists": 5.5,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Ziggs": 13,
+        "LeBlanc": 10,
+        "Fizz": 10,
+        "Gragas": 6,
+        "Twisted Fate": 5
+      },
+      "times": [
+        "Millenium"
+      ]
+    },
+    "Creaton": {
+      "partidas": 64,
+      "winrate": 37.5,
+      "kda_kills": 4.0,
+      "kda_deaths": 2.2,
+      "kda_assists": 5.0,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 27,
+        "Corki": 7,
+        "Caitlyn": 6,
+        "Tristana": 6,
+        "Graves": 4
+      },
+      "times": [
+        "Millenium"
+      ]
+    },
+    "Jree": {
+      "partidas": 64,
+      "winrate": 37.5,
+      "kda_kills": 0.8,
+      "kda_deaths": 3.3,
+      "kda_assists": 8.1,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Leona": 18,
+        "Thresh": 14,
+        "Morgana": 11,
+        "Blitzcrank": 3,
+        "Annie": 3
+      },
+      "times": [
+        "Millenium"
+      ]
+    },
+    "Mimer": {
+      "partidas": 64,
+      "winrate": 51.6,
+      "kda_kills": 1.9,
+      "kda_deaths": 1.9,
+      "kda_assists": 5.0,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 23,
+        "Dr. Mundo": 11,
+        "Renekton": 11,
+        "Jax": 5,
+        "Ryze": 3
+      },
+      "times": [
+        "SUPA HOT CREW"
+      ]
+    },
+    "Impaler": {
+      "partidas": 64,
+      "winrate": 51.6,
+      "kda_kills": 2.3,
+      "kda_deaths": 3.0,
+      "kda_assists": 6.3,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 18,
+        "Jarvan IV": 8,
+        "Pantheon": 7,
+        "Evelynn": 6,
+        "Rengar": 6
+      },
+      "times": [
+        "SUPA HOT CREW"
+      ]
+    },
+    "Moopz": {
+      "partidas": 19,
+      "winrate": 42.1,
+      "kda_kills": 3.1,
+      "kda_deaths": 2.9,
+      "kda_assists": 4.4,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Gragas": 9,
+        "Ziggs": 3,
+        "Orianna": 2,
+        "Kayle": 2,
+        "Morgana": 1
+      },
+      "times": [
+        "SUPA HOT CREW"
+      ]
+    },
+    "MrRallez": {
+      "partidas": 64,
+      "winrate": 51.6,
+      "kda_kills": 3.7,
+      "kda_deaths": 1.6,
+      "kda_assists": 5.0,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 28,
+        "Caitlyn": 8,
+        "Twitch": 8,
+        "Kog'Maw": 6,
+        "Tristana": 5
+      },
+      "times": [
+        "SUPA HOT CREW"
+      ]
+    },
+    "Migxa": {
+      "partidas": 30,
+      "winrate": 43.3,
+      "kda_kills": 0.7,
+      "kda_deaths": 4.2,
+      "kda_assists": 6.8,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 10,
+        "Leona": 7,
+        "Karma": 4,
+        "Sona": 3,
+        "Nami": 2
+      },
+      "times": [
+        "SUPA HOT CREW"
+      ]
+    },
+    "Xaxus": {
+      "partidas": 71,
+      "winrate": 47.9,
+      "kda_kills": 1.5,
+      "kda_deaths": 2.2,
+      "kda_assists": 4.8,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Trundle": 12,
+        "Renekton": 11,
+        "Aatrox": 8,
+        "Jax": 8,
+        "Lulu": 7
+      },
+      "times": [
+        "Team ROCCAT"
+      ]
+    },
+    "Jankos": {
+      "partidas": 71,
+      "winrate": 47.9,
+      "kda_kills": 2.7,
+      "kda_deaths": 2.2,
+      "kda_assists": 5.2,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 27,
+        "Lee Sin": 19,
+        "Kha'Zix": 7,
+        "Evelynn": 5,
+        "Vi": 3
+      },
+      "times": [
+        "Team ROCCAT"
+      ]
+    },
+    "Overpow": {
+      "partidas": 71,
+      "winrate": 47.9,
+      "kda_kills": 3.2,
+      "kda_deaths": 2.1,
+      "kda_assists": 4.3,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Ziggs": 9,
+        "Gragas": 6,
+        "Kayle": 5,
+        "Ryze": 5,
+        "Nidalee": 5
+      },
+      "times": [
+        "Team ROCCAT"
+      ]
+    },
+    "Celaver": {
+      "partidas": 71,
+      "winrate": 47.9,
+      "kda_kills": 3.1,
+      "kda_deaths": 1.8,
+      "kda_assists": 4.2,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 20,
+        "Jinx": 12,
+        "Caitlyn": 11,
+        "Corki": 8,
+        "Kog'Maw": 8
+      },
+      "times": [
+        "Team ROCCAT"
+      ]
+    },
+    "Vander": {
+      "partidas": 71,
+      "winrate": 47.9,
+      "kda_kills": 0.5,
+      "kda_deaths": 1.7,
+      "kda_assists": 6.8,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 28,
+        "Morgana": 15,
+        "Leona": 7,
+        "Nami": 6,
+        "Braum": 5
+      },
+      "times": [
+        "Team ROCCAT"
+      ]
+    },
+    "BalIs": {
+      "partidas": 80,
+      "winrate": 71.2,
+      "kda_kills": 2.4,
+      "kda_deaths": 2.0,
+      "kda_assists": 6.1,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 17,
+        "Shyvana": 15,
+        "Dr. Mundo": 7,
+        "Rumble": 7,
+        "Trundle": 7
+      },
+      "times": [
+        "Cloud9"
+      ]
+    },
+    "Meteos": {
+      "partidas": 80,
+      "winrate": 71.2,
+      "kda_kills": 2.9,
+      "kda_deaths": 1.7,
+      "kda_assists": 6.9,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 25,
+        "Lee Sin": 17,
+        "Kha'Zix": 14,
+        "Evelynn": 11,
+        "Nunu & Willump": 4
+      },
+      "times": [
+        "Cloud9"
+      ]
+    },
+    "Hai": {
+      "partidas": 80,
+      "winrate": 71.2,
+      "kda_kills": 4.0,
+      "kda_deaths": 3.1,
+      "kda_assists": 6.3,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Yasuo": 10,
+        "LeBlanc": 10,
+        "Zed": 9,
+        "Orianna": 8,
+        "Syndra": 7
+      },
+      "times": [
+        "Cloud9"
+      ]
+    },
+    "Sneaky": {
+      "partidas": 80,
+      "winrate": 71.2,
+      "kda_kills": 4.6,
+      "kda_deaths": 1.6,
+      "kda_assists": 5.6,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 21,
+        "Corki": 13,
+        "Kog'Maw": 12,
+        "Caitlyn": 9,
+        "Tristana": 8
+      },
+      "times": [
+        "Cloud9"
+      ]
+    },
+    "LemonNation": {
+      "partidas": 80,
+      "winrate": 71.2,
+      "kda_kills": 0.7,
+      "kda_deaths": 2.5,
+      "kda_assists": 9.7,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 25,
+        "Thresh": 17,
+        "Braum": 10,
+        "Nami": 7,
+        "Leona": 5
+      },
+      "times": [
+        "Cloud9"
+      ]
+    },
+    "Dyrus": {
+      "partidas": 86,
+      "winrate": 62.8,
+      "kda_kills": 2.0,
+      "kda_deaths": 2.3,
+      "kda_assists": 6.4,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 16,
+        "Dr. Mundo": 14,
+        "Renekton": 13,
+        "Lulu": 13,
+        "Gragas": 5
+      },
+      "times": [
+        "TSM"
+      ]
+    },
+    "TheOddOne": {
+      "partidas": 34,
+      "winrate": 70.6,
+      "kda_kills": 2.5,
+      "kda_deaths": 2.6,
+      "kda_assists": 8.0,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Evelynn": 6,
+        "Elise": 6,
+        "Vi": 5,
+        "Wukong": 4,
+        "Pantheon": 4
+      },
+      "times": [
+        "TSM"
+      ]
+    },
+    "Bjergsen": {
+      "partidas": 80,
+      "winrate": 61.3,
+      "kda_kills": 4.5,
+      "kda_deaths": 1.8,
+      "kda_assists": 5.3,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Syndra": 13,
+        "Orianna": 10,
+        "LeBlanc": 7,
+        "Xerath": 6,
+        "Zed": 6
+      },
+      "times": [
+        "TSM"
+      ]
+    },
+    "WildTurtle": {
+      "partidas": 86,
+      "winrate": 62.8,
+      "kda_kills": 4.4,
+      "kda_deaths": 1.9,
+      "kda_assists": 5.4,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 29,
+        "Tristana": 14,
+        "Corki": 10,
+        "Kog'Maw": 9,
+        "Sivir": 8
+      },
+      "times": [
+        "TSM"
+      ]
+    },
+    "Xpecial": {
+      "partidas": 73,
+      "winrate": 57.5,
+      "kda_kills": 0.7,
+      "kda_deaths": 2.8,
+      "kda_assists": 8.9,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 24,
+        "Leona": 12,
+        "Braum": 11,
+        "Annie": 10,
+        "Morgana": 7
+      },
+      "times": [
+        "TSM",
+        "Team Curse"
+      ]
+    },
+    "Innox": {
+      "partidas": 60,
+      "winrate": 36.7,
+      "kda_kills": 2.5,
+      "kda_deaths": 2.8,
+      "kda_assists": 4.8,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Dr. Mundo": 9,
+        "Lee Sin": 8,
+        "Nidalee": 7,
+        "Gragas": 5,
+        "Shyvana": 5
+      },
+      "times": [
+        "Evil Geniuses"
+      ]
+    },
+    "Snoopeh": {
+      "partidas": 38,
+      "winrate": 34.2,
+      "kda_kills": 2.3,
+      "kda_deaths": 3.1,
+      "kda_assists": 6.4,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Pantheon": 7,
+        "Elise": 6,
+        "Vi": 5,
+        "Evelynn": 5,
+        "Olaf": 4
+      },
+      "times": [
+        "Evil Geniuses"
+      ]
+    },
+    "Pobelter": {
+      "partidas": 60,
+      "winrate": 36.7,
+      "kda_kills": 3.2,
+      "kda_deaths": 2.9,
+      "kda_assists": 5.0,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Ziggs": 8,
+        "Orianna": 8,
+        "LeBlanc": 7,
+        "Zed": 6,
+        "Lulu": 5
+      },
+      "times": [
+        "Evil Geniuses"
+      ]
+    },
+    "yellowpete": {
+      "partidas": 31,
+      "winrate": 35.5,
+      "kda_kills": 2.6,
+      "kda_deaths": 2.5,
+      "kda_assists": 5.4,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 12,
+        "Caitlyn": 6,
+        "Jinx": 5,
+        "Sivir": 3,
+        "Ezreal": 2
+      },
+      "times": [
+        "Evil Geniuses"
+      ]
+    },
+    "Krepo": {
+      "partidas": 57,
+      "winrate": 38.6,
+      "kda_kills": 0.9,
+      "kda_deaths": 3.2,
+      "kda_assists": 7.5,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 21,
+        "Thresh": 15,
+        "Braum": 5,
+        "Leona": 4,
+        "Annie": 2
+      },
+      "times": [
+        "Evil Geniuses"
+      ]
+    },
+    "Benny": {
+      "partidas": 31,
+      "winrate": 22.6,
+      "kda_kills": 1.8,
+      "kda_deaths": 2.9,
+      "kda_assists": 4.2,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 7,
+        "Renekton": 6,
+        "Trundle": 6,
+        "Dr. Mundo": 5,
+        "Ryze": 3
+      },
+      "times": [
+        "XDG Gaming"
+      ]
+    },
+    "Zuna": {
+      "partidas": 31,
+      "winrate": 22.6,
+      "kda_kills": 2.4,
+      "kda_deaths": 3.5,
+      "kda_assists": 4.3,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Caitlyn": 7,
+        "Elise": 4,
+        "Twitch": 3,
+        "Olaf": 3,
+        "Vi": 2
+      },
+      "times": [
+        "XDG Gaming"
+      ]
+    },
+    "mancloud": {
+      "partidas": 44,
+      "winrate": 31.8,
+      "kda_kills": 2.9,
+      "kda_deaths": 2.9,
+      "kda_assists": 4.2,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Gragas": 5,
+        "Ziggs": 5,
+        "Nidalee": 5,
+        "Yasuo": 4,
+        "Orianna": 4
+      },
+      "times": [
+        "XDG Gaming",
+        "compLexity Gaming",
+        "Curse Academy"
+      ]
+    },
+    "Xmithie": {
+      "partidas": 33,
+      "winrate": 21.2,
+      "kda_kills": 2.5,
+      "kda_deaths": 3.1,
+      "kda_assists": 4.1,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 6,
+        "Lucian": 5,
+        "Sivir": 5,
+        "Elise": 4,
+        "Jinx": 3
+      },
+      "times": [
+        "XDG Gaming"
+      ]
+    },
+    "BloodWater": {
+      "partidas": 12,
+      "winrate": 25.0,
+      "kda_kills": 0.8,
+      "kda_deaths": 3.6,
+      "kda_assists": 6.8,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 5,
+        "Leona": 4,
+        "Annie": 2,
+        "Sona": 1
+      },
+      "times": [
+        "XDG Gaming"
+      ]
+    },
+    "Quas": {
+      "partidas": 74,
+      "winrate": 41.9,
+      "kda_kills": 2.5,
+      "kda_deaths": 2.3,
+      "kda_assists": 5.7,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 14,
+        "Lulu": 14,
+        "Dr. Mundo": 12,
+        "Jax": 9,
+        "Trundle": 6
+      },
+      "times": [
+        "Team Curse"
+      ]
+    },
+    "IWDominate": {
+      "partidas": 74,
+      "winrate": 41.9,
+      "kda_kills": 2.1,
+      "kda_deaths": 3.1,
+      "kda_assists": 6.5,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 22,
+        "Evelynn": 11,
+        "Vi": 8,
+        "Nunu & Willump": 7,
+        "Kha'Zix": 7
+      },
+      "times": [
+        "Team Curse"
+      ]
+    },
+    "Voyboy": {
+      "partidas": 74,
+      "winrate": 41.9,
+      "kda_kills": 3.3,
+      "kda_deaths": 2.9,
+      "kda_assists": 5.8,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Yasuo": 18,
+        "Syndra": 8,
+        "Lulu": 8,
+        "Ziggs": 5,
+        "Akali": 5
+      },
+      "times": [
+        "Team Curse"
+      ]
+    },
+    "Cop": {
+      "partidas": 74,
+      "winrate": 41.9,
+      "kda_kills": 3.9,
+      "kda_deaths": 1.6,
+      "kda_assists": 5.0,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Caitlyn": 19,
+        "Lucian": 17,
+        "Corki": 14,
+        "Jinx": 7,
+        "Kog'Maw": 5
+      },
+      "times": [
+        "Team Curse"
+      ]
+    },
+    "Zekent": {
+      "partidas": 10,
+      "winrate": 50.0,
+      "kda_kills": 1.1,
+      "kda_deaths": 2.0,
+      "kda_assists": 6.6,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Annie": 6,
+        "Lulu": 2,
+        "Janna": 1,
+        "Thresh": 1
+      },
+      "times": [
+        "Team Curse",
+        "Curse Academy"
+      ]
+    },
+    "Darshan": {
+      "partidas": 73,
+      "winrate": 39.7,
+      "kda_kills": 2.7,
+      "kda_deaths": 2.3,
+      "kda_assists": 4.1,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 11,
+        "Jax": 10,
+        "Dr. Mundo": 8,
+        "Irelia": 7,
+        "Renekton": 5
+      },
+      "times": [
+        "Team Coast",
+        "Dignitas"
+      ]
+    },
+    "NintendudeX": {
+      "partidas": 37,
+      "winrate": 32.4,
+      "kda_kills": 1.7,
+      "kda_deaths": 3.6,
+      "kda_assists": 5.2,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 11,
+        "Vi": 6,
+        "Evelynn": 5,
+        "Pantheon": 3,
+        "Wukong": 3
+      },
+      "times": [
+        "Team Coast"
+      ]
+    },
+    "Shiphtur": {
+      "partidas": 73,
+      "winrate": 39.7,
+      "kda_kills": 3.9,
+      "kda_deaths": 1.5,
+      "kda_assists": 4.2,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Ziggs": 14,
+        "Ahri": 10,
+        "Nidalee": 8,
+        "Syndra": 7,
+        "LeBlanc": 7
+      },
+      "times": [
+        "Team Coast",
+        "Dignitas"
+      ]
+    },
+    "Apollo": {
+      "partidas": 39,
+      "winrate": 35.9,
+      "kda_kills": 3.1,
+      "kda_deaths": 2.6,
+      "kda_assists": 4.8,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 16,
+        "Caitlyn": 9,
+        "Varus": 5,
+        "Jinx": 5,
+        "Ezreal": 2
+      },
+      "times": [
+        "Team Coast"
+      ]
+    },
+    "Daydreamin": {
+      "partidas": 39,
+      "winrate": 35.9,
+      "kda_kills": 0.8,
+      "kda_deaths": 3.5,
+      "kda_assists": 7.3,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 13,
+        "Leona": 9,
+        "Annie": 6,
+        "Morgana": 5,
+        "Lulu": 2
+      },
+      "times": [
+        "Team Coast"
+      ]
+    },
+    "Nien": {
+      "partidas": 43,
+      "winrate": 53.5,
+      "kda_kills": 2.6,
+      "kda_deaths": 2.9,
+      "kda_assists": 6.1,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 18,
+        "Trundle": 7,
+        "Dr. Mundo": 4,
+        "Renekton": 3,
+        "Yasuo": 2
+      },
+      "times": [
+        "Counter Logic Gaming",
+        "Frank Fang Gaming"
+      ]
+    },
+    "Link": {
+      "partidas": 66,
+      "winrate": 56.1,
+      "kda_kills": 3.1,
+      "kda_deaths": 2.1,
+      "kda_assists": 5.8,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 10,
+        "Lulu": 8,
+        "Ziggs": 7,
+        "Nidalee": 7,
+        "LeBlanc": 6
+      },
+      "times": [
+        "Counter Logic Gaming"
+      ]
+    },
+    "HotshotGG": {
+      "partidas": 10,
+      "winrate": 20.0,
+      "kda_kills": 1.7,
+      "kda_deaths": 2.5,
+      "kda_assists": 3.8,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Nidalee": 3,
+        "Zilean": 2,
+        "Cassiopeia": 1,
+        "Ziggs": 1,
+        "Xerath": 1
+      },
+      "times": [
+        "Counter Logic Gaming"
+      ]
+    },
+    "Doublelift": {
+      "partidas": 66,
+      "winrate": 56.1,
+      "kda_kills": 4.7,
+      "kda_deaths": 2.2,
+      "kda_assists": 5.0,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 17,
+        "Jinx": 10,
+        "Vayne": 9,
+        "Sivir": 9,
+        "Twitch": 7
+      },
+      "times": [
+        "Counter Logic Gaming"
+      ]
+    },
+    "aphromoo": {
+      "partidas": 66,
+      "winrate": 56.1,
+      "kda_kills": 0.8,
+      "kda_deaths": 2.4,
+      "kda_assists": 8.6,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 15,
+        "Morgana": 13,
+        "Leona": 10,
+        "Braum": 9,
+        "Alistar": 5
+      },
+      "times": [
+        "Counter Logic Gaming"
+      ]
+    },
+    "Cruzer": {
+      "partidas": 34,
+      "winrate": 44.1,
+      "kda_kills": 2.0,
+      "kda_deaths": 2.5,
+      "kda_assists": 5.6,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Dr. Mundo": 8,
+        "Shyvana": 6,
+        "Trundle": 5,
+        "Lee Sin": 5,
+        "Renekton": 3
+      },
+      "times": [
+        "Dignitas"
+      ]
+    },
+    "Crumbz": {
+      "partidas": 70,
+      "winrate": 45.7,
+      "kda_kills": 1.6,
+      "kda_deaths": 2.9,
+      "kda_assists": 6.3,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 18,
+        "Lee Sin": 12,
+        "Kha'Zix": 10,
+        "Vi": 9,
+        "Nocturne": 5
+      },
+      "times": [
+        "Dignitas"
+      ]
+    },
+    "scarra": {
+      "partidas": 28,
+      "winrate": 42.9,
+      "kda_kills": 2.6,
+      "kda_deaths": 3.1,
+      "kda_assists": 5.5,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Karthus": 5,
+        "Gragas": 5,
+        "Ziggs": 4,
+        "Nidalee": 4,
+        "Orianna": 4
+      },
+      "times": [
+        "Dignitas"
+      ]
+    },
+    "Imaqtpie": {
+      "partidas": 70,
+      "winrate": 45.7,
+      "kda_kills": 3.6,
+      "kda_deaths": 2.1,
+      "kda_assists": 4.8,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 27,
+        "Jinx": 13,
+        "Kog'Maw": 6,
+        "Draven": 4,
+        "Corki": 4
+      },
+      "times": [
+        "Dignitas"
+      ]
+    },
+    "KiWiKiD": {
+      "partidas": 70,
+      "winrate": 45.7,
+      "kda_kills": 0.9,
+      "kda_deaths": 3.3,
+      "kda_assists": 7.6,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 19,
+        "Annie": 18,
+        "Braum": 11,
+        "Leona": 7,
+        "Zyra": 6
+      },
+      "times": [
+        "Dignitas"
+      ]
+    },
+    "Yazuki": {
+      "partidas": 16,
+      "winrate": 31.2,
+      "kda_kills": 2.6,
+      "kda_deaths": 2.9,
+      "kda_assists": 4.4,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 6,
+        "Renekton": 4,
+        "Irelia": 3,
+        "Ryze": 2,
+        "Jax": 1
+      },
+      "times": [
+        "Cloud9 Tempest"
+      ]
+    },
+    "Kez": {
+      "partidas": 38,
+      "winrate": 36.8,
+      "kda_kills": 2.1,
+      "kda_deaths": 3.1,
+      "kda_assists": 5.1,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 18,
+        "Evelynn": 10,
+        "Pantheon": 3,
+        "Vi": 2,
+        "Olaf": 1
+      },
+      "times": [
+        "Cloud9 Tempest",
+        "compLexity Gaming"
+      ]
+    },
+    "Bischu": {
+      "partidas": 16,
+      "winrate": 31.2,
+      "kda_kills": 1.7,
+      "kda_deaths": 2.8,
+      "kda_assists": 5.9,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Soraka": 4,
+        "Ziggs": 3,
+        "Lulu": 3,
+        "Gragas": 2,
+        "Nidalee": 2
+      },
+      "times": [
+        "Cloud9 Tempest"
+      ]
+    },
+    "Altec": {
+      "partidas": 43,
+      "winrate": 37.2,
+      "kda_kills": 4.4,
+      "kda_deaths": 1.6,
+      "kda_assists": 3.7,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Corki": 13,
+        "Lucian": 9,
+        "Twitch": 6,
+        "Tristana": 6,
+        "Kog'Maw": 5
+      },
+      "times": [
+        "Cloud9 Tempest",
+        "Evil Geniuses"
+      ]
+    },
+    "Gleeb": {
+      "partidas": 38,
+      "winrate": 47.4,
+      "kda_kills": 0.6,
+      "kda_deaths": 2.2,
+      "kda_assists": 8.3,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 11,
+        "Nami": 8,
+        "Karma": 7,
+        "Morgana": 6,
+        "Annie": 2
+      },
+      "times": [
+        "Cloud9 Tempest",
+        "TSM"
+      ]
+    },
+    "Jezie": {
+      "partidas": 10,
+      "winrate": 30.0,
+      "kda_kills": 1.5,
+      "kda_deaths": 3.7,
+      "kda_assists": 6.7,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 3,
+        "Shyvana": 2,
+        "Shen": 1,
+        "Dr. Mundo": 1,
+        "Rumble": 1
+      },
+      "times": [
+        "Dadslammers",
+        "compLexity.Red"
+      ]
+    },
+    "Nk Inc": {
+      "partidas": 10,
+      "winrate": 30.0,
+      "kda_kills": 1.9,
+      "kda_deaths": 4.6,
+      "kda_assists": 5.8,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 3,
+        "Vi": 2,
+        "Elise": 1,
+        "Fiddlesticks": 1,
+        "Wukong": 1
+      },
+      "times": [
+        "Dadslammers",
+        "compLexity.Red"
+      ]
+    },
+    "Goldenglue": {
+      "partidas": 31,
+      "winrate": 61.3,
+      "kda_kills": 4.5,
+      "kda_deaths": 2.7,
+      "kda_assists": 6.4,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Ziggs": 7,
+        "Yasuo": 6,
+        "Orianna": 6,
+        "Kha'Zix": 2,
+        "Syndra": 2
+      },
+      "times": [
+        "Dadslammers",
+        "compLexity.Red",
+        "Dignitas",
+        "Team Coast"
+      ]
+    },
+    "Mabrey": {
+      "partidas": 27,
+      "winrate": 48.1,
+      "kda_kills": 4.5,
+      "kda_deaths": 2.7,
+      "kda_assists": 5.4,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Tristana": 6,
+        "Ezreal": 5,
+        "Corki": 5,
+        "Sivir": 3,
+        "Twitch": 3
+      },
+      "times": [
+        "Dadslammers",
+        "compLexity.Red",
+        "Curse Academy"
+      ]
+    },
+    "Nisker": {
+      "partidas": 15,
+      "winrate": 26.7,
+      "kda_kills": 0.4,
+      "kda_deaths": 3.9,
+      "kda_assists": 6.0,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 4,
+        "Morgana": 3,
+        "Annie": 3,
+        "Leona": 2,
+        "Lulu": 1
+      },
+      "times": [
+        "Dadslammers",
+        "compLexity.Red",
+        "Denial eSports"
+      ]
+    },
+    "GodLike": {
+      "partidas": 65,
+      "winrate": 66.2,
+      "kda_kills": 2.5,
+      "kda_deaths": 2.7,
+      "kda_assists": 7.1,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 13,
+        "Shyvana": 9,
+        "Gragas": 9,
+        "Lulu": 8,
+        "Maokai": 6
+      },
+      "times": [
+        "LMQ"
+      ]
+    },
+    "NONAME": {
+      "partidas": 65,
+      "winrate": 66.2,
+      "kda_kills": 2.7,
+      "kda_deaths": 2.8,
+      "kda_assists": 7.5,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 21,
+        "Elise": 13,
+        "Kha'Zix": 11,
+        "Jarvan IV": 7,
+        "Nunu & Willump": 4
+      },
+      "times": [
+        "LMQ"
+      ]
+    },
+    "xiaoweixiao": {
+      "partidas": 65,
+      "winrate": 66.2,
+      "kda_kills": 4.5,
+      "kda_deaths": 2.0,
+      "kda_assists": 6.0,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 13,
+        "Yasuo": 11,
+        "Nidalee": 8,
+        "LeBlanc": 7,
+        "Twisted Fate": 6
+      },
+      "times": [
+        "LMQ"
+      ]
+    },
+    "Vas1lii": {
+      "partidas": 65,
+      "winrate": 66.2,
+      "kda_kills": 4.5,
+      "kda_deaths": 1.9,
+      "kda_assists": 5.9,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 13,
+        "Caitlyn": 12,
+        "Tristana": 10,
+        "Twitch": 9,
+        "Kog'Maw": 7
+      },
+      "times": [
+        "LMQ"
+      ]
+    },
+    "Mor": {
+      "partidas": 65,
+      "winrate": 66.2,
+      "kda_kills": 0.9,
+      "kda_deaths": 3.0,
+      "kda_assists": 10.1,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 19,
+        "Braum": 11,
+        "Nami": 9,
+        "Morgana": 7,
+        "Leona": 6
+      },
+      "times": [
+        "LMQ"
+      ]
+    },
+    "Westrice": {
+      "partidas": 48,
+      "winrate": 47.9,
+      "kda_kills": 2.2,
+      "kda_deaths": 3.3,
+      "kda_assists": 4.5,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 13,
+        "Jax": 6,
+        "Shyvana": 6,
+        "Dr. Mundo": 4,
+        "Lee Sin": 4
+      },
+      "times": [
+        "Determined Gaming",
+        "compLexity.Black",
+        "compLexity Gaming"
+      ]
+    },
+    "Brokenshard": {
+      "partidas": 34,
+      "winrate": 47.1,
+      "kda_kills": 2.9,
+      "kda_deaths": 3.4,
+      "kda_assists": 5.1,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 10,
+        "Elise": 10,
+        "Kha'Zix": 5,
+        "Xin Zhao": 3,
+        "Pantheon": 2
+      },
+      "times": [
+        "Determined Gaming",
+        "compLexity.Black",
+        "compLexity Gaming",
+        "Copenhagen Wolves"
+      ]
+    },
+    "pr0lly": {
+      "partidas": 46,
+      "winrate": 50.0,
+      "kda_kills": 2.3,
+      "kda_deaths": 2.8,
+      "kda_assists": 5.2,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 10,
+        "Ziggs": 8,
+        "Syndra": 6,
+        "Kassadin": 5,
+        "LeBlanc": 5
+      },
+      "times": [
+        "Determined Gaming",
+        "compLexity.Black",
+        "compLexity Gaming"
+      ]
+    },
+    "ROBERTxLEE": {
+      "partidas": 50,
+      "winrate": 46.0,
+      "kda_kills": 3.3,
+      "kda_deaths": 2.4,
+      "kda_assists": 4.2,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 17,
+        "Caitlyn": 12,
+        "Corki": 8,
+        "Tristana": 6,
+        "Sivir": 3
+      },
+      "times": [
+        "Determined Gaming",
+        "compLexity.Black",
+        "Evil Geniuses",
+        "compLexity Gaming"
+      ]
+    },
+    "Bubbadub": {
+      "partidas": 48,
+      "winrate": 47.9,
+      "kda_kills": 0.7,
+      "kda_deaths": 3.0,
+      "kda_assists": 6.9,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 15,
+        "Thresh": 10,
+        "Karma": 5,
+        "Lulu": 4,
+        "Zyra": 4
+      },
+      "times": [
+        "Determined Gaming",
+        "compLexity.Black",
+        "compLexity Gaming"
+      ]
+    },
+    "Rhux": {
+      "partidas": 30,
+      "winrate": 63.3,
+      "kda_kills": 2.9,
+      "kda_deaths": 2.1,
+      "kda_assists": 6.5,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Renekton": 8,
+        "Shyvana": 6,
+        "Ryze": 6,
+        "Nidalee": 3,
+        "Lulu": 3
+      },
+      "times": [
+        "Curse Academy",
+        "Team Coast"
+      ]
+    },
+    "Pat": {
+      "partidas": 15,
+      "winrate": 40.0,
+      "kda_kills": 3.5,
+      "kda_deaths": 3.7,
+      "kda_assists": 7.8,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 6,
+        "Elise": 4,
+        "Evelynn": 2,
+        "Vi": 1,
+        "Xin Zhao": 1
+      },
+      "times": [
+        "Curse Academy",
+        "Area of Effect eSports"
+      ]
+    },
+    "Sheep": {
+      "partidas": 34,
+      "winrate": 44.1,
+      "kda_kills": 0.9,
+      "kda_deaths": 3.4,
+      "kda_assists": 7.9,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 9,
+        "Morgana": 7,
+        "Leona": 6,
+        "Nami": 5,
+        "Annie": 2
+      },
+      "times": [
+        "Curse Academy",
+        "XDG Gaming",
+        "Team Coast"
+      ]
+    },
+    "Cpt Ziploc": {
+      "partidas": 13,
+      "winrate": 23.1,
+      "kda_kills": 2.5,
+      "kda_deaths": 3.8,
+      "kda_assists": 7.5,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Vi": 5,
+        "Lee Sin": 3,
+        "Pantheon": 2,
+        "Elise": 2,
+        "Amumu": 1
+      },
+      "times": [
+        "COGnitive Gaming",
+        "Frank Fang Gaming",
+        "Wazabi Gaming"
+      ]
+    },
+    "Cris": {
+      "partidas": 26,
+      "winrate": 50.0,
+      "kda_kills": 3.0,
+      "kda_deaths": 2.2,
+      "kda_assists": 6.2,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Dr. Mundo": 5,
+        "Shyvana": 5,
+        "Lulu": 4,
+        "Renekton": 3,
+        "Ryze": 2
+      },
+      "times": [
+        "vVv Gaming White",
+        "vVv Gaming",
+        "Curse Academy"
+      ]
+    },
+    "Saintvicious": {
+      "partidas": 25,
+      "winrate": 48.0,
+      "kda_kills": 1.9,
+      "kda_deaths": 4.0,
+      "kda_assists": 8.0,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 5,
+        "Leona": 4,
+        "Evelynn": 4,
+        "Kha'Zix": 4,
+        "Lee Sin": 2
+      },
+      "times": [
+        "Team Curse",
+        "Curse Academy"
+      ]
+    },
+    "Dexter": {
+      "partidas": 57,
+      "winrate": 57.9,
+      "kda_kills": 2.6,
+      "kda_deaths": 2.4,
+      "kda_assists": 6.1,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 17,
+        "Lee Sin": 9,
+        "Evelynn": 7,
+        "Kha'Zix": 7,
+        "Vi": 5
+      },
+      "times": [
+        "Counter Logic Gaming"
+      ]
+    },
+    "Zorozero": {
+      "partidas": 21,
+      "winrate": 57.1,
+      "kda_kills": 1.9,
+      "kda_deaths": 1.7,
+      "kda_assists": 4.3,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 10,
+        "Dr. Mundo": 4,
+        "Gragas": 2,
+        "Ryze": 2,
+        "Irelia": 2
+      },
+      "times": [
+        "Ninjas in Pyjamas",
+        "Gambit Gaming"
+      ]
+    },
+    "Nukeduck": {
+      "partidas": 23,
+      "winrate": 60.9,
+      "kda_kills": 4.6,
+      "kda_deaths": 1.8,
+      "kda_assists": 3.9,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Lulu": 5,
+        "Zed": 5,
+        "Fizz": 3,
+        "LeBlanc": 2,
+        "Ahri": 2
+      },
+      "times": [
+        "Ninjas in Pyjamas",
+        "Gambit Gaming"
+      ]
+    },
+    "Freeze": {
+      "partidas": 39,
+      "winrate": 53.8,
+      "kda_kills": 4.9,
+      "kda_deaths": 1.5,
+      "kda_assists": 4.7,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 11,
+        "Kog'Maw": 7,
+        "Twitch": 7,
+        "Draven": 5,
+        "Tristana": 4
+      },
+      "times": [
+        "Ninjas in Pyjamas"
+      ]
+    },
+    "Mithy": {
+      "partidas": 21,
+      "winrate": 61.9,
+      "kda_kills": 0.7,
+      "kda_deaths": 2.7,
+      "kda_assists": 8.4,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 8,
+        "Leona": 6,
+        "Morgana": 2,
+        "Nami": 2,
+        "Annie": 1
+      },
+      "times": [
+        "Ninjas in Pyjamas"
+      ]
+    },
+    "Odoamne": {
+      "partidas": 33,
+      "winrate": 60.6,
+      "kda_kills": 3.4,
+      "kda_deaths": 2.7,
+      "kda_assists": 6.5,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 6,
+        "Dr. Mundo": 5,
+        "Trundle": 4,
+        "Gragas": 3,
+        "Ryze": 3
+      },
+      "times": [
+        "Cloud9 Eclipse",
+        "H2k-Gaming"
+      ]
+    },
+    "k0u": {
+      "partidas": 23,
+      "winrate": 69.6,
+      "kda_kills": 2.8,
+      "kda_deaths": 3.9,
+      "kda_assists": 8.9,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Evelynn": 6,
+        "Lee Sin": 5,
+        "Elise": 3,
+        "Jarvan IV": 2,
+        "Vi": 2
+      },
+      "times": [
+        "Cloud9 Eclipse",
+        "Ninjas in Pyjamas"
+      ]
+    },
+    "FEBIVEN": {
+      "partidas": 33,
+      "winrate": 60.6,
+      "kda_kills": 4.1,
+      "kda_deaths": 2.2,
+      "kda_assists": 6.0,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Nidalee": 7,
+        "Ahri": 4,
+        "Orianna": 4,
+        "Twisted Fate": 4,
+        "LeBlanc": 3
+      },
+      "times": [
+        "Cloud9 Eclipse",
+        "H2k-Gaming"
+      ]
+    },
+    "Hjarnan": {
+      "partidas": 33,
+      "winrate": 60.6,
+      "kda_kills": 3.6,
+      "kda_deaths": 2.2,
+      "kda_assists": 5.8,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 11,
+        "Kog'Maw": 8,
+        "Sivir": 5,
+        "Graves": 2,
+        "Caitlyn": 2
+      },
+      "times": [
+        "Cloud9 Eclipse",
+        "H2k-Gaming"
+      ]
+    },
+    "Voidle": {
+      "partidas": 32,
+      "winrate": 46.9,
+      "kda_kills": 0.8,
+      "kda_deaths": 3.3,
+      "kda_assists": 7.9,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Braum": 7,
+        "Thresh": 7,
+        "Leona": 5,
+        "Nami": 3,
+        "Morgana": 2
+      },
+      "times": [
+        "Cloud9 Eclipse",
+        "Ninjas in Pyjamas"
+      ]
+    },
+    "Hulberto": {
+      "partidas": 19,
+      "winrate": 63.2,
+      "kda_kills": 1.7,
+      "kda_deaths": 0.8,
+      "kda_assists": 4.5,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 8,
+        "Kha'Zix": 4,
+        "Evelynn": 3,
+        "Nocturne": 2,
+        "Olaf": 1
+      },
+      "times": [
+        "Gambit Gaming",
+        "Ninjas in Pyjamas"
+      ]
+    },
+    "Ippon": {
+      "partidas": 18,
+      "winrate": 50.0,
+      "kda_kills": 2.4,
+      "kda_deaths": 2.8,
+      "kda_assists": 5.0,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Dr. Mundo": 6,
+        "Jax": 3,
+        "Ryze": 3,
+        "Shyvana": 2,
+        "Trundle": 2
+      },
+      "times": [
+        "Departed",
+        "Denial eSports.Europe"
+      ]
+    },
+    "Kikis": {
+      "partidas": 42,
+      "winrate": 59.5,
+      "kda_kills": 2.6,
+      "kda_deaths": 2.8,
+      "kda_assists": 8.0,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Jarvan IV": 10,
+        "Lee Sin": 7,
+        "Vi": 6,
+        "Elise": 4,
+        "Rengar": 3
+      },
+      "times": [
+        "Departed",
+        "Denial eSports.Europe",
+        "Lublin Shore",
+        "Reason Gaming",
+        "SK Gaming Prime"
+      ]
+    },
+    "niQ": {
+      "partidas": 44,
+      "winrate": 38.6,
+      "kda_kills": 2.8,
+      "kda_deaths": 2.3,
+      "kda_assists": 5.1,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Lulu": 11,
+        "Nidalee": 8,
+        "Ziggs": 8,
+        "Kayle": 4,
+        "Twisted Fate": 3
+      },
+      "times": [
+        "Departed",
+        "Denial eSports.Europe",
+        "Gambit Gaming"
+      ]
+    },
+    "Woolite": {
+      "partidas": 43,
+      "winrate": 39.5,
+      "kda_kills": 4.3,
+      "kda_deaths": 2.7,
+      "kda_assists": 4.4,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 13,
+        "Twitch": 9,
+        "Tristana": 5,
+        "Kog'Maw": 4,
+        "Graves": 4
+      },
+      "times": [
+        "Departed",
+        "Denial eSports.Europe",
+        "Copenhagen Wolves"
+      ]
+    },
+    "Kasing": {
+      "partidas": 27,
+      "winrate": 59.3,
+      "kda_kills": 0.8,
+      "kda_deaths": 2.9,
+      "kda_assists": 9.1,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 12,
+        "Braum": 6,
+        "Thresh": 3,
+        "Nami": 3,
+        "Annie": 1
+      },
+      "times": [
+        "Steve Bakes Cookies",
+        "SUPA HOT CREW"
+      ]
+    },
+    "Bunny FuFuu": {
+      "partidas": 36,
+      "winrate": 50.0,
+      "kda_kills": 0.8,
+      "kda_deaths": 2.8,
+      "kda_assists": 9.6,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 8,
+        "Leona": 7,
+        "Morgana": 5,
+        "Zilean": 5,
+        "Braum": 4
+      },
+      "times": [
+        "Team Curse",
+        "Curse Academy"
+      ]
+    },
+    "CaliTrlolz": {
+      "partidas": 18,
+      "winrate": 66.7,
+      "kda_kills": 4.4,
+      "kda_deaths": 3.4,
+      "kda_assists": 5.3,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Gragas": 5,
+        "Vladimir": 3,
+        "Maokai": 3,
+        "Lee Sin": 2,
+        "Lulu": 2
+      },
+      "times": [
+        "Team 8"
+      ]
+    },
+    "Slooshi": {
+      "partidas": 18,
+      "winrate": 66.7,
+      "kda_kills": 4.2,
+      "kda_deaths": 2.6,
+      "kda_assists": 5.9,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 5,
+        "Ziggs": 4,
+        "Twisted Fate": 2,
+        "Syndra": 2,
+        "Yasuo": 2
+      },
+      "times": [
+        "Team 8"
+      ]
+    },
+    "Maplestreet": {
+      "partidas": 18,
+      "winrate": 66.7,
+      "kda_kills": 2.8,
+      "kda_deaths": 2.3,
+      "kda_assists": 6.3,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Kog'Maw": 8,
+        "Lucian": 4,
+        "Corki": 2,
+        "Tristana": 2,
+        "Caitlyn": 1
+      },
+      "times": [
+        "Team 8"
+      ]
+    },
+    "Dodo": {
+      "partidas": 18,
+      "winrate": 66.7,
+      "kda_kills": 1.4,
+      "kda_deaths": 2.8,
+      "kda_assists": 9.7,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Nami": 7,
+        "Alistar": 3,
+        "Annie": 2,
+        "Braum": 2,
+        "Leona": 2
+      },
+      "times": [
+        "Team 8"
+      ]
+    },
+    "Hauntzer": {
+      "partidas": 24,
+      "winrate": 45.8,
+      "kda_kills": 2.5,
+      "kda_deaths": 3.0,
+      "kda_assists": 5.7,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 6,
+        "Dr. Mundo": 6,
+        "Trundle": 3,
+        "Ryze": 2,
+        "Maokai": 2
+      },
+      "times": [
+        "Team LoLPro"
+      ]
+    },
+    "heavenTime": {
+      "partidas": 24,
+      "winrate": 45.8,
+      "kda_kills": 2.6,
+      "kda_deaths": 4.2,
+      "kda_assists": 7.1,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Jarvan IV": 5,
+        "Elise": 5,
+        "Kha'Zix": 4,
+        "Nunu & Willump": 4,
+        "Lee Sin": 2
+      },
+      "times": [
+        "Team LoLPro"
+      ]
+    },
+    "B3nji": {
+      "partidas": 24,
+      "winrate": 45.8,
+      "kda_kills": 4.5,
+      "kda_deaths": 3.2,
+      "kda_assists": 4.8,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Syndra": 4,
+        "Orianna": 4,
+        "Ziggs": 3,
+        "Zed": 3,
+        "Yasuo": 3
+      },
+      "times": [
+        "Team LoLPro"
+      ]
+    },
+    "Lohpally": {
+      "partidas": 10,
+      "winrate": 60.0,
+      "kda_kills": 0.5,
+      "kda_deaths": 3.1,
+      "kda_assists": 11.0,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Nami": 4,
+        "Braum": 3,
+        "Morgana": 2,
+        "Sona": 1
+      },
+      "times": [
+        "Team LoLPro"
+      ]
+    },
+    "Kubon": {
+      "partidas": 23,
+      "winrate": 34.8,
+      "kda_kills": 3.3,
+      "kda_deaths": 2.6,
+      "kda_assists": 4.9,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Irelia": 5,
+        "Jax": 3,
+        "Elise": 2,
+        "Shyvana": 2,
+        "Gragas": 2
+      },
+      "times": [
+        "MOUZ NXT",
+        "Lublin Shore",
+        "Reason Gaming",
+        "Gambit Gaming"
+      ]
+    },
+    "Takefun": {
+      "partidas": 15,
+      "winrate": 33.3,
+      "kda_kills": 3.7,
+      "kda_deaths": 3.5,
+      "kda_assists": 5.5,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "LeBlanc": 4,
+        "Orianna": 3,
+        "Gragas": 2,
+        "Ahri": 2,
+        "Zed": 1
+      },
+      "times": [
+        "MOUZ NXT",
+        "Lublin Shore",
+        "Reason Gaming"
+      ]
+    },
+    "Makler": {
+      "partidas": 15,
+      "winrate": 33.3,
+      "kda_kills": 3.1,
+      "kda_deaths": 2.6,
+      "kda_assists": 5.1,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 5,
+        "Twitch": 4,
+        "Sivir": 3,
+        "Kog'Maw": 1,
+        "Graves": 1
+      },
+      "times": [
+        "MOUZ NXT",
+        "Lublin Shore",
+        "Reason Gaming"
+      ]
+    },
+    "Libik": {
+      "partidas": 15,
+      "winrate": 33.3,
+      "kda_kills": 0.9,
+      "kda_deaths": 4.1,
+      "kda_assists": 6.9,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 4,
+        "Annie": 3,
+        "Morgana": 3,
+        "Nami": 2,
+        "Leona": 2
+      },
+      "times": [
+        "MOUZ NXT",
+        "Lublin Shore",
+        "Reason Gaming"
+      ]
+    },
+    "beansu": {
+      "partidas": 14,
+      "winrate": 42.9,
+      "kda_kills": 1.7,
+      "kda_deaths": 2.7,
+      "kda_assists": 4.7,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Irelia": 5,
+        "Renekton": 4,
+        "Shyvana": 3,
+        "Trundle": 2
+      },
+      "times": [
+        "Reason Gaming"
+      ]
+    },
+    "Kold": {
+      "partidas": 33,
+      "winrate": 57.6,
+      "kda_kills": 3.4,
+      "kda_deaths": 2.7,
+      "kda_assists": 7.8,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 9,
+        "Jarvan IV": 7,
+        "Lee Sin": 6,
+        "Rengar": 4,
+        "Kha'Zix": 2
+      },
+      "times": [
+        "Reason Gaming",
+        "H2k-Gaming"
+      ]
+    },
+    "Sencux": {
+      "partidas": 16,
+      "winrate": 37.5,
+      "kda_kills": 3.1,
+      "kda_deaths": 2.7,
+      "kda_assists": 4.4,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Nidalee": 3,
+        "Talon": 3,
+        "Orianna": 3,
+        "Syndra": 2,
+        "LeBlanc": 2
+      },
+      "times": [
+        "Reason Gaming",
+        "4everzenzyg"
+      ]
+    },
+    "P1noy": {
+      "partidas": 14,
+      "winrate": 42.9,
+      "kda_kills": 3.5,
+      "kda_deaths": 2.2,
+      "kda_assists": 4.4,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Caitlyn": 7,
+        "Lucian": 5,
+        "Sivir": 1,
+        "Vayne": 1
+      },
+      "times": [
+        "Reason Gaming"
+      ]
+    },
+    "BarneyD": {
+      "partidas": 14,
+      "winrate": 42.9,
+      "kda_kills": 0.6,
+      "kda_deaths": 3.6,
+      "kda_assists": 7.8,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Leona": 6,
+        "Thresh": 5,
+        "Annie": 2,
+        "Karma": 1
+      },
+      "times": [
+        "Reason Gaming"
+      ]
+    },
+    "Jwaow": {
+      "partidas": 17,
+      "winrate": 47.1,
+      "kda_kills": 3.0,
+      "kda_deaths": 3.2,
+      "kda_assists": 5.8,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Irelia": 5,
+        "Shyvana": 4,
+        "Nidalee": 2,
+        "Renekton": 1,
+        "Jax": 1
+      },
+      "times": [
+        "Gamers2"
+      ]
+    },
+    "Morden": {
+      "partidas": 17,
+      "winrate": 47.1,
+      "kda_kills": 2.8,
+      "kda_deaths": 2.2,
+      "kda_assists": 5.9,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 10,
+        "Elise": 6,
+        "Rengar": 1
+      },
+      "times": [
+        "Gamers2"
+      ]
+    },
+    "ocelote": {
+      "partidas": 17,
+      "winrate": 47.1,
+      "kda_kills": 3.5,
+      "kda_deaths": 2.4,
+      "kda_assists": 5.8,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Lulu": 4,
+        "Nidalee": 3,
+        "Syndra": 3,
+        "Gragas": 1,
+        "Orianna": 1
+      },
+      "times": [
+        "Gamers2"
+      ]
+    },
+    "Yuuki60": {
+      "partidas": 17,
+      "winrate": 47.1,
+      "kda_kills": 3.9,
+      "kda_deaths": 2.3,
+      "kda_assists": 5.7,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 6,
+        "Kog'Maw": 3,
+        "Tristana": 3,
+        "Jinx": 2,
+        "Twitch": 2
+      },
+      "times": [
+        "Gamers2"
+      ]
+    },
+    "Dioud": {
+      "partidas": 10,
+      "winrate": 50.0,
+      "kda_kills": 0.6,
+      "kda_deaths": 3.2,
+      "kda_assists": 7.8,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 5,
+        "Thresh": 3,
+        "Leona": 1,
+        "Braum": 1
+      },
+      "times": [
+        "Gamers2"
+      ]
+    },
+    "Duocek": {
+      "partidas": 11,
+      "winrate": 54.5,
+      "kda_kills": 2.6,
+      "kda_deaths": 2.8,
+      "kda_assists": 6.9,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Lulu": 3,
+        "Kayle": 3,
+        "Nidalee": 2,
+        "Karthus": 1,
+        "Ziggs": 1
+      },
+      "times": [
+        "Curse Academy"
+      ]
+    },
+    "Mash": {
+      "partidas": 28,
+      "winrate": 67.9,
+      "kda_kills": 5.3,
+      "kda_deaths": 1.7,
+      "kda_assists": 6.2,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 11,
+        "Vayne": 4,
+        "Tristana": 4,
+        "Caitlyn": 2,
+        "Corki": 2
+      },
+      "times": [
+        "Curse Academy",
+        "Team Coast"
+      ]
+    },
+    "Nulu": {
+      "partidas": 45,
+      "winrate": 55.6,
+      "kda_kills": 3.6,
+      "kda_deaths": 2.8,
+      "kda_assists": 5.4,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 8,
+        "Kayle": 5,
+        "Yasuo": 5,
+        "Lulu": 4,
+        "Ahri": 4
+      },
+      "times": [
+        "SUPA HOT CREW"
+      ]
+    },
+    "Kottenx": {
+      "partidas": 44,
+      "winrate": 38.6,
+      "kda_kills": 2.8,
+      "kda_deaths": 4.1,
+      "kda_assists": 7.0,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 16,
+        "Evelynn": 10,
+        "Kha'Zix": 9,
+        "Nocturne": 2,
+        "Elise": 2
+      },
+      "times": [
+        "Millenium"
+      ]
+    },
+    "Airwaks": {
+      "partidas": 21,
+      "winrate": 28.6,
+      "kda_kills": 2.8,
+      "kda_deaths": 4.5,
+      "kda_assists": 6.9,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 9,
+        "Evelynn": 6,
+        "Elise": 3,
+        "Yorick": 2,
+        "Jax": 1
+      },
+      "times": [
+        "Team Coast Gold",
+        "Copenhagen Wolves"
+      ]
+    },
+    "SuperAZE": {
+      "partidas": 12,
+      "winrate": 41.7,
+      "kda_kills": 0.3,
+      "kda_deaths": 2.6,
+      "kda_assists": 5.5,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 4,
+        "Kayle": 3,
+        "Karma": 3,
+        "Annie": 1,
+        "Sona": 1
+      },
+      "times": [
+        "Denial eSports.Europe"
+      ]
+    },
+    "Santorin": {
+      "partidas": 18,
+      "winrate": 61.1,
+      "kda_kills": 2.2,
+      "kda_deaths": 2.3,
+      "kda_assists": 8.6,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Nunu & Willump": 4,
+        "Lee Sin": 4,
+        "Elise": 3,
+        "Kha'Zix": 3,
+        "Evelynn": 3
+      },
+      "times": [
+        "Cloud9 Eclipse",
+        "Team Coast"
+      ]
+    },
+    "wewillfailer": {
+      "partidas": 13,
+      "winrate": 46.2,
+      "kda_kills": 0.7,
+      "kda_deaths": 3.5,
+      "kda_assists": 7.7,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 8,
+        "Nami": 2,
+        "Leona": 1,
+        "Morgana": 1,
+        "Sona": 1
+      },
+      "times": [
+        "SUPA HOT CREW",
+        "H2k-Gaming"
+      ]
+    },
+    "SERAPH": {
+      "partidas": 31,
+      "winrate": 45.2,
+      "kda_kills": 1.4,
+      "kda_deaths": 2.9,
+      "kda_assists": 5.1,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Shyvana": 10,
+        "Lulu": 5,
+        "Ryze": 3,
+        "Renekton": 3,
+        "Jax": 2
+      },
+      "times": [
+        "Counter Logic Gaming"
+      ]
+    },
+    "Vizicsacsi": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kda_kills": 4.0,
+      "kda_deaths": 2.8,
+      "kda_assists": 6.5,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Irelia": 4,
+        "Maokai": 3,
+        "Yorick": 2,
+        "Shyvana": 1,
+        "Jax": 1
+      },
+      "times": [
+        "Unicorns of Love"
+      ]
+    },
+    "PowerOfEvil": {
+      "partidas": 10,
+      "winrate": 60.0,
+      "kda_kills": 4.7,
+      "kda_deaths": 2.3,
+      "kda_assists": 6.5,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Ziggs": 2,
+        "Syndra": 2,
+        "Orianna": 2,
+        "Lulu": 1,
+        "Kog'Maw": 1
+      },
+      "times": [
+        "Unicorns of Love"
+      ]
+    },
+    "Hylissang": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kda_kills": 1.0,
+      "kda_deaths": 3.9,
+      "kda_assists": 9.7,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 3,
+        "Braum": 3,
+        "Thresh": 3,
+        "Leona": 2,
+        "Nami": 1
+      },
+      "times": [
+        "Unicorns of Love"
+      ]
+    },
+    "AoD": {
+      "partidas": 16,
+      "winrate": 75.0,
+      "kda_kills": 1.4,
+      "kda_deaths": 2.4,
+      "kda_assists": 11.1,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Morgana": 8,
+        "Thresh": 4,
+        "Nami": 3,
+        "Karma": 1
+      },
+      "times": [
+        "H2k-Gaming"
+      ]
+    },
+    "Jaeger": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 3.3,
+      "kda_deaths": 3.7,
+      "kda_assists": 6.2,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Irelia": 5,
+        "Riven": 5,
+        "Maokai": 3,
+        "Ryze": 2,
+        "Jax": 1
+      },
+      "times": [
+        "SK Gaming Prime"
+      ]
+    },
+    "Gilius": {
+      "partidas": 13,
+      "winrate": 46.2,
+      "kda_kills": 1.2,
+      "kda_deaths": 3.6,
+      "kda_assists": 8.2,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Jarvan IV": 5,
+        "Rengar": 4,
+        "Kha'Zix": 2,
+        "Elise": 1,
+        "Lee Sin": 1
+      },
+      "times": [
+        "SK Gaming Prime",
+        "Unicorns of Love",
+        "SK Gaming"
+      ]
+    },
+    "Fox": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 4.0,
+      "kda_deaths": 2.8,
+      "kda_assists": 7.3,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 3,
+        "Xerath": 3,
+        "Twisted Fate": 3,
+        "Syndra": 2,
+        "Yasuo": 2
+      },
+      "times": [
+        "SK Gaming Prime"
+      ]
+    },
+    "Haydal": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 5.2,
+      "kda_deaths": 2.4,
+      "kda_assists": 6.0,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Corki": 9,
+        "Lucian": 5,
+        "Ezreal": 3,
+        "Twitch": 2,
+        "Tristana": 1
+      },
+      "times": [
+        "SK Gaming Prime"
+      ]
+    },
+    "Zytan": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 1.1,
+      "kda_deaths": 2.8,
+      "kda_assists": 10.7,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Braum": 8,
+        "Thresh": 7,
+        "Nami": 4,
+        "Karma": 1
+      },
+      "times": [
+        "SK Gaming Prime"
+      ]
+    },
+    "Helios": {
+      "partidas": 20,
+      "winrate": 45.0,
+      "kda_kills": 1.4,
+      "kda_deaths": 2.8,
+      "kda_assists": 6.2,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Elise": 6,
+        "Lee Sin": 5,
+        "Evelynn": 4,
+        "Nunu & Willump": 3,
+        "Gragas": 1
+      },
+      "times": [
+        "Evil Geniuses"
+      ]
+    },
+    "Cabochard": {
+      "partidas": 15,
+      "winrate": 40.0,
+      "kda_kills": 3.0,
+      "kda_deaths": 3.7,
+      "kda_assists": 6.7,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Gragas": 5,
+        "Maokai": 4,
+        "Irelia": 3,
+        "Aatrox": 1,
+        "Alistar": 1
+      },
+      "times": [
+        "Gambit Gaming",
+        "Ninjas in Pyjamas"
+      ]
+    },
+    "Loulex": {
+      "partidas": 10,
+      "winrate": 10.0,
+      "kda_kills": 1.9,
+      "kda_deaths": 4.3,
+      "kda_assists": 4.5,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Evelynn": 6,
+        "Jarvan IV": 1,
+        "Elise": 1,
+        "Rengar": 1,
+        "Lee Sin": 1
+      },
+      "times": [
+        "Gambit Gaming",
+        "Ninjas in Pyjamas"
+      ]
+    },
+    "Vardags": {
+      "partidas": 10,
+      "winrate": 60.0,
+      "kda_kills": 5.2,
+      "kda_deaths": 2.2,
+      "kda_assists": 6.3,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Tristana": 5,
+        "Corki": 3,
+        "Caitlyn": 1,
+        "Kog'Maw": 1
+      },
+      "times": [
+        "Unicorns of Love"
+      ]
+    },
+    "Porpoise": {
+      "partidas": 15,
+      "winrate": 73.3,
+      "kda_kills": 2.9,
+      "kda_deaths": 3.1,
+      "kda_assists": 7.5,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Nocturne": 8,
+        "Elise": 3,
+        "Kha'Zix": 2,
+        "Evelynn": 1,
+        "Lee Sin": 1
+      },
+      "times": [
+        "Team 8"
+      ]
+    },
+    "Patoy": {
+      "partidas": 17,
+      "winrate": 35.3,
+      "kda_kills": 1.1,
+      "kda_deaths": 2.8,
+      "kda_assists": 6.6,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 6,
+        "Braum": 3,
+        "Zilean": 3,
+        "Kog'Maw": 2,
+        "Zyra": 1
+      },
+      "times": [
+        "Team LoLPro"
+      ]
+    },
+    "Lustboy": {
+      "partidas": 30,
+      "winrate": 56.7,
+      "kda_kills": 0.7,
+      "kda_deaths": 2.3,
+      "kda_assists": 9.5,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Nami": 17,
+        "Thresh": 4,
+        "Braum": 3,
+        "Janna": 3,
+        "Morgana": 1
+      },
+      "times": [
+        "TSM"
+      ]
+    },
+    "Korol": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kda_kills": 3.7,
+      "kda_deaths": 3.1,
+      "kda_assists": 6.9,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Maokai": 4,
+        "Ryze": 4,
+        "Irelia": 1,
+        "Lulu": 1,
+        "Kayle": 1
+      },
+      "times": [
+        "EDward Gaming"
+      ]
+    },
+    "Clearlove": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kda_kills": 3.1,
+      "kda_deaths": 2.8,
+      "kda_assists": 7.2,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Kha'Zix": 6,
+        "Rengar": 3,
+        "Jarvan IV": 1,
+        "Lee Sin": 1,
+        "Evelynn": 1
+      },
+      "times": [
+        "EDward Gaming"
+      ]
+    },
+    "U": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kda_kills": 4.9,
+      "kda_deaths": 2.2,
+      "kda_assists": 5.8,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 4,
+        "Zed": 2,
+        "Syndra": 2,
+        "Zilean": 1,
+        "Jayce": 1
+      },
+      "times": [
+        "EDward Gaming"
+      ]
+    },
+    "NaMei": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kda_kills": 3.8,
+      "kda_deaths": 2.8,
+      "kda_assists": 6.8,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 6,
+        "Kog'Maw": 2,
+        "Twitch": 2,
+        "Tristana": 2
+      },
+      "times": [
+        "EDward Gaming"
+      ]
+    },
+    "fzzf": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "kda_kills": 0.8,
+      "kda_deaths": 3.1,
+      "kda_assists": 9.5,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 6,
+        "Janna": 3,
+        "Braum": 2,
+        "Nami": 1
+      },
+      "times": [
+        "EDward Gaming"
+      ]
+    },
+    "Looper": {
+      "partidas": 17,
+      "winrate": 88.2,
+      "kda_kills": 4.2,
+      "kda_deaths": 1.2,
+      "kda_assists": 10.8,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Maokai": 4,
+        "Rumble": 2,
+        "Ryze": 2,
+        "Kayle": 2,
+        "Singed": 2
+      },
+      "times": [
+        "Samsung White"
+      ]
+    },
+    "DanDy": {
+      "partidas": 17,
+      "winrate": 88.2,
+      "kda_kills": 4.9,
+      "kda_deaths": 1.9,
+      "kda_assists": 11.1,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Kha'Zix": 5,
+        "Lee Sin": 4,
+        "Rengar": 4,
+        "Jarvan IV": 3,
+        "Elise": 1
+      },
+      "times": [
+        "Samsung White"
+      ]
+    },
+    "PawN": {
+      "partidas": 17,
+      "winrate": 88.2,
+      "kda_kills": 6.2,
+      "kda_deaths": 1.5,
+      "kda_assists": 8.3,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Jayce": 4,
+        "Fizz": 4,
+        "Yasuo": 2,
+        "Talon": 2,
+        "Zilean": 1
+      },
+      "times": [
+        "Samsung White"
+      ]
+    },
+    "imp": {
+      "partidas": 17,
+      "winrate": 88.2,
+      "kda_kills": 6.2,
+      "kda_deaths": 1.7,
+      "kda_assists": 7.3,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Twitch": 10,
+        "Corki": 3,
+        "Tristana": 2,
+        "Vayne": 1,
+        "Lucian": 1
+      },
+      "times": [
+        "Samsung White"
+      ]
+    },
+    "Mata": {
+      "partidas": 17,
+      "winrate": 88.2,
+      "kda_kills": 1.1,
+      "kda_deaths": 1.6,
+      "kda_assists": 14.9,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Janna": 8,
+        "Thresh": 5,
+        "Morgana": 2,
+        "Nami": 1,
+        "Braum": 1
+      },
+      "times": [
+        "Samsung White"
+      ]
+    },
+    "Cola": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 3.0,
+      "kda_deaths": 3.0,
+      "kda_assists": 6.8,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Ryze": 8,
+        "Irelia": 4,
+        "Dr. Mundo": 3,
+        "Maokai": 3,
+        "Rumble": 2
+      },
+      "times": [
+        "Royal Club"
+      ]
+    },
+    "inSec": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 3.0,
+      "kda_deaths": 3.6,
+      "kda_assists": 6.7,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Kha'Zix": 7,
+        "Lee Sin": 5,
+        "Rengar": 2,
+        "Jarvan IV": 2,
+        "Pantheon": 2
+      },
+      "times": [
+        "Royal Club"
+      ]
+    },
+    "Corn": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 3.4,
+      "kda_deaths": 3.0,
+      "kda_assists": 7.8,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Orianna": 9,
+        "Lulu": 3,
+        "Zilean": 2,
+        "Ryze": 2,
+        "Fizz": 2
+      },
+      "times": [
+        "Royal Club"
+      ]
+    },
+    "Uzi": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 5.6,
+      "kda_deaths": 2.4,
+      "kda_assists": 5.2,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Tristana": 7,
+        "Lucian": 5,
+        "Twitch": 3,
+        "Caitlyn": 2,
+        "Vayne": 2
+      },
+      "times": [
+        "Royal Club"
+      ]
+    },
+    "zero": {
+      "partidas": 20,
+      "winrate": 60.0,
+      "kda_kills": 0.6,
+      "kda_deaths": 3.0,
+      "kda_assists": 11.2,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Janna": 8,
+        "Nami": 5,
+        "Thresh": 4,
+        "Braum": 2,
+        "Zilean": 1
+      },
+      "times": [
+        "Royal Club"
+      ]
+    },
+    "Gogoing": {
+      "partidas": 14,
+      "winrate": 57.1,
+      "kda_kills": 3.5,
+      "kda_deaths": 2.6,
+      "kda_assists": 7.0,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Maokai": 3,
+        "Irelia": 3,
+        "Rumble": 3,
+        "Ryze": 3,
+        "Kayle": 1
+      },
+      "times": [
+        "Oh My God"
+      ]
+    },
+    "LoveLing": {
+      "partidas": 14,
+      "winrate": 57.1,
+      "kda_kills": 3.8,
+      "kda_deaths": 2.4,
+      "kda_assists": 6.4,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Kha'Zix": 7,
+        "Lee Sin": 4,
+        "Elise": 1,
+        "Evelynn": 1,
+        "Rengar": 1
+      },
+      "times": [
+        "Oh My God"
+      ]
+    },
+    "Cool": {
+      "partidas": 14,
+      "winrate": 57.1,
+      "kda_kills": 3.8,
+      "kda_deaths": 3.1,
+      "kda_assists": 6.6,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Jayce": 3,
+        "Ahri": 2,
+        "Yasuo": 2,
+        "Orianna": 2,
+        "Zed": 2
+      },
+      "times": [
+        "Oh My God"
+      ]
+    },
+    "san": {
+      "partidas": 14,
+      "winrate": 57.1,
+      "kda_kills": 4.4,
+      "kda_deaths": 1.9,
+      "kda_assists": 6.5,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Lucian": 6,
+        "Corki": 4,
+        "Tristana": 3,
+        "Kog'Maw": 1
+      },
+      "times": [
+        "Oh My God"
+      ]
+    },
+    "Save": {
+      "partidas": 10,
+      "winrate": 50.0,
+      "kda_kills": 2.8,
+      "kda_deaths": 3.3,
+      "kda_assists": 4.0,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Ryze": 4,
+        "Kassadin": 2,
+        "Riven": 1,
+        "Kayle": 1,
+        "Nidalee": 1
+      },
+      "times": [
+        "NaJin White Shield"
+      ]
+    },
+    "Watch": {
+      "partidas": 10,
+      "winrate": 50.0,
+      "kda_kills": 2.0,
+      "kda_deaths": 2.3,
+      "kda_assists": 4.7,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Kha'Zix": 5,
+        "Lee Sin": 3,
+        "Elise": 2
+      },
+      "times": [
+        "NaJin White Shield"
+      ]
+    },
+    "Ggoong": {
+      "partidas": 10,
+      "winrate": 50.0,
+      "kda_kills": 3.5,
+      "kda_deaths": 2.2,
+      "kda_assists": 4.7,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Zed": 5,
+        "Lulu": 2,
+        "Orianna": 2,
+        "Ahri": 1
+      },
+      "times": [
+        "NaJin White Shield"
+      ]
+    },
+    "Zefa": {
+      "partidas": 10,
+      "winrate": 50.0,
+      "kda_kills": 3.0,
+      "kda_deaths": 1.8,
+      "kda_assists": 3.9,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Corki": 5,
+        "Tristana": 2,
+        "Twitch": 1,
+        "Lucian": 1,
+        "Kog'Maw": 1
+      },
+      "times": [
+        "NaJin White Shield"
+      ]
+    },
+    "GorillA": {
+      "partidas": 10,
+      "winrate": 50.0,
+      "kda_kills": 0.4,
+      "kda_deaths": 3.0,
+      "kda_assists": 8.6,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 3,
+        "Nami": 3,
+        "Janna": 1,
+        "Zilean": 1,
+        "Morgana": 1
+      },
+      "times": [
+        "NaJin White Shield"
+      ]
+    },
+    "Acorn": {
+      "partidas": 13,
+      "winrate": 61.5,
+      "kda_kills": 1.7,
+      "kda_deaths": 3.1,
+      "kda_assists": 8.3,
+      "posicao": "top",
+      "campeoes_mais_jogados": {
+        "Maokai": 5,
+        "Rumble": 2,
+        "Kayle": 2,
+        "Lulu": 1,
+        "Nidalee": 1
+      },
+      "times": [
+        "Samsung Blue"
+      ]
+    },
+    "Spirit": {
+      "partidas": 13,
+      "winrate": 61.5,
+      "kda_kills": 2.8,
+      "kda_deaths": 2.4,
+      "kda_assists": 7.6,
+      "posicao": "jng",
+      "campeoes_mais_jogados": {
+        "Lee Sin": 3,
+        "Kha'Zix": 3,
+        "Rengar": 3,
+        "Jarvan IV": 2,
+        "Elise": 2
+      },
+      "times": [
+        "Samsung Blue"
+      ]
+    },
+    "dade": {
+      "partidas": 13,
+      "winrate": 61.5,
+      "kda_kills": 5.1,
+      "kda_deaths": 3.5,
+      "kda_assists": 5.2,
+      "posicao": "mid",
+      "campeoes_mais_jogados": {
+        "Yasuo": 4,
+        "Jayce": 2,
+        "Twisted Fate": 2,
+        "Zed": 1,
+        "Kassadin": 1
+      },
+      "times": [
+        "Samsung Blue"
+      ]
+    },
+    "Deft": {
+      "partidas": 13,
+      "winrate": 61.5,
+      "kda_kills": 6.4,
+      "kda_deaths": 2.7,
+      "kda_assists": 5.1,
+      "posicao": "bot",
+      "campeoes_mais_jogados": {
+        "Twitch": 4,
+        "Corki": 3,
+        "Kog'Maw": 2,
+        "Lucian": 2,
+        "Tristana": 1
+      },
+      "times": [
+        "Samsung Blue"
+      ]
+    },
+    "Heart": {
+      "partidas": 13,
+      "winrate": 61.5,
+      "kda_kills": 0.7,
+      "kda_deaths": 3.8,
+      "kda_assists": 12.1,
+      "posicao": "sup",
+      "campeoes_mais_jogados": {
+        "Thresh": 4,
+        "Nami": 3,
+        "Janna": 3,
+        "Braum": 1,
+        "Zilean": 1
+      },
+      "times": [
+        "Samsung Blue"
+      ]
+    }
+  },
+  "campeoes": {
+    "Trundle": {
+      "partidas": 102,
+      "winrate": 51.0,
+      "posicoes": {
+        "top": 102
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 16,
+          "mean": 56.2
+        },
+        "4.05": {
+          "count": 12,
+          "mean": 66.7
+        },
+        "4.07": {
+          "count": 9,
+          "mean": 44.4
+        },
+        "4.08": {
+          "count": 6,
+          "mean": 50.0
+        }
+      }
+    },
+    "Vi": {
+      "partidas": 100,
+      "winrate": 48.0,
+      "posicoes": {
+        "jng": 100
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 7,
+          "mean": 57.1
+        },
+        "4.04": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.09": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.1": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.11": {
+          "count": 5,
+          "mean": 20.0
+        }
+      }
+    },
+    "Orianna": {
+      "partidas": 212,
+      "winrate": 46.7,
+      "posicoes": {
+        "mid": 211,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.04": {
+          "count": 16,
+          "mean": 37.5
+        },
+        "4.05": {
+          "count": 19,
+          "mean": 47.4
+        },
+        "4.07": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.08": {
+          "count": 12,
+          "mean": 50.0
+        },
+        "4.09": {
+          "count": 13,
+          "mean": 46.2
+        },
+        "4.1": {
+          "count": 16,
+          "mean": 43.8
+        },
+        "4.11": {
+          "count": 23,
+          "mean": 43.5
+        },
+        "4.12": {
+          "count": 25,
+          "mean": 52.0
+        },
+        "4.13": {
+          "count": 12,
+          "mean": 58.3
+        },
+        "4.14": {
+          "count": 44,
+          "mean": 54.5
+        }
+      }
+    },
+    "Jinx": {
+      "partidas": 134,
+      "winrate": 47.0,
+      "posicoes": {
+        "bot": 134
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 8,
+          "mean": 75.0
+        },
+        "4.03": {
+          "count": 5,
+          "mean": 60.0
+        },
+        "4.04": {
+          "count": 14,
+          "mean": 50.0
+        },
+        "4.05": {
+          "count": 11,
+          "mean": 54.5
+        },
+        "4.08": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.09": {
+          "count": 7,
+          "mean": 42.9
+        },
+        "4.1": {
+          "count": 7,
+          "mean": 42.9
+        },
+        "4.11": {
+          "count": 7,
+          "mean": 42.9
+        },
+        "4.12": {
+          "count": 7,
+          "mean": 14.3
+        },
+        "4.13": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.14": {
+          "count": 9,
+          "mean": 33.3
+        }
+      }
+    },
+    "Annie": {
+      "partidas": 120,
+      "winrate": 47.5,
+      "posicoes": {
+        "sup": 119,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 5,
+          "mean": 60.0
+        },
+        "4.03": {
+          "count": 8,
+          "mean": 25.0
+        },
+        "4.04": {
+          "count": 11,
+          "mean": 36.4
+        },
+        "4.05": {
+          "count": 6,
+          "mean": 66.7
+        }
+      }
+    },
+    "Dr. Mundo": {
+      "partidas": 152,
+      "winrate": 41.4,
+      "posicoes": {
+        "top": 150,
+        "jng": 1,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.05": {
+          "count": 16,
+          "mean": 50.0
+        },
+        "4.07": {
+          "count": 4,
+          "mean": 0.0
+        },
+        "4.08": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.11": {
+          "count": 11,
+          "mean": 54.5
+        },
+        "4.12": {
+          "count": 12,
+          "mean": 33.3
+        },
+        "4.13": {
+          "count": 8,
+          "mean": 25.0
+        },
+        "4.14": {
+          "count": 30,
+          "mean": 26.7
+        }
+      }
+    },
+    "Shyvana": {
+      "partidas": 270,
+      "winrate": 52.2,
+      "posicoes": {
+        "top": 260,
+        "jng": 10
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 11,
+          "mean": 36.4
+        },
+        "4.03": {
+          "count": 12,
+          "mean": 58.3
+        },
+        "4.04": {
+          "count": 36,
+          "mean": 47.2
+        },
+        "4.05": {
+          "count": 30,
+          "mean": 56.7
+        },
+        "4.07": {
+          "count": 21,
+          "mean": 85.7
+        },
+        "4.08": {
+          "count": 32,
+          "mean": 46.9
+        },
+        "4.09": {
+          "count": 30,
+          "mean": 43.3
+        },
+        "4.1": {
+          "count": 7,
+          "mean": 42.9
+        },
+        "4.11": {
+          "count": 12,
+          "mean": 66.7
+        },
+        "4.12": {
+          "count": 7,
+          "mean": 57.1
+        },
+        "4.14": {
+          "count": 3,
+          "mean": 66.7
+        }
+      }
+    },
+    "LeBlanc": {
+      "partidas": 110,
+      "winrate": 56.4,
+      "posicoes": {
+        "mid": 108,
+        "top": 2
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.03": {
+          "count": 4,
+          "mean": 75.0
+        },
+        "4.04": {
+          "count": 14,
+          "mean": 28.6
+        },
+        "4.05": {
+          "count": 15,
+          "mean": 60.0
+        },
+        "4.07": {
+          "count": 10,
+          "mean": 70.0
+        },
+        "4.08": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.09": {
+          "count": 13,
+          "mean": 53.8
+        }
+      }
+    },
+    "Lucian": {
+      "partidas": 484,
+      "winrate": 52.9,
+      "posicoes": {
+        "bot": 484
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 7,
+          "mean": 28.6
+        },
+        "4.03": {
+          "count": 11,
+          "mean": 63.6
+        },
+        "4.04": {
+          "count": 51,
+          "mean": 52.9
+        },
+        "4.05": {
+          "count": 71,
+          "mean": 62.0
+        },
+        "4.07": {
+          "count": 28,
+          "mean": 64.3
+        },
+        "4.08": {
+          "count": 36,
+          "mean": 55.6
+        },
+        "4.09": {
+          "count": 37,
+          "mean": 48.6
+        },
+        "4.1": {
+          "count": 30,
+          "mean": 50.0
+        },
+        "4.11": {
+          "count": 28,
+          "mean": 64.3
+        },
+        "4.13": {
+          "count": 10,
+          "mean": 50.0
+        },
+        "4.14": {
+          "count": 68,
+          "mean": 48.5
+        }
+      }
+    },
+    "Thresh": {
+      "partidas": 436,
+      "winrate": 52.3,
+      "posicoes": {
+        "sup": 436
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 8,
+          "mean": 50.0
+        },
+        "4.03": {
+          "count": 12,
+          "mean": 66.7
+        },
+        "4.04": {
+          "count": 34,
+          "mean": 44.1
+        },
+        "4.05": {
+          "count": 37,
+          "mean": 45.9
+        },
+        "4.07": {
+          "count": 19,
+          "mean": 52.6
+        },
+        "4.08": {
+          "count": 27,
+          "mean": 74.1
+        },
+        "4.09": {
+          "count": 32,
+          "mean": 34.4
+        },
+        "4.1": {
+          "count": 21,
+          "mean": 52.4
+        },
+        "4.11": {
+          "count": 25,
+          "mean": 72.0
+        },
+        "4.12": {
+          "count": 33,
+          "mean": 39.4
+        },
+        "4.13": {
+          "count": 20,
+          "mean": 45.0
+        },
+        "4.14": {
+          "count": 61,
+          "mean": 54.1
+        }
+      }
+    },
+    "Elise": {
+      "partidas": 379,
+      "winrate": 54.4,
+      "posicoes": {
+        "jng": 376,
+        "top": 3
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 3,
+          "mean": 100.0
+        },
+        "4.03": {
+          "count": 12,
+          "mean": 58.3
+        },
+        "4.04": {
+          "count": 30,
+          "mean": 53.3
+        },
+        "4.05": {
+          "count": 45,
+          "mean": 66.7
+        },
+        "4.07": {
+          "count": 17,
+          "mean": 58.8
+        },
+        "4.08": {
+          "count": 27,
+          "mean": 44.4
+        },
+        "4.09": {
+          "count": 28,
+          "mean": 60.7
+        },
+        "4.1": {
+          "count": 28,
+          "mean": 67.9
+        },
+        "4.11": {
+          "count": 31,
+          "mean": 38.7
+        },
+        "4.12": {
+          "count": 41,
+          "mean": 51.2
+        },
+        "4.13": {
+          "count": 13,
+          "mean": 38.5
+        },
+        "4.14": {
+          "count": 28,
+          "mean": 42.9
+        }
+      }
+    },
+    "Kayle": {
+      "partidas": 105,
+      "winrate": 52.4,
+      "posicoes": {
+        "mid": 60,
+        "top": 31,
+        "sup": 13,
+        "jng": 1
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 5,
+          "mean": 40.0
+        },
+        "4.04": {
+          "count": 5,
+          "mean": 80.0
+        },
+        "4.05": {
+          "count": 11,
+          "mean": 45.5
+        },
+        "4.07": {
+          "count": 8,
+          "mean": 50.0
+        },
+        "4.08": {
+          "count": 6,
+          "mean": 66.7
+        },
+        "4.09": {
+          "count": 12,
+          "mean": 83.3
+        },
+        "4.1": {
+          "count": 10,
+          "mean": 30.0
+        },
+        "4.13": {
+          "count": 5,
+          "mean": 80.0
+        },
+        "4.14": {
+          "count": 13,
+          "mean": 38.5
+        }
+      }
+    },
+    "Lulu": {
+      "partidas": 281,
+      "winrate": 47.7,
+      "posicoes": {
+        "mid": 131,
+        "top": 108,
+        "sup": 42
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.03": {
+          "count": 5,
+          "mean": 80.0
+        },
+        "4.04": {
+          "count": 9,
+          "mean": 44.4
+        },
+        "4.05": {
+          "count": 45,
+          "mean": 46.7
+        },
+        "4.07": {
+          "count": 12,
+          "mean": 50.0
+        },
+        "4.08": {
+          "count": 20,
+          "mean": 55.0
+        },
+        "4.09": {
+          "count": 23,
+          "mean": 39.1
+        },
+        "4.1": {
+          "count": 26,
+          "mean": 53.8
+        },
+        "4.11": {
+          "count": 17,
+          "mean": 29.4
+        },
+        "4.12": {
+          "count": 19,
+          "mean": 63.2
+        },
+        "4.13": {
+          "count": 9,
+          "mean": 22.2
+        },
+        "4.14": {
+          "count": 37,
+          "mean": 32.4
+        }
+      }
+    },
+    "Renekton": {
+      "partidas": 210,
+      "winrate": 52.4,
+      "posicoes": {
+        "top": 210
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 6,
+          "mean": 50.0
+        },
+        "4.03": {
+          "count": 13,
+          "mean": 61.5
+        },
+        "4.04": {
+          "count": 28,
+          "mean": 53.6
+        },
+        "4.05": {
+          "count": 26,
+          "mean": 46.2
+        },
+        "4.07": {
+          "count": 3,
+          "mean": 100.0
+        },
+        "4.08": {
+          "count": 11,
+          "mean": 45.5
+        },
+        "4.09": {
+          "count": 9,
+          "mean": 55.6
+        },
+        "4.1": {
+          "count": 22,
+          "mean": 40.9
+        },
+        "4.11": {
+          "count": 8,
+          "mean": 50.0
+        },
+        "4.12": {
+          "count": 3,
+          "mean": 33.3
+        }
+      }
+    },
+    "Gragas": {
+      "partidas": 164,
+      "winrate": 47.0,
+      "posicoes": {
+        "mid": 77,
+        "top": 70,
+        "sup": 12,
+        "jng": 5
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 7,
+          "mean": 42.9
+        },
+        "4.03": {
+          "count": 6,
+          "mean": 66.7
+        },
+        "4.04": {
+          "count": 12,
+          "mean": 50.0
+        },
+        "4.07": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.1": {
+          "count": 7,
+          "mean": 28.6
+        },
+        "4.11": {
+          "count": 26,
+          "mean": 65.4
+        },
+        "4.12": {
+          "count": 32,
+          "mean": 46.9
+        },
+        "4.14": {
+          "count": 3,
+          "mean": 100.0
+        }
+      }
+    },
+    "Caitlyn": {
+      "partidas": 206,
+      "winrate": 43.2,
+      "posicoes": {
+        "bot": 206
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.03": {
+          "count": 11,
+          "mean": 18.2
+        },
+        "4.04": {
+          "count": 28,
+          "mean": 46.4
+        },
+        "4.05": {
+          "count": 24,
+          "mean": 37.5
+        },
+        "4.08": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.09": {
+          "count": 5,
+          "mean": 40.0
+        },
+        "4.1": {
+          "count": 13,
+          "mean": 53.8
+        },
+        "4.11": {
+          "count": 11,
+          "mean": 9.1
+        },
+        "4.12": {
+          "count": 5,
+          "mean": 40.0
+        }
+      }
+    },
+    "Lee Sin": {
+      "partidas": 349,
+      "winrate": 51.3,
+      "posicoes": {
+        "jng": 313,
+        "top": 36
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 6,
+          "mean": 66.7
+        },
+        "4.03": {
+          "count": 5,
+          "mean": 0.0
+        },
+        "4.04": {
+          "count": 32,
+          "mean": 53.1
+        },
+        "4.05": {
+          "count": 30,
+          "mean": 50.0
+        },
+        "4.07": {
+          "count": 25,
+          "mean": 44.0
+        },
+        "4.08": {
+          "count": 27,
+          "mean": 74.1
+        },
+        "4.09": {
+          "count": 28,
+          "mean": 39.3
+        },
+        "4.1": {
+          "count": 27,
+          "mean": 51.9
+        },
+        "4.11": {
+          "count": 20,
+          "mean": 70.0
+        },
+        "4.12": {
+          "count": 22,
+          "mean": 36.4
+        },
+        "4.13": {
+          "count": 15,
+          "mean": 53.3
+        },
+        "4.14": {
+          "count": 55,
+          "mean": 56.4
+        }
+      }
+    },
+    "Vayne": {
+      "partidas": 37,
+      "winrate": 62.2,
+      "posicoes": {
+        "bot": 37
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 3,
+          "mean": 66.7
+        },
+        "4.05": {
+          "count": 5,
+          "mean": 20.0
+        },
+        "4.14": {
+          "count": 5,
+          "mean": 80.0
+        }
+      }
+    },
+    "Ziggs": {
+      "partidas": 180,
+      "winrate": 47.8,
+      "posicoes": {
+        "mid": 179,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 5,
+          "mean": 20.0
+        },
+        "4.03": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.04": {
+          "count": 17,
+          "mean": 47.1
+        },
+        "4.05": {
+          "count": 18,
+          "mean": 66.7
+        },
+        "4.07": {
+          "count": 5,
+          "mean": 40.0
+        },
+        "4.08": {
+          "count": 13,
+          "mean": 46.2
+        },
+        "4.09": {
+          "count": 12,
+          "mean": 50.0
+        },
+        "4.1": {
+          "count": 14,
+          "mean": 28.6
+        },
+        "4.11": {
+          "count": 11,
+          "mean": 45.5
+        },
+        "4.12": {
+          "count": 18,
+          "mean": 50.0
+        },
+        "4.13": {
+          "count": 9,
+          "mean": 44.4
+        },
+        "4.14": {
+          "count": 11,
+          "mean": 81.8
+        }
+      }
+    },
+    "Leona": {
+      "partidas": 182,
+      "winrate": 44.0,
+      "posicoes": {
+        "sup": 181,
+        "jng": 1
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.03": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.04": {
+          "count": 25,
+          "mean": 64.0
+        },
+        "4.05": {
+          "count": 33,
+          "mean": 51.5
+        },
+        "4.07": {
+          "count": 8,
+          "mean": 37.5
+        },
+        "4.08": {
+          "count": 13,
+          "mean": 23.1
+        },
+        "4.09": {
+          "count": 3,
+          "mean": 66.7
+        },
+        "4.1": {
+          "count": 5,
+          "mean": 40.0
+        },
+        "4.13": {
+          "count": 3,
+          "mean": 0.0
+        },
+        "4.14": {
+          "count": 5,
+          "mean": 20.0
+        }
+      }
+    },
+    "Warwick": {
+      "partidas": 7,
+      "winrate": 42.9,
+      "posicoes": {
+        "top": 6,
+        "sup": 1
+      },
+      "winrate_por_patch": {}
+    },
+    "Kha'Zix": {
+      "partidas": 241,
+      "winrate": 48.5,
+      "posicoes": {
+        "jng": 216,
+        "mid": 20,
+        "top": 5
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 10,
+          "mean": 50.0
+        },
+        "4.04": {
+          "count": 28,
+          "mean": 53.6
+        },
+        "4.05": {
+          "count": 33,
+          "mean": 54.5
+        },
+        "4.07": {
+          "count": 11,
+          "mean": 18.2
+        },
+        "4.08": {
+          "count": 15,
+          "mean": 46.7
+        },
+        "4.12": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.13": {
+          "count": 16,
+          "mean": 62.5
+        },
+        "4.14": {
+          "count": 90,
+          "mean": 44.4
+        }
+      }
+    },
+    "Olaf": {
+      "partidas": 21,
+      "winrate": 47.6,
+      "posicoes": {
+        "jng": 18,
+        "top": 3
+      },
+      "winrate_por_patch": {}
+    },
+    "Zyra": {
+      "partidas": 34,
+      "winrate": 38.2,
+      "posicoes": {
+        "sup": 33,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "4.07": {
+          "count": 11,
+          "mean": 45.5
+        },
+        "4.08": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.09": {
+          "count": 3,
+          "mean": 0.0
+        },
+        "4.1": {
+          "count": 7,
+          "mean": 42.9
+        }
+      }
+    },
+    "Ezreal": {
+      "partidas": 42,
+      "winrate": 31.0,
+      "posicoes": {
+        "bot": 42
+      },
+      "winrate_por_patch": {
+        "3.15": {
+          "count": 3,
+          "mean": 66.7
+        },
+        "4.04": {
+          "count": 4,
+          "mean": 0.0
+        },
+        "4.05": {
+          "count": 3,
+          "mean": 0.0
+        },
+        "4.12": {
+          "count": 7,
+          "mean": 14.3
+        }
+      }
+    },
+    "Malphite": {
+      "partidas": 7,
+      "winrate": 57.1,
+      "posicoes": {
+        "top": 6,
+        "mid": 1
+      },
+      "winrate_por_patch": {}
+    },
+    "Shen": {
+      "partidas": 20,
+      "winrate": 25.0,
+      "posicoes": {
+        "top": 19,
+        "jng": 1
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 3,
+          "mean": 33.3
+        }
+      }
+    },
+    "Ahri": {
+      "partidas": 62,
+      "winrate": 56.5,
+      "posicoes": {
+        "mid": 62
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 5,
+          "mean": 60.0
+        },
+        "4.05": {
+          "count": 7,
+          "mean": 28.6
+        },
+        "4.12": {
+          "count": 10,
+          "mean": 70.0
+        },
+        "4.13": {
+          "count": 18,
+          "mean": 83.3
+        },
+        "4.14": {
+          "count": 13,
+          "mean": 38.5
+        }
+      }
+    },
+    "Sivir": {
+      "partidas": 77,
+      "winrate": 62.3,
+      "posicoes": {
+        "bot": 77
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 8,
+          "mean": 75.0
+        },
+        "4.04": {
+          "count": 6,
+          "mean": 66.7
+        },
+        "4.05": {
+          "count": 8,
+          "mean": 75.0
+        }
+      }
+    },
+    "Nunu & Willump": {
+      "partidas": 44,
+      "winrate": 52.3,
+      "posicoes": {
+        "jng": 42,
+        "sup": 2
+      },
+      "winrate_por_patch": {
+        "4.11": {
+          "count": 4,
+          "mean": 75.0
+        },
+        "4.12": {
+          "count": 5,
+          "mean": 60.0
+        },
+        "4.14": {
+          "count": 24,
+          "mean": 50.0
+        }
+      }
+    },
+    "Nidalee": {
+      "partidas": 146,
+      "winrate": 59.6,
+      "posicoes": {
+        "mid": 107,
+        "top": 39
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.04": {
+          "count": 18,
+          "mean": 61.1
+        },
+        "4.05": {
+          "count": 30,
+          "mean": 56.7
+        },
+        "4.07": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.08": {
+          "count": 13,
+          "mean": 69.2
+        },
+        "4.09": {
+          "count": 13,
+          "mean": 61.5
+        },
+        "4.11": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.12": {
+          "count": 10,
+          "mean": 50.0
+        },
+        "4.13": {
+          "count": 5,
+          "mean": 80.0
+        },
+        "4.14": {
+          "count": 14,
+          "mean": 35.7
+        }
+      }
+    },
+    "Evelynn": {
+      "partidas": 197,
+      "winrate": 49.7,
+      "posicoes": {
+        "jng": 197
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 6,
+          "mean": 100.0
+        },
+        "4.04": {
+          "count": 26,
+          "mean": 50.0
+        },
+        "4.05": {
+          "count": 24,
+          "mean": 25.0
+        },
+        "4.07": {
+          "count": 11,
+          "mean": 72.7
+        },
+        "4.08": {
+          "count": 15,
+          "mean": 40.0
+        },
+        "4.09": {
+          "count": 15,
+          "mean": 53.3
+        },
+        "4.1": {
+          "count": 22,
+          "mean": 45.5
+        },
+        "4.11": {
+          "count": 14,
+          "mean": 42.9
+        },
+        "4.12": {
+          "count": 22,
+          "mean": 63.6
+        },
+        "4.13": {
+          "count": 9,
+          "mean": 33.3
+        },
+        "4.14": {
+          "count": 4,
+          "mean": 50.0
+        }
+      }
+    },
+    "Riven": {
+      "partidas": 25,
+      "winrate": 64.0,
+      "posicoes": {
+        "top": 11,
+        "mid": 9,
+        "jng": 5
+      },
+      "winrate_por_patch": {
+        "4.12": {
+          "count": 4,
+          "mean": 75.0
+        },
+        "4.13": {
+          "count": 5,
+          "mean": 60.0
+        }
+      }
+    },
+    "Kassadin": {
+      "partidas": 62,
+      "winrate": 51.6,
+      "posicoes": {
+        "mid": 57,
+        "top": 5
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.05": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.07": {
+          "count": 5,
+          "mean": 60.0
+        },
+        "4.08": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.09": {
+          "count": 6,
+          "mean": 66.7
+        },
+        "4.1": {
+          "count": 4,
+          "mean": 75.0
+        },
+        "4.11": {
+          "count": 3,
+          "mean": 66.7
+        },
+        "4.12": {
+          "count": 7,
+          "mean": 57.1
+        },
+        "4.13": {
+          "count": 8,
+          "mean": 25.0
+        },
+        "4.14": {
+          "count": 10,
+          "mean": 50.0
+        }
+      }
+    },
+    "Xin Zhao": {
+      "partidas": 32,
+      "winrate": 37.5,
+      "posicoes": {
+        "jng": 32
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 28,
+          "mean": 42.9
+        }
+      }
+    },
+    "Nami": {
+      "partidas": 163,
+      "winrate": 52.1,
+      "posicoes": {
+        "sup": 163
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 9,
+          "mean": 55.6
+        },
+        "4.08": {
+          "count": 17,
+          "mean": 58.8
+        },
+        "4.09": {
+          "count": 6,
+          "mean": 83.3
+        },
+        "4.1": {
+          "count": 23,
+          "mean": 43.5
+        },
+        "4.11": {
+          "count": 11,
+          "mean": 27.3
+        },
+        "4.12": {
+          "count": 16,
+          "mean": 62.5
+        },
+        "4.13": {
+          "count": 18,
+          "mean": 66.7
+        },
+        "4.14": {
+          "count": 56,
+          "mean": 46.4
+        }
+      }
+    },
+    "Morgana": {
+      "partidas": 266,
+      "winrate": 52.3,
+      "posicoes": {
+        "sup": 264,
+        "mid": 2
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.04": {
+          "count": 20,
+          "mean": 45.0
+        },
+        "4.05": {
+          "count": 34,
+          "mean": 58.8
+        },
+        "4.07": {
+          "count": 19,
+          "mean": 63.2
+        },
+        "4.08": {
+          "count": 16,
+          "mean": 37.5
+        },
+        "4.09": {
+          "count": 25,
+          "mean": 68.0
+        },
+        "4.1": {
+          "count": 20,
+          "mean": 50.0
+        },
+        "4.11": {
+          "count": 25,
+          "mean": 32.0
+        },
+        "4.12": {
+          "count": 28,
+          "mean": 60.7
+        },
+        "4.13": {
+          "count": 24,
+          "mean": 54.2
+        },
+        "4.14": {
+          "count": 19,
+          "mean": 47.4
+        }
+      }
+    },
+    "Nasus": {
+      "partidas": 5,
+      "winrate": 40.0,
+      "posicoes": {
+        "top": 5
+      },
+      "winrate_por_patch": {}
+    },
+    "Yasuo": {
+      "partidas": 130,
+      "winrate": 54.6,
+      "posicoes": {
+        "mid": 116,
+        "top": 14
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 5,
+          "mean": 80.0
+        },
+        "4.05": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.07": {
+          "count": 9,
+          "mean": 33.3
+        },
+        "4.08": {
+          "count": 5,
+          "mean": 60.0
+        },
+        "4.09": {
+          "count": 11,
+          "mean": 63.6
+        },
+        "4.1": {
+          "count": 9,
+          "mean": 66.7
+        },
+        "4.11": {
+          "count": 11,
+          "mean": 45.5
+        },
+        "4.12": {
+          "count": 16,
+          "mean": 68.8
+        },
+        "4.14": {
+          "count": 37,
+          "mean": 54.1
+        }
+      }
+    },
+    "Varus": {
+      "partidas": 11,
+      "winrate": 45.5,
+      "posicoes": {
+        "bot": 11
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 4,
+          "mean": 75.0
+        }
+      }
+    },
+    "Zed": {
+      "partidas": 64,
+      "winrate": 48.4,
+      "posicoes": {
+        "mid": 63,
+        "jng": 1
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 3,
+          "mean": 66.7
+        },
+        "4.04": {
+          "count": 11,
+          "mean": 54.5
+        },
+        "4.05": {
+          "count": 3,
+          "mean": 0.0
+        },
+        "4.14": {
+          "count": 28,
+          "mean": 53.6
+        }
+      }
+    },
+    "Zac": {
+      "partidas": 8,
+      "winrate": 37.5,
+      "posicoes": {
+        "top": 8
+      },
+      "winrate_por_patch": {}
+    },
+    "Katarina": {
+      "partidas": 7,
+      "winrate": 28.6,
+      "posicoes": {
+        "mid": 7
+      },
+      "winrate_por_patch": {}
+    },
+    "Karthus": {
+      "partidas": 21,
+      "winrate": 52.4,
+      "posicoes": {
+        "mid": 18,
+        "top": 3
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 5,
+          "mean": 60.0
+        }
+      }
+    },
+    "Pantheon": {
+      "partidas": 69,
+      "winrate": 50.7,
+      "posicoes": {
+        "jng": 66,
+        "mid": 2,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.04": {
+          "count": 12,
+          "mean": 41.7
+        },
+        "4.05": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.14": {
+          "count": 3,
+          "mean": 33.3
+        }
+      }
+    },
+    "Akali": {
+      "partidas": 10,
+      "winrate": 40.0,
+      "posicoes": {
+        "mid": 9,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "4.14": {
+          "count": 3,
+          "mean": 33.3
+        }
+      }
+    },
+    "Wukong": {
+      "partidas": 37,
+      "winrate": 35.1,
+      "posicoes": {
+        "jng": 36,
+        "top": 1
+      },
+      "winrate_por_patch": {}
+    },
+    "Karma": {
+      "partidas": 74,
+      "winrate": 48.6,
+      "posicoes": {
+        "sup": 69,
+        "mid": 5
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.04": {
+          "count": 27,
+          "mean": 55.6
+        },
+        "4.05": {
+          "count": 31,
+          "mean": 48.4
+        }
+      }
+    },
+    "Talon": {
+      "partidas": 15,
+      "winrate": 33.3,
+      "posicoes": {
+        "mid": 15
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.14": {
+          "count": 7,
+          "mean": 42.9
+        }
+      }
+    },
+    "Tristana": {
+      "partidas": 154,
+      "winrate": 50.0,
+      "posicoes": {
+        "bot": 146,
+        "mid": 6,
+        "top": 2
+      },
+      "winrate_por_patch": {
+        "4.1": {
+          "count": 9,
+          "mean": 66.7
+        },
+        "4.11": {
+          "count": 17,
+          "mean": 52.9
+        },
+        "4.12": {
+          "count": 39,
+          "mean": 51.3
+        },
+        "4.13": {
+          "count": 28,
+          "mean": 50.0
+        },
+        "4.14": {
+          "count": 57,
+          "mean": 49.1
+        }
+      }
+    },
+    "Amumu": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "posicoes": {
+        "jng": 4,
+        "sup": 1
+      },
+      "winrate_por_patch": {}
+    },
+    "Blitzcrank": {
+      "partidas": 11,
+      "winrate": 36.4,
+      "posicoes": {
+        "sup": 10,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "4.12": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.14": {
+          "count": 3,
+          "mean": 0.0
+        }
+      }
+    },
+    "Fizz": {
+      "partidas": 50,
+      "winrate": 42.0,
+      "posicoes": {
+        "mid": 48,
+        "bot": 1,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.09": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.11": {
+          "count": 5,
+          "mean": 60.0
+        },
+        "4.12": {
+          "count": 4,
+          "mean": 75.0
+        },
+        "4.13": {
+          "count": 5,
+          "mean": 20.0
+        },
+        "4.14": {
+          "count": 16,
+          "mean": 37.5
+        }
+      }
+    },
+    "Zilean": {
+      "partidas": 42,
+      "winrate": 40.5,
+      "posicoes": {
+        "sup": 24,
+        "mid": 18
+      },
+      "winrate_por_patch": {
+        "4.12": {
+          "count": 8,
+          "mean": 25.0
+        },
+        "4.13": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.14": {
+          "count": 29,
+          "mean": 41.4
+        }
+      }
+    },
+    "Sona": {
+      "partidas": 21,
+      "winrate": 38.1,
+      "posicoes": {
+        "sup": 21
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.08": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.14": {
+          "count": 3,
+          "mean": 0.0
+        }
+      }
+    },
+    "Jax": {
+      "partidas": 98,
+      "winrate": 45.9,
+      "posicoes": {
+        "top": 97,
+        "jng": 1
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.05": {
+          "count": 23,
+          "mean": 65.2
+        },
+        "4.07": {
+          "count": 8,
+          "mean": 37.5
+        },
+        "4.08": {
+          "count": 14,
+          "mean": 50.0
+        },
+        "4.09": {
+          "count": 14,
+          "mean": 35.7
+        },
+        "4.1": {
+          "count": 19,
+          "mean": 47.4
+        }
+      }
+    },
+    "Soraka": {
+      "partidas": 23,
+      "winrate": 60.9,
+      "posicoes": {
+        "mid": 18,
+        "sup": 4,
+        "top": 1
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 3,
+          "mean": 100.0
+        },
+        "4.05": {
+          "count": 14,
+          "mean": 50.0
+        },
+        "4.07": {
+          "count": 4,
+          "mean": 75.0
+        }
+      }
+    },
+    "Rumble": {
+      "partidas": 32,
+      "winrate": 50.0,
+      "posicoes": {
+        "top": 32
+      },
+      "winrate_por_patch": {
+        "4.14": {
+          "count": 25,
+          "mean": 52.0
+        }
+      }
+    },
+    "Draven": {
+      "partidas": 21,
+      "winrate": 71.4,
+      "posicoes": {
+        "bot": 21
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 3,
+          "mean": 100.0
+        },
+        "4.05": {
+          "count": 5,
+          "mean": 40.0
+        }
+      }
+    },
+    "Vladimir": {
+      "partidas": 12,
+      "winrate": 50.0,
+      "posicoes": {
+        "top": 9,
+        "mid": 3
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 3,
+          "mean": 100.0
+        }
+      }
+    },
+    "Xerath": {
+      "partidas": 40,
+      "winrate": 37.5,
+      "posicoes": {
+        "mid": 40
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 3,
+          "mean": 0.0
+        },
+        "4.11": {
+          "count": 9,
+          "mean": 44.4
+        },
+        "4.12": {
+          "count": 11,
+          "mean": 27.3
+        },
+        "4.13": {
+          "count": 4,
+          "mean": 75.0
+        },
+        "4.14": {
+          "count": 11,
+          "mean": 36.4
+        }
+      }
+    },
+    "Alistar": {
+      "partidas": 45,
+      "winrate": 51.1,
+      "posicoes": {
+        "sup": 29,
+        "top": 16
+      },
+      "winrate_por_patch": {
+        "4.12": {
+          "count": 7,
+          "mean": 42.9
+        },
+        "4.13": {
+          "count": 15,
+          "mean": 40.0
+        },
+        "4.14": {
+          "count": 9,
+          "mean": 88.9
+        }
+      }
+    },
+    "Twitch": {
+      "partidas": 126,
+      "winrate": 50.8,
+      "posicoes": {
+        "bot": 126
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 5,
+          "mean": 20.0
+        },
+        "4.05": {
+          "count": 14,
+          "mean": 50.0
+        },
+        "4.07": {
+          "count": 11,
+          "mean": 54.5
+        },
+        "4.08": {
+          "count": 20,
+          "mean": 55.0
+        },
+        "4.09": {
+          "count": 25,
+          "mean": 48.0
+        },
+        "4.1": {
+          "count": 10,
+          "mean": 50.0
+        },
+        "4.12": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.13": {
+          "count": 8,
+          "mean": 50.0
+        },
+        "4.14": {
+          "count": 26,
+          "mean": 65.4
+        }
+      }
+    },
+    "Janna": {
+      "partidas": 53,
+      "winrate": 58.5,
+      "posicoes": {
+        "sup": 53
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 5,
+          "mean": 20.0
+        },
+        "4.14": {
+          "count": 45,
+          "mean": 62.2
+        }
+      }
+    },
+    "Graves": {
+      "partidas": 34,
+      "winrate": 38.2,
+      "posicoes": {
+        "bot": 34
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 18,
+          "mean": 38.9
+        },
+        "4.07": {
+          "count": 8,
+          "mean": 25.0
+        },
+        "4.09": {
+          "count": 3,
+          "mean": 100.0
+        }
+      }
+    },
+    "Syndra": {
+      "partidas": 92,
+      "winrate": 47.8,
+      "posicoes": {
+        "mid": 92
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.05": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.08": {
+          "count": 6,
+          "mean": 66.7
+        },
+        "4.09": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.1": {
+          "count": 11,
+          "mean": 54.5
+        },
+        "4.11": {
+          "count": 11,
+          "mean": 54.5
+        },
+        "4.12": {
+          "count": 11,
+          "mean": 54.5
+        },
+        "4.13": {
+          "count": 7,
+          "mean": 42.9
+        },
+        "4.14": {
+          "count": 25,
+          "mean": 52.0
+        }
+      }
+    },
+    "Skarner": {
+      "partidas": 5,
+      "winrate": 20.0,
+      "posicoes": {
+        "jng": 5
+      },
+      "winrate_por_patch": {
+        "4.1": {
+          "count": 3,
+          "mean": 33.3
+        }
+      }
+    },
+    "Irelia": {
+      "partidas": 112,
+      "winrate": 45.5,
+      "posicoes": {
+        "top": 112
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 19,
+          "mean": 15.8
+        },
+        "4.07": {
+          "count": 8,
+          "mean": 37.5
+        },
+        "4.08": {
+          "count": 10,
+          "mean": 60.0
+        },
+        "4.09": {
+          "count": 9,
+          "mean": 44.4
+        },
+        "4.1": {
+          "count": 7,
+          "mean": 28.6
+        },
+        "4.11": {
+          "count": 7,
+          "mean": 28.6
+        },
+        "4.12": {
+          "count": 18,
+          "mean": 55.6
+        },
+        "4.13": {
+          "count": 8,
+          "mean": 37.5
+        },
+        "4.14": {
+          "count": 17,
+          "mean": 58.8
+        }
+      }
+    },
+    "Aatrox": {
+      "partidas": 42,
+      "winrate": 59.5,
+      "posicoes": {
+        "top": 42
+      },
+      "winrate_por_patch": {
+        "4.09": {
+          "count": 7,
+          "mean": 57.1
+        },
+        "4.1": {
+          "count": 5,
+          "mean": 80.0
+        },
+        "4.11": {
+          "count": 9,
+          "mean": 44.4
+        },
+        "4.12": {
+          "count": 3,
+          "mean": 66.7
+        },
+        "4.13": {
+          "count": 7,
+          "mean": 42.9
+        }
+      }
+    },
+    "Nocturne": {
+      "partidas": 41,
+      "winrate": 58.5,
+      "posicoes": {
+        "jng": 40,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 20,
+          "mean": 55.0
+        },
+        "4.09": {
+          "count": 5,
+          "mean": 40.0
+        },
+        "4.12": {
+          "count": 3,
+          "mean": 33.3
+        },
+        "4.14": {
+          "count": 7,
+          "mean": 71.4
+        }
+      }
+    },
+    "Swain": {
+      "partidas": 6,
+      "winrate": 66.7,
+      "posicoes": {
+        "top": 5,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "4.13": {
+          "count": 4,
+          "mean": 75.0
+        }
+      }
+    },
+    "Ryze": {
+      "partidas": 133,
+      "winrate": 50.4,
+      "posicoes": {
+        "top": 97,
+        "mid": 36
+      },
+      "winrate_por_patch": {
+        "4.03": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.04": {
+          "count": 17,
+          "mean": 41.2
+        },
+        "4.05": {
+          "count": 23,
+          "mean": 43.5
+        },
+        "4.1": {
+          "count": 10,
+          "mean": 60.0
+        },
+        "4.11": {
+          "count": 9,
+          "mean": 88.9
+        },
+        "4.12": {
+          "count": 9,
+          "mean": 33.3
+        },
+        "4.13": {
+          "count": 6,
+          "mean": 33.3
+        },
+        "4.14": {
+          "count": 53,
+          "mean": 54.7
+        }
+      }
+    },
+    "Jayce": {
+      "partidas": 19,
+      "winrate": 52.6,
+      "posicoes": {
+        "mid": 12,
+        "top": 7
+      },
+      "winrate_por_patch": {
+        "4.14": {
+          "count": 13,
+          "mean": 61.5
+        }
+      }
+    },
+    "Jarvan IV": {
+      "partidas": 82,
+      "winrate": 45.1,
+      "posicoes": {
+        "jng": 79,
+        "top": 2,
+        "bot": 1
+      },
+      "winrate_por_patch": {
+        "4.09": {
+          "count": 12,
+          "mean": 66.7
+        },
+        "4.1": {
+          "count": 7,
+          "mean": 28.6
+        },
+        "4.11": {
+          "count": 8,
+          "mean": 62.5
+        },
+        "4.12": {
+          "count": 14,
+          "mean": 57.1
+        },
+        "4.13": {
+          "count": 16,
+          "mean": 43.8
+        },
+        "4.14": {
+          "count": 19,
+          "mean": 31.6
+        }
+      }
+    },
+    "Yorick": {
+      "partidas": 10,
+      "winrate": 30.0,
+      "posicoes": {
+        "top": 8,
+        "jng": 2
+      },
+      "winrate_por_patch": {
+        "4.11": {
+          "count": 3,
+          "mean": 0.0
+        }
+      }
+    },
+    "Corki": {
+      "partidas": 148,
+      "winrate": 48.0,
+      "posicoes": {
+        "bot": 147,
+        "mid": 1
+      },
+      "winrate_por_patch": {
+        "4.04": {
+          "count": 6,
+          "mean": 50.0
+        },
+        "4.05": {
+          "count": 16,
+          "mean": 37.5
+        },
+        "4.07": {
+          "count": 4,
+          "mean": 0.0
+        },
+        "4.08": {
+          "count": 8,
+          "mean": 37.5
+        },
+        "4.09": {
+          "count": 14,
+          "mean": 57.1
+        },
+        "4.1": {
+          "count": 8,
+          "mean": 50.0
+        },
+        "4.11": {
+          "count": 13,
+          "mean": 53.8
+        },
+        "4.12": {
+          "count": 24,
+          "mean": 54.2
+        },
+        "4.13": {
+          "count": 12,
+          "mean": 50.0
+        },
+        "4.14": {
+          "count": 43,
+          "mean": 48.8
+        }
+      }
+    },
+    "Kog'Maw": {
+      "partidas": 157,
+      "winrate": 52.2,
+      "posicoes": {
+        "bot": 155,
+        "mid": 2
+      },
+      "winrate_por_patch": {
+        "4.07": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.08": {
+          "count": 9,
+          "mean": 33.3
+        },
+        "4.09": {
+          "count": 7,
+          "mean": 42.9
+        },
+        "4.1": {
+          "count": 16,
+          "mean": 43.8
+        },
+        "4.11": {
+          "count": 16,
+          "mean": 43.8
+        },
+        "4.12": {
+          "count": 43,
+          "mean": 62.8
+        },
+        "4.13": {
+          "count": 25,
+          "mean": 64.0
+        },
+        "4.14": {
+          "count": 36,
+          "mean": 47.2
+        }
+      }
+    },
+    "Twisted Fate": {
+      "partidas": 73,
+      "winrate": 53.4,
+      "posicoes": {
+        "mid": 73
+      },
+      "winrate_por_patch": {
+        "4.05": {
+          "count": 10,
+          "mean": 60.0
+        },
+        "4.07": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.08": {
+          "count": 4,
+          "mean": 0.0
+        },
+        "4.09": {
+          "count": 10,
+          "mean": 70.0
+        },
+        "4.1": {
+          "count": 14,
+          "mean": 78.6
+        },
+        "4.11": {
+          "count": 9,
+          "mean": 66.7
+        },
+        "4.12": {
+          "count": 9,
+          "mean": 33.3
+        },
+        "4.13": {
+          "count": 4,
+          "mean": 50.0
+        },
+        "4.14": {
+          "count": 9,
+          "mean": 33.3
+        }
+      }
+    },
+    "Braum": {
+      "partidas": 146,
+      "winrate": 50.7,
+      "posicoes": {
+        "sup": 146
+      },
+      "winrate_por_patch": {
+        "4.09": {
+          "count": 26,
+          "mean": 42.3
+        },
+        "4.1": {
+          "count": 18,
+          "mean": 61.1
+        },
+        "4.11": {
+          "count": 27,
+          "mean": 55.6
+        },
+        "4.12": {
+          "count": 35,
+          "mean": 48.6
+        },
+        "4.13": {
+          "count": 11,
+          "mean": 45.5
+        },
+        "4.14": {
+          "count": 29,
+          "mean": 51.7
+        }
+      }
+    },
+    "Rengar": {
+      "partidas": 58,
+      "winrate": 48.3,
+      "posicoes": {
+        "jng": 56,
+        "top": 2
+      },
+      "winrate_por_patch": {
+        "4.09": {
+          "count": 4,
+          "mean": 25.0
+        },
+        "4.11": {
+          "count": 9,
+          "mean": 33.3
+        },
+        "4.12": {
+          "count": 14,
+          "mean": 21.4
+        },
+        "4.13": {
+          "count": 15,
+          "mean": 53.3
+        },
+        "4.14": {
+          "count": 14,
+          "mean": 85.7
+        }
+      }
+    },
+    "Maokai": {
+      "partidas": 86,
+      "winrate": 60.5,
+      "posicoes": {
+        "top": 84,
+        "jng": 2
+      },
+      "winrate_por_patch": {
+        "4.12": {
+          "count": 16,
+          "mean": 56.2
+        },
+        "4.13": {
+          "count": 23,
+          "mean": 60.9
+        },
+        "4.14": {
+          "count": 46,
+          "mean": 60.9
+        }
+      }
+    }
+  },
+  "draft": {
+    "bans_mais_comuns": {
+      "Kassadin": 458,
+      "Lulu": 227,
+      "Lee Sin": 223,
+      "Nidalee": 215,
+      "LeBlanc": 212,
+      "Yasuo": 198,
+      "Ziggs": 190,
+      "Elise": 176,
+      "Evelynn": 156,
+      "Jax": 154,
+      "Kha'Zix": 150,
+      "Thresh": 150,
+      "Kayle": 150,
+      "Ryze": 118,
+      "Alistar": 116,
+      "Gragas": 112,
+      "Maokai": 101,
+      "Zilean": 101,
+      "Twisted Fate": 89,
+      "Orianna": 89
+    }
+  }
+}

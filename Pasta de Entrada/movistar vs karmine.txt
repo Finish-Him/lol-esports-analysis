@@ -1,0 +1,91 @@
+Primeiro mapa - 
+
+
+Movistar KOI Vs Karmine Corp
+
+Kill handicap
+(-1.5)
+1.82
+(1.5)
+1.82
+Total kills
+mais de 26.5
+1.85
+menos de 26.5
+1.85
+Duração
+00:00 - 32:59
+1.70
+33:00+
+2.00
+Primeiro mapa - kill handicap
+(-2.5)
+Movistar KOI
+1.88
+(2.5)
+Karmine Corp
+1.80
+(-1.5)
+Movistar KOI
+1.82
+(1.5)
+Karmine Corp
+1.82
+(-0.5)
+Movistar KOI
+1.80
+(0.5)
+Karmine Corp
+1.88
+Primeiro mapa - total kills
+mais de 24.5
+1.52
+menos de 24.5
+2.35
+mais de 25.5
+1.68
+menos de 25.5
+2.05
+mais de 26.5
+1.85
+menos de 26.5
+1.85
+mais de 27.5
+2.05
+menos de 27.5
+1.68
+mais de 28.5
+2.30
+menos de 28.5
+1.55
+Primeiro mapa - duração
+00:00 - 30:59
+2.50
+31:00+
+1.45
+00:00 - 31:59
+2.00
+32:00+
+1.70
+00:00 - 32:59
+1.70
+33:00+
+2.00
+00:00 - 33:59
+1.45
+34:00+
+2.50
+00:00 - 34:59
+1.32
+35:00+
+3.00
+Primeiro mapa - Movistar KOI total de kills
+mais de 13.5
+1.75
+menos de 13.5
+1.92
+Primeiro mapa - Karmine Corp total de kills
+mais de 13.5
+1.85
+menos de 13.5
+1.82
